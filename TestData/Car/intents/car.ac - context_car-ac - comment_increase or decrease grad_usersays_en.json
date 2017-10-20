@@ -1,0 +1,229 @@
+[
+  {
+    "id": "e138d604-fc12-4856-8d6c-612f338c9a7f",
+    "data": [
+      {
+        "text": "by ",
+        "userDefined": false
+      },
+      {
+        "text": "5",
+        "alias": "change-value",
+        "meta": "@sys.number",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "c454e8c4-d0ee-4dba-ba33-13592647613f",
+    "data": [
+      {
+        "text": "to ",
+        "userDefined": false
+      },
+      {
+        "text": "7",
+        "alias": "final-value",
+        "meta": "@sys.number",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8ccb4586-2621-4e69-a674-20e670d2924e",
+    "data": [
+      {
+        "text": "to ",
+        "userDefined": false
+      },
+      {
+        "text": "6",
+        "alias": "final-value",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " points",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1f33d6b6-efc4-4d0f-b751-6b4a829e28f7",
+    "data": [
+      {
+        "text": "by ",
+        "userDefined": false
+      },
+      {
+        "text": "10",
+        "alias": "change-value",
+        "meta": "@sys.number",
+        "userDefined": true
+      },
+      {
+        "text": " points",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "03494dbd-e19b-4e15-975b-fdbd294c5a87",
+    "data": [
+      {
+        "text": "to ",
+        "userDefined": false
+      },
+      {
+        "text": "8",
+        "alias": "final-value",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " then",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "43855333-dfe8-4d2a-9542-48b98b31ddef",
+    "data": [
+      {
+        "text": "to ",
+        "userDefined": false
+      },
+      {
+        "text": "5",
+        "alias": "final-value",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "now",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6636a8f5-29a7-4102-88b8-343950fd5001",
+    "data": [
+      {
+        "text": "to ",
+        "userDefined": false
+      },
+      {
+        "text": "6",
+        "alias": "final-value",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "now",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0a3cbb09-e968-45c5-ba93-6b51188146d2",
+    "data": [
+      {
+        "text": "to ",
+        "userDefined": false
+      },
+      {
+        "text": "5",
+        "alias": "final-value",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "right now",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1855f51f-d6c2-4923-9dd8-246a3b16f6d1",
+    "data": [
+      {
+        "text": "and to ",
+        "userDefined": false
+      },
+      {
+        "text": "6",
+        "alias": "final-value",
+        "meta": "@sys.number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "39551f98-b4cd-4176-8fd6-d8b8ddb31963",
+    "data": [
+      {
+        "text": "to ",
+        "userDefined": false
+      },
+      {
+        "text": "5",
+        "alias": "final-value",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " points please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

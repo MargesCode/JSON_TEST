@@ -1,0 +1,230 @@
+[
+  {
+    "id": "adfb122b-4f82-4122-a267-901680063e3a",
+    "data": [
+      {
+        "text": "unlock",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "windows",
+        "alias": "car-part",
+        "meta": "@car-part",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "in",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "the car",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "dabec690-37a7-49ec-957b-f6b5e3b03634",
+    "data": [
+      {
+        "text": "unlock",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " the ",
+        "userDefined": false
+      },
+      {
+        "text": "luggage compartment",
+        "alias": "car-part",
+        "meta": "@car-part",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6c5864f4-0420-4770-9141-4a52059da84d",
+    "data": [
+      {
+        "text": "unlock the ",
+        "userDefined": false
+      },
+      {
+        "text": "door",
+        "alias": "car-part",
+        "meta": "@car-part",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "399d0e0b-bbba-405f-9eaf-7ac73f506a75",
+    "data": [
+      {
+        "text": "unlock the ",
+        "userDefined": false
+      },
+      {
+        "text": "driver\u0027s door",
+        "alias": "car-part",
+        "meta": "@car-part",
+        "userDefined": false
+      },
+      {
+        "text": " for me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bda3513d-2335-41ca-9520-a1f88317db19",
+    "data": [
+      {
+        "text": "will",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "you",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " unlock the ",
+        "userDefined": false
+      },
+      {
+        "text": "rear left window",
+        "alias": "car-part",
+        "meta": "@car-part",
+        "userDefined": false
+      },
+      {
+        "text": " for me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c4317037-f1a4-4b13-9f79-7a62502768e9",
+    "data": [
+      {
+        "text": "can",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "you",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " please unlock ",
+        "userDefined": false
+      },
+      {
+        "text": "all",
+        "alias": "all",
+        "meta": "@all",
+        "userDefined": false
+      },
+      {
+        "text": " the ",
+        "userDefined": false
+      },
+      {
+        "text": "windows",
+        "alias": "car-part",
+        "meta": "@car-part",
+        "userDefined": false
+      },
+      {
+        "text": " in my ",
+        "userDefined": false
+      },
+      {
+        "text": "car",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e069fc77-c65c-4683-aaad-aa2b30047e9c",
+    "data": [
+      {
+        "text": "unlock ",
+        "userDefined": false
+      },
+      {
+        "text": "all",
+        "alias": "all",
+        "meta": "@all",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "doors",
+        "alias": "car-part",
+        "meta": "@car-part",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "the car",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

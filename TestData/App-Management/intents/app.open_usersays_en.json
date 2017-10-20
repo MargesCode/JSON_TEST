@@ -1,0 +1,709 @@
+[
+  {
+    "id": "d202c8f3-1739-4760-a9b4-30e1f9387dbc",
+    "data": [
+      {
+        "text": "open ",
+        "userDefined": false
+      },
+      {
+        "text": "browser",
+        "alias": "app-name",
+        "meta": "@app-name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a340d8f2-301b-4f60-a491-8a125bbf5382",
+    "data": [
+      {
+        "text": "open application ",
+        "userDefined": false
+      },
+      {
+        "text": "Gmail",
+        "alias": "app-name",
+        "meta": "@app-name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c51c9e7b-497b-492a-86b1-cb0f4f370ad6",
+    "data": [
+      {
+        "text": "open",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Angry Birds",
+        "alias": "app-name",
+        "meta": "@app-name",
+        "userDefined": true
+      },
+      {
+        "text": " application",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0ee04286-1d73-44bd-a6d4-b89b4d49f7df",
+    "data": [
+      {
+        "text": "access ",
+        "userDefined": false
+      },
+      {
+        "text": "Twitter",
+        "alias": "app-name",
+        "meta": "@app-name",
+        "userDefined": true
+      },
+      {
+        "text": " app",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "577f40ee-9c7c-42f0-b9af-59c04ffa6692",
+    "data": [
+      {
+        "text": "go to ",
+        "userDefined": false
+      },
+      {
+        "text": "camera",
+        "alias": "app-name",
+        "meta": "@app-name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "c854ebde-9fbc-4010-897c-9115561ccb69",
+    "data": [
+      {
+        "text": "may",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " you ",
+        "userDefined": false
+      },
+      {
+        "text": "open",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " apps",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "5442b7f5-31b0-4bfe-a5c6-4af83251fc0c",
+    "data": [
+      {
+        "text": "launch ",
+        "userDefined": false
+      },
+      {
+        "text": "Facebook",
+        "alias": "app-name",
+        "meta": "@app-name",
+        "userDefined": true
+      },
+      {
+        "text": " application",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "523b1781-c211-4e7a-a54e-e6a158ba7c64",
+    "data": [
+      {
+        "text": "open",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Play Store",
+        "alias": "store-name",
+        "meta": "@app-store-name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b23746c8-8718-4757-a5c1-1ed9c5718cfe",
+    "data": [
+      {
+        "text": "open",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " application ",
+        "userDefined": false
+      },
+      {
+        "text": "Instagram",
+        "alias": "app-name",
+        "meta": "@app-name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9512f0af-e5a0-478e-93dc-3a9366d23d19",
+    "data": [
+      {
+        "text": "pull up ",
+        "userDefined": false
+      },
+      {
+        "text": "App Store",
+        "alias": "store-name",
+        "meta": "@app-store-name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d151954e-0805-463c-aa7d-dac1cf286734",
+    "data": [
+      {
+        "text": "access ",
+        "userDefined": false
+      },
+      {
+        "text": "Gallery",
+        "alias": "app-name",
+        "meta": "@app-name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "fb40e544-6cbd-4f1f-bc30-78b3228eeb1b",
+    "data": [
+      {
+        "text": "application",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "949fc7aa-e939-4a47-a0c7-4f1acb97812c",
+    "data": [
+      {
+        "text": "can",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " you launch ",
+        "userDefined": false
+      },
+      {
+        "text": "Spotify",
+        "alias": "app-name",
+        "meta": "@app-name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a2733b20-6ce3-4dc3-be7d-4e998eb34453",
+    "data": [
+      {
+        "text": "app ",
+        "userDefined": false
+      },
+      {
+        "text": "Viber",
+        "alias": "app-name",
+        "meta": "@app-name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "12c6b243-608b-4504-800f-fc8cc83e6ab2",
+    "data": [
+      {
+        "text": "open ",
+        "userDefined": false
+      },
+      {
+        "text": "Safari",
+        "alias": "app-name",
+        "meta": "@app-name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8ff445ac-8429-48a9-a88a-4095494c6cac",
+    "data": [
+      {
+        "text": "play ",
+        "userDefined": false
+      },
+      {
+        "text": "Cut the rope",
+        "alias": "app-name",
+        "meta": "@app-name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5a434312-e52f-4362-9399-c27e4f3304cb",
+    "data": [
+      {
+        "text": "can you ",
+        "userDefined": false
+      },
+      {
+        "text": "open",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " app",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6b36c671-8477-4346-bd7d-b03a9001bd6c",
+    "data": [
+      {
+        "text": "can you ",
+        "userDefined": false
+      },
+      {
+        "text": "open",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " my ",
+        "userDefined": false
+      },
+      {
+        "text": "Facebook",
+        "alias": "app-name",
+        "meta": "@app-name",
+        "userDefined": true
+      },
+      {
+        "text": " app",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e55c5a3a-b9dc-48ed-9ca3-bbd67b7d1ca8",
+    "data": [
+      {
+        "text": "can you ",
+        "userDefined": false
+      },
+      {
+        "text": "open",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Subway Surfer",
+        "alias": "app-name",
+        "meta": "@app-name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a9c00a9f-44e5-42a7-acae-8d2652fd1a8d",
+    "data": [
+      {
+        "text": "go to app ",
+        "userDefined": false
+      },
+      {
+        "text": "Netflix",
+        "alias": "app-name",
+        "meta": "@app-name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e8bd378c-015f-4fc1-bc07-a7e641fd14aa",
+    "data": [
+      {
+        "text": "could you launch ",
+        "userDefined": false
+      },
+      {
+        "text": "Twitter",
+        "alias": "app-name",
+        "meta": "@app-name",
+        "userDefined": true
+      },
+      {
+        "text": " please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b3b8f20d-7946-4a23-993a-1ff848179649",
+    "data": [
+      {
+        "text": "go to ",
+        "userDefined": false
+      },
+      {
+        "text": "App Store",
+        "alias": "store-name",
+        "meta": "@app-store-name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "28e1ce2e-ed0c-4c37-84d7-2b3422bb6ac5",
+    "data": [
+      {
+        "text": "go to ",
+        "userDefined": false
+      },
+      {
+        "text": "my photos",
+        "alias": "app-name",
+        "meta": "@app-name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3f5c4d9d-ab6f-4e94-a720-a3727fe83d84",
+    "data": [
+      {
+        "text": "go to ",
+        "userDefined": false
+      },
+      {
+        "text": "my pictures",
+        "alias": "app-name",
+        "meta": "@app-name",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "on",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " my phone",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0f71c92c-cce0-486a-b1a1-200d6844e3d1",
+    "data": [
+      {
+        "text": "I would like to ",
+        "userDefined": false
+      },
+      {
+        "text": "open",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " the ",
+        "userDefined": false
+      },
+      {
+        "text": "Task Manager",
+        "alias": "app-name",
+        "meta": "@app-name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5491e450-71f4-4fe2-a734-9cf6fcdd83f6",
+    "data": [
+      {
+        "text": "launch application",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "dc38cbbd-5c0b-4aba-8920-523150dc8305",
+    "data": [
+      {
+        "text": "Viber",
+        "alias": "app-name",
+        "meta": "@app-name",
+        "userDefined": true
+      },
+      {
+        "text": " app",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "45adcf2a-ee91-4b71-a42c-0cfbc12d63d5",
+    "data": [
+      {
+        "text": "turn ",
+        "userDefined": false
+      },
+      {
+        "text": "on",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Flashlight",
+        "alias": "app-name",
+        "meta": "@app-name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "92515a24-f4c6-46bb-923b-282c3053c0c7",
+    "data": [
+      {
+        "text": "go to my ",
+        "userDefined": false
+      },
+      {
+        "text": "music",
+        "alias": "app-name",
+        "meta": "@app-name",
+        "userDefined": true
+      },
+      {
+        "text": " app",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d0ea4657-d29f-4f92-affb-2dfc915859da",
+    "data": [
+      {
+        "text": "take me to my ",
+        "userDefined": false
+      },
+      {
+        "text": "music",
+        "alias": "app-name",
+        "meta": "@app-name",
+        "userDefined": true
+      },
+      {
+        "text": " app",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "aa3042ce-28d2-4e00-ba5c-8201cceab8c0",
+    "data": [
+      {
+        "text": "take me to ",
+        "userDefined": false
+      },
+      {
+        "text": "Ringtonium",
+        "alias": "app-name",
+        "meta": "@app-name",
+        "userDefined": true
+      },
+      {
+        "text": " app",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2ff357ba-e4fb-45ad-9ca2-f0213ceaaae7",
+    "data": [
+      {
+        "text": "take me to ",
+        "userDefined": false
+      },
+      {
+        "text": "YouTube",
+        "alias": "app-name",
+        "meta": "@app-name",
+        "userDefined": true
+      },
+      {
+        "text": " app",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9fb1baef-f2f5-460f-a7df-f58f9d4552e4",
+    "data": [
+      {
+        "text": "turn ",
+        "userDefined": false
+      },
+      {
+        "text": "on",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "camera",
+        "alias": "app-name",
+        "meta": "@app-name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

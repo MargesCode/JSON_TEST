@@ -1,0 +1,36 @@
+{
+  "id": "58f2be9b-294a-4bb9-9e82-5b019ef24c06",
+  "name": "app.version.summary",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "app.version.summary",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "1af69efd-130d-4dad-af74-a01c69f0488d",
+          "dataType": "@app-name",
+          "name": "app-name",
+          "value": "$app-name"
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1508382172435,
+  "fallbackIntent": false,
+  "events": []
+}

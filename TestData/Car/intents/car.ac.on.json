@@ -1,0 +1,74 @@
+{
+  "id": "2682e69f-c1d9-42d9-9e01-ab62566dcba9",
+  "name": "car.ac.on",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "car.ac.on",
+      "affectedContexts": [
+        {
+          "name": "car-ac",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "cb47684b-149e-4297-b707-2f4d2b333734",
+          "dataType": "@car-device",
+          "name": "device",
+          "value": "$device"
+        },
+        {
+          "id": "9c94dbd1-11a4-49b1-b124-e17b15914705",
+          "dataType": "@air-direction",
+          "name": "air-distribution",
+          "value": "$air-distribution",
+          "isList": true
+        },
+        {
+          "id": "323f7229-842a-4ca4-ade9-6ee5e90400df",
+          "dataType": "@sys.given-name",
+          "name": "passenger",
+          "value": "$passenger"
+        },
+        {
+          "id": "8a71f49f-bb96-48ca-9bbb-380110c5f9d6",
+          "dataType": "@sys.number",
+          "name": "final-value",
+          "value": "$final-value"
+        },
+        {
+          "id": "4f453a59-3b0e-4bbf-b909-6b0624472b5a",
+          "dataType": "@automode",
+          "name": "automode",
+          "value": "$automode"
+        },
+        {
+          "id": "cfe4a585-d1d3-4dd3-8ec6-4302a1152891",
+          "dataType": "@car-seat",
+          "name": "car-part",
+          "value": "$car-part",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1508382216664,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,303 @@
+[
+  {
+    "id": "d5117af8-8d49-4dea-aea5-769e3714b5ba",
+    "data": [
+      {
+        "text": "temperature ",
+        "userDefined": false
+      },
+      {
+        "text": "up",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " to ",
+        "userDefined": false
+      },
+      {
+        "text": "5",
+        "alias": "final-value",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " degrees when I ",
+        "userDefined": false
+      },
+      {
+        "text": "leave",
+        "alias": "condition",
+        "meta": "@condition",
+        "userDefined": false
+      },
+      {
+        "text": " the car",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3f06d627-8011-4a5f-84e0-11ffd3a50c70",
+    "data": [
+      {
+        "text": "turn ",
+        "userDefined": false
+      },
+      {
+        "text": "up",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " the temperature for ",
+        "userDefined": false
+      },
+      {
+        "text": "driver",
+        "alias": "car-part",
+        "meta": "@car-seat",
+        "userDefined": false
+      },
+      {
+        "text": " when she ",
+        "userDefined": false
+      },
+      {
+        "text": "gets in",
+        "alias": "condition",
+        "meta": "@condition",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c8e460fb-5628-4419-9f02-77e49899dba4",
+    "data": [
+      {
+        "text": "turn up the temperature of ",
+        "userDefined": false
+      },
+      {
+        "text": "air conditioner",
+        "alias": "device",
+        "meta": "@heating",
+        "userDefined": true
+      },
+      {
+        "text": " to ",
+        "userDefined": false
+      },
+      {
+        "text": "25",
+        "alias": "final-value",
+        "meta": "@sys.number",
+        "userDefined": true
+      },
+      {
+        "text": " degrees in the car when I ",
+        "userDefined": false
+      },
+      {
+        "text": "get in",
+        "alias": "condition",
+        "meta": "@condition",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b7f989d3-f27b-4fb0-9065-72830a46d07d",
+    "data": [
+      {
+        "text": "turn up the temperature of ",
+        "userDefined": false
+      },
+      {
+        "text": "air conditioner",
+        "alias": "device",
+        "meta": "@heating",
+        "userDefined": true
+      },
+      {
+        "text": " for ",
+        "userDefined": false
+      },
+      {
+        "text": "5",
+        "alias": "change-value",
+        "meta": "@sys.number",
+        "userDefined": true
+      },
+      {
+        "text": " points in the car when I ",
+        "userDefined": false
+      },
+      {
+        "text": "get in",
+        "alias": "condition",
+        "meta": "@condition",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "68932010-3fa7-4462-8638-266765fcead3",
+    "data": [
+      {
+        "text": "turn",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "up",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " the ",
+        "userDefined": false
+      },
+      {
+        "text": "temperature",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " for ",
+        "userDefined": false
+      },
+      {
+        "text": "Mary",
+        "alias": "passenger",
+        "meta": "@sys.given-name",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "when",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " she ",
+        "userDefined": false
+      },
+      {
+        "text": "gets in",
+        "alias": "condition",
+        "meta": "@condition",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a924a4de-9964-4dc7-882e-ca0fba7ee8c8",
+    "data": [
+      {
+        "text": "turn",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "up",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " the ",
+        "userDefined": false
+      },
+      {
+        "text": "temperature",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "of",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "air conditioner",
+        "alias": "device",
+        "meta": "@heating",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "in",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "the car",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "when",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " I ",
+        "userDefined": false
+      },
+      {
+        "text": "get in",
+        "alias": "condition",
+        "meta": "@condition",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

@@ -1,0 +1,42 @@
+{
+  "id": "78544b85-fca0-4b85-ae5e-09c93d89e44a",
+  "name": "car.lights.switch.check.off",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "car.lights.switch.check.off",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "f209fee5-8460-4ca6-8626-a4a441c13edd",
+          "dataType": "@car-light",
+          "name": "car-part",
+          "value": "$car-part"
+        },
+        {
+          "id": "89ef3abe-5f40-4799-8aca-c66cd5c0f590",
+          "dataType": "@all",
+          "name": "all",
+          "value": "$all"
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1508382216730,
+  "fallbackIntent": false,
+  "events": []
+}

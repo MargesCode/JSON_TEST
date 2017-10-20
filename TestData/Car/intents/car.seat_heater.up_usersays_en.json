@@ -1,0 +1,452 @@
+[
+  {
+    "id": "bfd0391b-31a8-41cc-ba98-00678912bfdf",
+    "data": [
+      {
+        "text": "make the ",
+        "userDefined": false
+      },
+      {
+        "text": "driver\u0027s seat",
+        "alias": "car-part",
+        "meta": "@car-seat",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "5",
+        "alias": "temperature",
+        "meta": "@sys.number",
+        "userDefined": true
+      },
+      {
+        "text": " degrees warmer",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "98fbadad-7e57-41d2-8cf9-52807273e3d0",
+    "data": [
+      {
+        "text": "the ",
+        "userDefined": false
+      },
+      {
+        "text": "driver\u0027s seat",
+        "alias": "car-part",
+        "meta": "@car-seat",
+        "userDefined": true
+      },
+      {
+        "text": " is too cold",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5ee62535-da27-492c-bf40-ccc3c7af4d00",
+    "data": [
+      {
+        "text": "make ",
+        "userDefined": false
+      },
+      {
+        "text": "my seat",
+        "alias": "car-part",
+        "meta": "@car-seat",
+        "userDefined": true
+      },
+      {
+        "text": " warmer",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "23e40550-dd5d-48c3-97ef-a6c56cad1ebe",
+    "data": [
+      {
+        "text": "turn the ",
+        "userDefined": false
+      },
+      {
+        "text": "heater",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " for both ",
+        "userDefined": false
+      },
+      {
+        "text": "left seats",
+        "alias": "car-part",
+        "meta": "@car-seat",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "up",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "35aac085-6145-4b60-8621-d9da94d1f156",
+    "data": [
+      {
+        "text": "warm",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "baby seat",
+        "alias": "car-part",
+        "meta": "@car-seat",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "up",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ffbf78bc-3874-45b1-9b16-7a95a62f0349",
+    "data": [
+      {
+        "text": "warm",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "up",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "driver\u0027s seat",
+        "alias": "car-part",
+        "meta": "@car-seat",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "de444ac7-6fdf-4dbd-9e57-2bae8e02ffb4",
+    "data": [
+      {
+        "text": "turn ",
+        "userDefined": false
+      },
+      {
+        "text": "up",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " the ",
+        "userDefined": false
+      },
+      {
+        "text": "heater",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " for ",
+        "userDefined": false
+      },
+      {
+        "text": "rear left seat",
+        "alias": "car-part",
+        "meta": "@car-seat",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1726c47c-10a0-4756-a5ed-10106269b172",
+    "data": [
+      {
+        "text": "turn ",
+        "userDefined": false
+      },
+      {
+        "text": "up",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " the temperature of ",
+        "userDefined": false
+      },
+      {
+        "text": "my seat",
+        "alias": "car-part",
+        "meta": "@car-seat",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "efbc051d-65b2-433d-95f1-4e1b11c97638",
+    "data": [
+      {
+        "text": "turn",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "up",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " the air ",
+        "userDefined": false
+      },
+      {
+        "text": "temperature",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " for ",
+        "userDefined": false
+      },
+      {
+        "text": "driver\u0027s seat",
+        "alias": "car-part",
+        "meta": "@car-seat",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b9af4eca-8358-44c8-8c59-59d40114b43d",
+    "data": [
+      {
+        "text": "please make ",
+        "userDefined": false
+      },
+      {
+        "text": "Jack",
+        "alias": "passenger",
+        "meta": "@sys.given-name",
+        "userDefined": true
+      },
+      {
+        "text": "\u0027s seat warmer",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "129f5928-2b9a-492b-acd2-7146114a5087",
+    "data": [
+      {
+        "text": "turn up the temperature for ",
+        "userDefined": false
+      },
+      {
+        "text": "driver\u0027s seat",
+        "alias": "car-part",
+        "meta": "@car-seat",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "25c6b653-6796-4548-801f-95d4a88cf80b",
+    "data": [
+      {
+        "text": "passenger seat",
+        "alias": "car-part",
+        "meta": "@car-seat",
+        "userDefined": true
+      },
+      {
+        "text": " is too cold",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8d608402-9456-46ad-9f57-6db5d7de2a21",
+    "data": [
+      {
+        "text": "it",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": "\u0027s too ",
+        "userDefined": false
+      },
+      {
+        "text": "cold",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "in",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " the ",
+        "userDefined": false
+      },
+      {
+        "text": "backseat",
+        "alias": "car-part",
+        "meta": "@car-seat",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6b972e73-34a4-46bf-97a9-b2c5036b44cb",
+    "data": [
+      {
+        "text": "the ",
+        "userDefined": false
+      },
+      {
+        "text": "passenger seat",
+        "alias": "car-part",
+        "meta": "@car-seat",
+        "userDefined": true
+      },
+      {
+        "text": " is freezing",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "430a966f-f87d-4ff9-9064-8db1eb846d11",
+    "data": [
+      {
+        "text": "can you warm up ",
+        "userDefined": false
+      },
+      {
+        "text": "Nolan",
+        "alias": "passenger",
+        "meta": "@sys.given-name",
+        "userDefined": true
+      },
+      {
+        "text": "\u0027s seat",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5e7b2f6b-79cd-45b3-af13-4cae466aeb3b",
+    "data": [
+      {
+        "text": "the ",
+        "userDefined": false
+      },
+      {
+        "text": "passenger seat",
+        "alias": "car-part",
+        "meta": "@car-seat",
+        "userDefined": false
+      },
+      {
+        "text": " is ",
+        "userDefined": false
+      },
+      {
+        "text": "freezing",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

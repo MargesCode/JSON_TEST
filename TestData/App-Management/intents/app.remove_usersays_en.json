@@ -1,0 +1,849 @@
+[
+  {
+    "id": "c5786504-eec6-40a8-87dc-f56468167a6c",
+    "data": [
+      {
+        "text": "uninstall ",
+        "userDefined": false
+      },
+      {
+        "text": "App Store",
+        "alias": "store-name",
+        "meta": "@app-store-name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "63dcc83c-2302-477d-a963-776e5891bf3e",
+    "data": [
+      {
+        "text": "I\u0027d like to remove an app",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0cfe3d47-6c80-486a-83cc-861fa2437cb5",
+    "data": [
+      {
+        "text": "uninstall ",
+        "userDefined": false
+      },
+      {
+        "text": "Viber",
+        "alias": "app-name",
+        "meta": "@app-name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "f39b6124-2964-4817-8c84-6329990324ac",
+    "data": [
+      {
+        "text": "remove my ",
+        "userDefined": false
+      },
+      {
+        "text": "Twitter",
+        "alias": "app-name",
+        "meta": "@app-name",
+        "userDefined": true
+      },
+      {
+        "text": " application",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "775a7b53-aae0-4223-a3d4-0ee217a2c5b0",
+    "data": [
+      {
+        "text": "remove application ",
+        "userDefined": false
+      },
+      {
+        "text": "WhatsApp",
+        "alias": "app-name",
+        "meta": "@app-name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "14b53176-2296-48d3-9ec6-3f2c3ef9f5d5",
+    "data": [
+      {
+        "text": "I want to delete app ",
+        "userDefined": false
+      },
+      {
+        "text": "Skeevy",
+        "alias": "app-name",
+        "meta": "@app-name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a1c77864-55bf-4bf8-8096-639c8f1ae95b",
+    "data": [
+      {
+        "text": "could you remove the app ",
+        "userDefined": false
+      },
+      {
+        "text": "Soccer",
+        "alias": "app-name",
+        "meta": "@app-name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f74efe21-5afb-4013-a266-cc23c1c67475",
+    "data": [
+      {
+        "text": "delete ",
+        "userDefined": false
+      },
+      {
+        "text": "all",
+        "alias": "all",
+        "meta": "@all",
+        "userDefined": true
+      },
+      {
+        "text": " applications from my device",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6a5690e7-2094-4f48-9efb-44d7d87db50d",
+    "data": [
+      {
+        "text": "can you remove ",
+        "userDefined": false
+      },
+      {
+        "text": "TuneIn Radio Pro",
+        "alias": "app-name",
+        "meta": "@app-name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "846a9c98-de11-4885-9bac-33a005b68c7c",
+    "data": [
+      {
+        "text": "how can I get rid of ",
+        "userDefined": false
+      },
+      {
+        "text": "Viber",
+        "alias": "app-name",
+        "meta": "@app-name",
+        "userDefined": true
+      },
+      {
+        "text": " application",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3baf18e0-d513-4c13-ace1-e7adad07a771",
+    "data": [
+      {
+        "text": "please uninstall ",
+        "userDefined": false
+      },
+      {
+        "text": "Facebook Messenger",
+        "alias": "app-name",
+        "meta": "@app-name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "869fd9f5-8efd-4add-9768-30ac1c4452da",
+    "data": [
+      {
+        "text": "delete ",
+        "userDefined": false
+      },
+      {
+        "text": "Angry Birds",
+        "alias": "app-name",
+        "meta": "@app-name",
+        "userDefined": true
+      },
+      {
+        "text": " from my phone",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "10876907-7a93-441a-b506-69c61260e409",
+    "data": [
+      {
+        "text": "get",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " rid of ",
+        "userDefined": false
+      },
+      {
+        "text": "WhatsApp",
+        "alias": "app-name",
+        "meta": "@app-name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "21a286de-e8f7-42b6-aca5-5f27acc52ba3",
+    "data": [
+      {
+        "text": "remove ",
+        "userDefined": false
+      },
+      {
+        "text": "Fruit Ninja",
+        "alias": "app-name",
+        "meta": "@app-name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "64036a99-1887-470a-ab34-8f38581f675d",
+    "data": [
+      {
+        "text": "remove ",
+        "userDefined": false
+      },
+      {
+        "text": "all",
+        "alias": "all",
+        "meta": "@all",
+        "userDefined": true
+      },
+      {
+        "text": " apps",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "eed4f47b-5d32-420e-8d11-c8b7b6c7a5b8",
+    "data": [
+      {
+        "text": "remove application",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "48527016-f245-4043-bd6b-a84d62b70eaf",
+    "data": [
+      {
+        "text": "delete app",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "56a082d8-5ecf-4fcb-b280-0dc16c752ef1",
+    "data": [
+      {
+        "text": "remove ",
+        "userDefined": false
+      },
+      {
+        "text": "Twitter",
+        "alias": "app-name",
+        "meta": "@app-name",
+        "userDefined": true
+      },
+      {
+        "text": " app",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d049d733-1b99-4de3-8823-c1b76d4b94db",
+    "data": [
+      {
+        "text": "get",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " rid ",
+        "userDefined": false
+      },
+      {
+        "text": "of",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Chrome",
+        "alias": "app-name",
+        "meta": "@app-name",
+        "userDefined": false
+      },
+      {
+        "text": " app",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "38f44c11-3297-43f4-bf9f-659ceb011b29",
+    "data": [
+      {
+        "text": "uninstall app",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "512adb6c-dca0-4730-9493-6ef59ad3c3f4",
+    "data": [
+      {
+        "text": "delete apps",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "86d6a7d4-d057-43c5-acd8-98a2e7f3cf86",
+    "data": [
+      {
+        "text": "uninstall ",
+        "userDefined": false
+      },
+      {
+        "text": "WhatsApp",
+        "alias": "app-name",
+        "meta": "@app-name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "988d8512-17a0-4fe1-9662-ea7371638ded",
+    "data": [
+      {
+        "text": "can you delete apps",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "159c8bab-e635-455c-8caa-1d6dddb7def5",
+    "data": [
+      {
+        "text": "can you uninstall an app",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0661e600-f25d-4c57-9fc7-fd761e6355fa",
+    "data": [
+      {
+        "text": "uninstall application",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "49faef1d-bd92-40eb-800f-de74531c61b2",
+    "data": [
+      {
+        "text": "can you delete an app for me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0656cfc3-5dd8-491d-aa4d-2d5135d14af2",
+    "data": [
+      {
+        "text": "delete ",
+        "userDefined": false
+      },
+      {
+        "text": "YouTube",
+        "alias": "app-name",
+        "meta": "@app-name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c73ba99f-22fd-4b38-8a31-1944e23e0fff",
+    "data": [
+      {
+        "text": "can you uninstall an app for me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a09c00d4-1813-4cce-92f0-fb5aa01eaa32",
+    "data": [
+      {
+        "text": "can you delete an app",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "02f4b98a-2ac3-419a-9fc7-6f84593a71fa",
+    "data": [
+      {
+        "text": "delete ",
+        "userDefined": false
+      },
+      {
+        "text": "all",
+        "alias": "all",
+        "meta": "@all",
+        "userDefined": true
+      },
+      {
+        "text": " apps",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "88da9dbe-e324-4e3d-96f4-787d867d820a",
+    "data": [
+      {
+        "text": "I want to uninstall an app",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "069abef2-1685-45b7-a134-3a4888a6a09c",
+    "data": [
+      {
+        "text": "uninstall program",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "31866933-9850-44f5-9900-079f21ff2310",
+    "data": [
+      {
+        "text": "how do I delete an app",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "94fc0dd9-247f-4041-b1e2-93084064503d",
+    "data": [
+      {
+        "text": "uninstall ",
+        "userDefined": false
+      },
+      {
+        "text": "all",
+        "alias": "all",
+        "meta": "@all",
+        "userDefined": true
+      },
+      {
+        "text": " my apps",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0ebe0eaf-7462-4c78-8c18-35447e8f5e97",
+    "data": [
+      {
+        "text": "I\u0027m",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " going to delete the app",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "26fcc377-9900-4644-bc44-8afa23f37ee5",
+    "data": [
+      {
+        "text": "can you delete apps for me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ccd1a478-c999-41f5-b3f0-203fdd70dda7",
+    "data": [
+      {
+        "text": "can",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " you uninstall ",
+        "userDefined": false
+      },
+      {
+        "text": "an",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " application",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "98046b7b-4e4f-4b62-90ea-725e9392f611",
+    "data": [
+      {
+        "text": "delete my apps",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "00d104cf-f1ef-478c-b479-d7722a28e8ef",
+    "data": [
+      {
+        "text": "delete ",
+        "userDefined": false
+      },
+      {
+        "text": "all",
+        "alias": "all",
+        "meta": "@all",
+        "userDefined": true
+      },
+      {
+        "text": " my apps",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3cbe1e86-ade4-4597-90f7-0329c799e21e",
+    "data": [
+      {
+        "text": "can you uninstall app",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0d8f7265-24e0-423b-97fd-f3a632b47fd5",
+    "data": [
+      {
+        "text": "how do I delete apps",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bc1d5997-342a-45fb-9300-7d68aecf6b19",
+    "data": [
+      {
+        "text": "I want to uninstall ",
+        "userDefined": false
+      },
+      {
+        "text": "App Store",
+        "alias": "store-name",
+        "meta": "@app-store-name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a9775f48-d771-49aa-a8c2-9907dc9fe43f",
+    "data": [
+      {
+        "text": "can you delete ",
+        "userDefined": false
+      },
+      {
+        "text": "all",
+        "alias": "all",
+        "meta": "@all",
+        "userDefined": true
+      },
+      {
+        "text": " my apps",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "da5b46ec-c1ec-453d-957d-5fa8ff02e7ed",
+    "data": [
+      {
+        "text": "can you uninstall my apps",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b71fb5a0-88ea-474f-97e8-e2d6ab89913c",
+    "data": [
+      {
+        "text": "how to delete the app ",
+        "userDefined": false
+      },
+      {
+        "text": "Viber",
+        "alias": "app-name",
+        "meta": "@app-name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bf043289-7c3d-4537-baf3-578287098d4c",
+    "data": [
+      {
+        "text": "can you delete applications",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bd99cd1c-1f45-456a-bf4f-cdfcf5da621c",
+    "data": [
+      {
+        "text": "can",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " you uninstall apps for me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b1b9b915-7130-40df-aefa-55ef0b029097",
+    "data": [
+      {
+        "text": "uninstall ",
+        "userDefined": false
+      },
+      {
+        "text": "all",
+        "alias": "all",
+        "meta": "@all",
+        "userDefined": true
+      },
+      {
+        "text": " apps",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d7cc3051-fb70-4f07-a527-6616954fd161",
+    "data": [
+      {
+        "text": "uninstall some app",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ff51dcc7-2670-4a00-8abe-98db449cc3ca",
+    "data": [
+      {
+        "text": "remove ",
+        "userDefined": false
+      },
+      {
+        "text": "Play Store",
+        "alias": "store-name",
+        "meta": "@app-store-name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

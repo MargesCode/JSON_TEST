@@ -1,0 +1,130 @@
+[
+  {
+    "value": "back-up light",
+    "synonyms": [
+      "back-up light",
+      "backup light",
+      "back up light"
+    ]
+  },
+  {
+    "value": "brake light",
+    "synonyms": [
+      "brake light"
+    ]
+  },
+  {
+    "value": "emergency light",
+    "synonyms": [
+      "emergency light"
+    ]
+  },
+  {
+    "value": "fog light",
+    "synonyms": [
+      "fog light",
+      "fog lights"
+    ]
+  },
+  {
+    "value": "head light",
+    "synonyms": [
+      "headlight",
+      "headlamp",
+      "head light",
+      "head lamp"
+    ]
+  },
+  {
+    "value": "high-beam head light",
+    "synonyms": [
+      "high-beam headlight",
+      "high beams",
+      "high beam",
+      "high-beam light",
+      "high beam lights"
+    ]
+  },
+  {
+    "value": "interior light",
+    "synonyms": [
+      "interior light"
+    ]
+  },
+  {
+    "value": "low-beam head light",
+    "synonyms": [
+      "low-beam headlight",
+      "low beams",
+      "low-beam",
+      "low beam",
+      "low-beam light",
+      "low beam lights"
+    ]
+  },
+  {
+    "value": "parking light",
+    "synonyms": [
+      "parking light"
+    ]
+  },
+  {
+    "value": "reverse light",
+    "synonyms": [
+      "reverse light",
+      "reverse lights"
+    ]
+  },
+  {
+    "value": "warning light",
+    "synonyms": [
+      "warning light"
+    ]
+  },
+  {
+    "value": "dashboard light",
+    "synonyms": [
+      "dashboard lights",
+      "dashboard light",
+      "dash board lights",
+      "dash board light"
+    ]
+  },
+  {
+    "value": "current user\u0027s light",
+    "synonyms": [
+      "my light"
+    ]
+  },
+  {
+    "value": "passenger\u0027s light",
+    "synonyms": [
+      "passengers light",
+      "passengers light",
+      "passenger\u0027s light"
+    ]
+  },
+  {
+    "value": "driver\u0027s light",
+    "synonyms": [
+      "driver lights",
+      "driver\u0027s lights"
+    ]
+  },
+  {
+    "value": "back seat light",
+    "synonyms": [
+      "back seat lights",
+      "lights for back seat"
+    ]
+  },
+  {
+    "value": "rear seat light",
+    "synonyms": [
+      "rear seat light",
+      "reat seat lights",
+      "lights for rear seats",
+      "light for rear seat"
+    ]
+  }
+]

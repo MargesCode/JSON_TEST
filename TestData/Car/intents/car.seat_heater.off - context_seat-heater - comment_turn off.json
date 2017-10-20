@@ -1,0 +1,31 @@
+{
+  "id": "6ec16051-a89f-4744-b2d2-eba57d921741",
+  "name": "car.seat_heater.off - context:seat-heater - comment:turn off",
+  "auto": true,
+  "contexts": [
+    "seat-heater"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "car.seat_heater.off",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1508382216519,
+  "fallbackIntent": false,
+  "events": []
+}

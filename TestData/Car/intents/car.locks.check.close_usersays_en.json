@@ -1,0 +1,235 @@
+[
+  {
+    "id": "26bfd99f-4c3c-4568-96a9-30eafc7df4e7",
+    "data": [
+      {
+        "text": "are",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " you ",
+        "userDefined": false
+      },
+      {
+        "text": "sure",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " that I\u0027",
+        "userDefined": false
+      },
+      {
+        "text": "ve",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " closed the ",
+        "userDefined": false
+      },
+      {
+        "text": "driver\u0027s door",
+        "alias": "car-part",
+        "meta": "@car-part",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3a4b2af8-0200-4dfa-8a4d-00b6861c016f",
+    "data": [
+      {
+        "text": "make ",
+        "userDefined": false
+      },
+      {
+        "text": "sure",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " that ",
+        "userDefined": false
+      },
+      {
+        "text": "all",
+        "alias": "all",
+        "meta": "@all",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "windows",
+        "alias": "car-part",
+        "meta": "@car-part",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "are",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " closed ",
+        "userDefined": false
+      },
+      {
+        "text": "in",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "the car",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8ee4bd45-f726-4d31-9c4c-f02c6c0d4853",
+    "data": [
+      {
+        "text": "did",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " I closed ",
+        "userDefined": false
+      },
+      {
+        "text": "all",
+        "alias": "all",
+        "meta": "@all",
+        "userDefined": true
+      },
+      {
+        "text": " the ",
+        "userDefined": false
+      },
+      {
+        "text": "windows",
+        "alias": "car-part",
+        "meta": "@car-part",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "in",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "the car",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d0590a9c-a749-4545-8899-01e4b87e5ba6",
+    "data": [
+      {
+        "text": "is the",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "roof",
+        "alias": "car-part",
+        "meta": "@car-part",
+        "userDefined": false
+      },
+      {
+        "text": " closed",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "394d7845-4958-446d-b6b2-5a88bb79d871",
+    "data": [
+      {
+        "text": "did",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " I close ",
+        "userDefined": false
+      },
+      {
+        "text": "the door",
+        "alias": "car-part",
+        "meta": "@car-part",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "when",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " I ",
+        "userDefined": false
+      },
+      {
+        "text": "left",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " my ",
+        "userDefined": false
+      },
+      {
+        "text": "car",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

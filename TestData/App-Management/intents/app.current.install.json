@@ -1,0 +1,29 @@
+{
+  "id": "d2207d6a-8c38-4954-a62c-af37029cbdf9",
+  "name": "app.current.install",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "app.current.install",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1508382172303,
+  "fallbackIntent": false,
+  "events": []
+}

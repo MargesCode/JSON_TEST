@@ -1,0 +1,36 @@
+{
+  "id": "790c512b-97c4-480e-ac14-fd2a855fc903",
+  "name": "car.diagnostics",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "car.diagnostics",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "73a8f869-6826-4733-b1f7-772ed8512761",
+          "dataType": "@car-part",
+          "name": "car-part",
+          "value": "$car-part"
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1508382216395,
+  "fallbackIntent": false,
+  "events": []
+}

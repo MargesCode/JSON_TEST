@@ -1,0 +1,240 @@
+[
+  {
+    "id": "9a0a17ac-b8a1-48cb-ad4d-7fe9550cd85e",
+    "data": [
+      {
+        "text": "adjust ",
+        "userDefined": false
+      },
+      {
+        "text": "Allo",
+        "alias": "app-name",
+        "meta": "@app-name",
+        "userDefined": true
+      },
+      {
+        "text": " voice",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "98d85ee1-f91a-4de5-b59b-18568201b58e",
+    "data": [
+      {
+        "text": "Skype",
+        "alias": "app-name",
+        "meta": "@app-name",
+        "userDefined": true
+      },
+      {
+        "text": " voice settings",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "03253086-afe2-4d52-8a20-85e86dcf93f0",
+    "data": [
+      {
+        "text": "go to ",
+        "userDefined": false
+      },
+      {
+        "text": "Google Assistant",
+        "alias": "app-name",
+        "meta": "@app-name",
+        "userDefined": true
+      },
+      {
+        "text": " voice settings",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "bffa9a25-0eb5-4314-a95e-b87567806754",
+    "data": [
+      {
+        "text": "open ",
+        "userDefined": false
+      },
+      {
+        "text": "Sherpa",
+        "alias": "app-name",
+        "meta": "@app-name",
+        "userDefined": true
+      },
+      {
+        "text": " voice settings",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a3e905bb-0233-4141-931f-12ff95a9f52c",
+    "data": [
+      {
+        "text": "open up ",
+        "userDefined": false
+      },
+      {
+        "text": "Slack",
+        "alias": "app-name",
+        "meta": "@app-name",
+        "userDefined": true
+      },
+      {
+        "text": " voice settings menu",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ee2c5dbd-90b6-4435-881a-9f97deaf20dc",
+    "data": [
+      {
+        "text": "can you open ",
+        "userDefined": false
+      },
+      {
+        "text": "Facebook",
+        "alias": "app-name",
+        "meta": "@app-name",
+        "userDefined": true
+      },
+      {
+        "text": " voice settings",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "208a3865-cf58-476a-b8c5-1113aa32784f",
+    "data": [
+      {
+        "text": "how can I adjust ",
+        "userDefined": false
+      },
+      {
+        "text": "Google Allo",
+        "alias": "app-name",
+        "meta": "@app-name",
+        "userDefined": true
+      },
+      {
+        "text": " voice settings",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4c687769-1359-4769-94f5-ce7c09a0b1db",
+    "data": [
+      {
+        "text": "open ",
+        "userDefined": false
+      },
+      {
+        "text": "Skype",
+        "alias": "app-name",
+        "meta": "@app-name",
+        "userDefined": true
+      },
+      {
+        "text": " voice settings",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0bd57b5c-da0b-4dc3-b0f9-2568970a3e3f",
+    "data": [
+      {
+        "text": "could you open ",
+        "userDefined": false
+      },
+      {
+        "text": "Cortana",
+        "alias": "app-name",
+        "meta": "@app-name",
+        "userDefined": true
+      },
+      {
+        "text": " voice settings",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6a1f09b0-871e-4e33-bd39-5345dc475fb3",
+    "data": [
+      {
+        "text": "I\u0027d like to open ",
+        "userDefined": false
+      },
+      {
+        "text": "Sherpa",
+        "alias": "app-name",
+        "meta": "@app-name",
+        "userDefined": true
+      },
+      {
+        "text": " app voice settings",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b4642c25-8aa6-4667-aac4-59bd94aae901",
+    "data": [
+      {
+        "text": "how can I open the voice settings of the  ",
+        "userDefined": false
+      },
+      {
+        "text": "Google Assistant",
+        "alias": "app-name",
+        "meta": "@app-name",
+        "userDefined": true
+      },
+      {
+        "text": " app",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

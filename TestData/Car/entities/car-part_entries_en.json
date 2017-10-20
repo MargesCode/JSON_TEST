@@ -1,0 +1,742 @@
+[
+  {
+    "value": "accelerator",
+    "synonyms": [
+      "accelerator"
+    ]
+  },
+  {
+    "value": "air bag",
+    "synonyms": [
+      "air bag",
+      "airbag"
+    ]
+  },
+  {
+    "value": "airbag control",
+    "synonyms": [
+      "airbag control"
+    ]
+  },
+  {
+    "value": "alarm",
+    "synonyms": [
+      "alarm",
+      "alarm system"
+    ]
+  },
+  {
+    "value": "ashtray",
+    "synonyms": [
+      "ash tray",
+      "ashtray"
+    ]
+  },
+  {
+    "value": "automatic transmission",
+    "synonyms": [
+      "automatic transmission"
+    ]
+  },
+  {
+    "value": "axle",
+    "synonyms": [
+      "axle"
+    ]
+  },
+  {
+    "value": "baby\u0027s seat",
+    "synonyms": [
+      "baby seat",
+      "child seat",
+      "baby\u0027s seat",
+      "child\u0027s seat",
+      "infant seat",
+      "infant\u0027s seat",
+      "children seat",
+      "children\u0027s seat"
+    ]
+  },
+  {
+    "value": "back seat light",
+    "synonyms": [
+      "back seat lights",
+      "lights for back seat"
+    ]
+  },
+  {
+    "value": "back-up light",
+    "synonyms": [
+      "back-up light",
+      "backup light",
+      "back up light"
+    ]
+  },
+  {
+    "value": "blind spot safety mirror",
+    "synonyms": [
+      "blind spot safety mirror",
+      "blind safety mirror"
+    ]
+  },
+  {
+    "value": "brake light",
+    "synonyms": [
+      "brake light"
+    ]
+  },
+  {
+    "value": "brake pedal",
+    "synonyms": [
+      "brake pedal"
+    ]
+  },
+  {
+    "value": "brake",
+    "synonyms": [
+      "brake"
+    ]
+  },
+  {
+    "value": "camshaft",
+    "synonyms": [
+      "camshaft"
+    ]
+  },
+  {
+    "value": "central mirror",
+    "synonyms": [
+      "central mirror"
+    ]
+  },
+  {
+    "value": "chassis",
+    "synonyms": [
+      "chassis"
+    ]
+  },
+  {
+    "value": "clutch",
+    "synonyms": [
+      "clutch"
+    ]
+  },
+  {
+    "value": "cruise control",
+    "synonyms": [
+      "cruise control"
+    ]
+  },
+  {
+    "value": "current user\u0027s door",
+    "synonyms": [
+      "my door"
+    ]
+  },
+  {
+    "value": "current user\u0027s light",
+    "synonyms": [
+      "my light"
+    ]
+  },
+  {
+    "value": "current user\u0027s seat",
+    "synonyms": [
+      "my seat",
+      "i\u0027m sitting",
+      "my butt"
+    ]
+  },
+  {
+    "value": "current user\u0027s window",
+    "synonyms": [
+      "my window"
+    ]
+  },
+  {
+    "value": "dashboard light",
+    "synonyms": [
+      "dashboard lights",
+      "dashboard light",
+      "dash board lights",
+      "dash board light"
+    ]
+  },
+  {
+    "value": "door",
+    "synonyms": [
+      "door",
+      "doors",
+      "the door",
+      "the doors"
+    ]
+  },
+  {
+    "value": "driver\u0027s door",
+    "synonyms": [
+      "driver\u0027s door"
+    ]
+  },
+  {
+    "value": "driver\u0027s light",
+    "synonyms": [
+      "driver lights",
+      "driver\u0027s lights"
+    ]
+  },
+  {
+    "value": "driver\u0027s seat",
+    "synonyms": [
+      "driver\u0027s seat",
+      "driver seat"
+    ]
+  },
+  {
+    "value": "emergency brake",
+    "synonyms": [
+      "emergency brake"
+    ]
+  },
+  {
+    "value": "emergency light",
+    "synonyms": [
+      "emergency light"
+    ]
+  },
+  {
+    "value": "engine",
+    "synonyms": [
+      "engine"
+    ]
+  },
+  {
+    "value": "exhaust pipe",
+    "synonyms": [
+      "exhaust pipe"
+    ]
+  },
+  {
+    "value": "fog light",
+    "synonyms": [
+      "fog light",
+      "fog lights"
+    ]
+  },
+  {
+    "value": "front door",
+    "synonyms": [
+      "front door",
+      "front doors"
+    ]
+  },
+  {
+    "value": "front left seat",
+    "synonyms": [
+      "front left seat",
+      "left front seat"
+    ]
+  },
+  {
+    "value": "front right seat",
+    "synonyms": [
+      "front right seat",
+      "right front seat"
+    ]
+  },
+  {
+    "value": "front seat",
+    "synonyms": [
+      "front seats",
+      "front seat"
+    ]
+  },
+  {
+    "value": "front view mirror",
+    "synonyms": [
+      "front view mirror",
+      "front mirror"
+    ]
+  },
+  {
+    "value": "front window",
+    "synonyms": [
+      "front window"
+    ]
+  },
+  {
+    "value": "gas pedal",
+    "synonyms": [
+      "gas pedal"
+    ]
+  },
+  {
+    "value": "gas tank",
+    "synonyms": [
+      "gas tank"
+    ]
+  },
+  {
+    "value": "gear shift",
+    "synonyms": [
+      "gear shift"
+    ]
+  },
+  {
+    "value": "gear stick",
+    "synonyms": [
+      "gear stick"
+    ]
+  },
+  {
+    "value": "gearbox",
+    "synonyms": [
+      "gearbox"
+    ]
+  },
+  {
+    "value": "glove compartment",
+    "synonyms": [
+      "glove compartment"
+    ]
+  },
+  {
+    "value": "hand brake",
+    "synonyms": [
+      "hand brake",
+      "handbreak"
+    ]
+  },
+  {
+    "value": "head light",
+    "synonyms": [
+      "headlight",
+      "headlamp",
+      "head light",
+      "head lamp"
+    ]
+  },
+  {
+    "value": "high-beam head light",
+    "synonyms": [
+      "high-beam headlight",
+      "high beams",
+      "high beam",
+      "high-beam light",
+      "high beam lights"
+    ]
+  },
+  {
+    "value": "instrument panel",
+    "synonyms": [
+      "instrument panel"
+    ]
+  },
+  {
+    "value": "interior driver’s mirror",
+    "synonyms": [
+      "interior driver’s mirror",
+      "interior driver mirror"
+    ]
+  },
+  {
+    "value": "interior light",
+    "synonyms": [
+      "interior light"
+    ]
+  },
+  {
+    "value": "internal combustion engine",
+    "synonyms": [
+      "internal combustion engine"
+    ]
+  },
+  {
+    "value": "left door",
+    "synonyms": [
+      "left door",
+      "left doors",
+      "left passenger door"
+    ]
+  },
+  {
+    "value": "left front door",
+    "synonyms": [
+      "left front door",
+      "front left door",
+      "front left passenger door"
+    ]
+  },
+  {
+    "value": "left front window",
+    "synonyms": [
+      "left front window",
+      "front left window"
+    ]
+  },
+  {
+    "value": "left rear door",
+    "synonyms": [
+      "left rear door",
+      "rear left door",
+      "rear left passenger door"
+    ]
+  },
+  {
+    "value": "left rear window",
+    "synonyms": [
+      "left rear window",
+      "rear left window"
+    ]
+  },
+  {
+    "value": "left seat",
+    "synonyms": [
+      "left seats",
+      "left seat"
+    ]
+  },
+  {
+    "value": "left side mirror",
+    "synonyms": [
+      "left side mirror",
+      "left mirror"
+    ]
+  },
+  {
+    "value": "left window",
+    "synonyms": [
+      "left windows"
+    ]
+  },
+  {
+    "value": "low-beam head light",
+    "synonyms": [
+      "low-beam headlight",
+      "low beams",
+      "low-beam",
+      "low beam",
+      "low-beam light",
+      "low beam lights"
+    ]
+  },
+  {
+    "value": "parking light",
+    "synonyms": [
+      "parking light"
+    ]
+  },
+  {
+    "value": "passenger\u0027s door",
+    "synonyms": [
+      "passenger door",
+      "passenger\u0027s door"
+    ]
+  },
+  {
+    "value": "passenger\u0027s seat",
+    "synonyms": [
+      "passenger seat",
+      "passenger\u0027s seat"
+    ]
+  },
+  {
+    "value": "passenger\u0027s window",
+    "synonyms": [
+      "passenger window",
+      "passenger side window",
+      "passenger\u0027s window",
+      "passenger\u0027s side window"
+    ]
+  },
+  {
+    "value": "passenger\u0027s light",
+    "synonyms": [
+      "passenger\u0027s light",
+      "passengers light",
+      "passengers\u0027 light"
+    ]
+  },
+  {
+    "value": "radiator",
+    "synonyms": [
+      "radiator"
+    ]
+  },
+  {
+    "value": "rear window defroster",
+    "synonyms": [
+      "rear window defroster"
+    ]
+  },
+  {
+    "value": "rear door",
+    "synonyms": [
+      "rear door",
+      "rear doors"
+    ]
+  },
+  {
+    "value": "rear left seat",
+    "synonyms": [
+      "rear left seat",
+      "left rear seat",
+      "back left seat",
+      "left back seat"
+    ]
+  },
+  {
+    "value": "rear right seat",
+    "synonyms": [
+      "rear right seat",
+      "right rear seat",
+      "back right seat",
+      "right back seat"
+    ]
+  },
+  {
+    "value": "rear seat",
+    "synonyms": [
+      "rear seats",
+      "back seats",
+      "rear seat",
+      "backseat"
+    ]
+  },
+  {
+    "value": "rear window",
+    "synonyms": [
+      "rear window",
+      "back window"
+    ]
+  },
+  {
+    "value": "rear-view mirror",
+    "synonyms": [
+      "rear-view mirror",
+      "rear view mirror"
+    ]
+  },
+  {
+    "value": "reverse light",
+    "synonyms": [
+      "reverse light"
+    ]
+  },
+  {
+    "value": "right door",
+    "synonyms": [
+      "right door",
+      "right doors",
+      "right passenger door"
+    ]
+  },
+  {
+    "value": "right front door",
+    "synonyms": [
+      "right front door",
+      "front right door",
+      "front right passenger door"
+    ]
+  },
+  {
+    "value": "right front window",
+    "synonyms": [
+      "right front window",
+      "front right window"
+    ]
+  },
+  {
+    "value": "right rear door",
+    "synonyms": [
+      "right rear door",
+      "rear right door",
+      "rear right passenger door"
+    ]
+  },
+  {
+    "value": "right rear window",
+    "synonyms": [
+      "right rear window",
+      "rear right window"
+    ]
+  },
+  {
+    "value": "right seat",
+    "synonyms": [
+      "right seat",
+      "right seats"
+    ]
+  },
+  {
+    "value": "right side mirror",
+    "synonyms": [
+      "right sife mirror",
+      "right mirror"
+    ]
+  },
+  {
+    "value": "right window",
+    "synonyms": [
+      "right windows"
+    ]
+  },
+  {
+    "value": "roof",
+    "synonyms": [
+      "roof"
+    ]
+  },
+  {
+    "value": "rooftop",
+    "synonyms": [
+      "rooftop"
+    ]
+  },
+  {
+    "value": "safety bag",
+    "synonyms": [
+      "safety bag"
+    ]
+  },
+  {
+    "value": "seat belt",
+    "synonyms": [
+      "seat belt"
+    ]
+  },
+  {
+    "value": "side airbags",
+    "synonyms": [
+      "side airbags"
+    ]
+  },
+  {
+    "value": "side mirror",
+    "synonyms": [
+      "side mirror",
+      "side mirrors"
+    ]
+  },
+  {
+    "value": "spare tire",
+    "synonyms": [
+      "spare tire"
+    ]
+  },
+  {
+    "value": "speedometer",
+    "synonyms": [
+      "speedometer"
+    ]
+  },
+  {
+    "value": "steering wheel",
+    "synonyms": [
+      "steering wheel"
+    ]
+  },
+  {
+    "value": "sun roof",
+    "synonyms": [
+      "sun roof",
+      "sunroof"
+    ]
+  },
+  {
+    "value": "tire",
+    "synonyms": [
+      "tire"
+    ]
+  },
+  {
+    "value": "trunk",
+    "synonyms": [
+      "trunk"
+    ]
+  },
+  {
+    "value": "turn signal",
+    "synonyms": [
+      "turn signal"
+    ]
+  },
+  {
+    "value": "undercarriage",
+    "synonyms": [
+      "undercarriage"
+    ]
+  },
+  {
+    "value": "warning light",
+    "synonyms": [
+      "warning light"
+    ]
+  },
+  {
+    "value": "wheel",
+    "synonyms": [
+      "wheel"
+    ]
+  },
+  {
+    "value": "window",
+    "synonyms": [
+      "window",
+      "windows"
+    ]
+  },
+  {
+    "value": "windshield",
+    "synonyms": [
+      "windshield"
+    ]
+  },
+  {
+    "value": "back up lights",
+    "synonyms": [
+      "back up lights"
+    ]
+  },
+  {
+    "value": "backup lights",
+    "synonyms": [
+      "backup lights"
+    ]
+  },
+  {
+    "value": "the door",
+    "synonyms": [
+      "the door"
+    ]
+  },
+  {
+    "value": "luggage compartment",
+    "synonyms": [
+      "luggage compartment"
+    ]
+  },
+  {
+    "value": "locks",
+    "synonyms": [
+      "locks"
+    ]
+  },
+  {
+    "value": "emergence brake",
+    "synonyms": [
+      "emergence brake"
+    ]
+  },
+  {
+    "value": "tail lights",
+    "synonyms": [
+      "tail lights"
+    ]
+  },
+  {
+    "value": "grilles",
+    "synonyms": [
+      "grilles"
+    ]
+  }
+]

@@ -1,0 +1,31 @@
+{
+  "id": "120c99f1-8d68-447a-8f91-e8facbdb5f51",
+  "name": "car.lights.switch.on - context:car-switch - comment:turn on",
+  "auto": true,
+  "contexts": [
+    "car-switch"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "car.lights.switch.on",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1508382216312,
+  "fallbackIntent": false,
+  "events": []
+}

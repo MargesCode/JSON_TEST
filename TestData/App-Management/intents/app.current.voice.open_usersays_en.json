@@ -1,0 +1,74 @@
+[
+  {
+    "id": "cf8b7e25-76f0-49fd-8e55-92ea5296209d",
+    "data": [
+      {
+        "text": "voice settings",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "be67500a-9587-4a51-b685-3391c5e921e4",
+    "data": [
+      {
+        "text": "how can I access your voice settings",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b3c2d50a-1584-4522-baa8-91fd6e75f12a",
+    "data": [
+      {
+        "text": "I\u0027d like to change your voice",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4a8068e6-fbe3-497e-b5cb-d11d355e0a86",
+    "data": [
+      {
+        "text": "where can I adjust your voice",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "032191ff-eb0f-4bf5-a3b7-45e0c5e3b8e6",
+    "data": [
+      {
+        "text": "pull up voice settings of this app",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6ac38092-1e58-476c-b86b-b031b57df706",
+    "data": [
+      {
+        "text": "open your voice settings",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

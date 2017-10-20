@@ -1,0 +1,29 @@
+{
+  "id": "79708ae5-e22a-4607-bf95-93f8e762ee73",
+  "name": "car.dashboard.check",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "car.dashboard.check",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1508382216768,
+  "fallbackIntent": false,
+  "events": []
+}

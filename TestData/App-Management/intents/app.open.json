@@ -1,0 +1,42 @@
+{
+  "id": "ba0364c3-4a5e-4d54-a64a-a714d57780e6",
+  "name": "app.open",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "app.open",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "b6107efc-8281-4a3e-b12d-795ed51b84f1",
+          "dataType": "@app-name",
+          "name": "app-name",
+          "value": "$app-name"
+        },
+        {
+          "id": "85870f65-0f8a-4801-96a8-c0831a6ad6d1",
+          "dataType": "@app-store-name",
+          "name": "store-name",
+          "value": "$store-name"
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1508382171706,
+  "fallbackIntent": false,
+  "events": []
+}

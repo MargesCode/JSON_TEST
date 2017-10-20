@@ -1,0 +1,167 @@
+[
+  {
+    "id": "5977eddb-93c0-4836-b8cd-e82dfe44bc77",
+    "data": [
+      {
+        "text": "turn up ",
+        "userDefined": false
+      },
+      {
+        "text": "Mary\u0027",
+        "alias": "passenger",
+        "meta": "@sys.given-name",
+        "userDefined": true
+      },
+      {
+        "text": "s seat heating when she ",
+        "userDefined": false
+      },
+      {
+        "text": "gets in",
+        "alias": "condition",
+        "meta": "@condition",
+        "userDefined": true
+      },
+      {
+        "text": " the car",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "507802a0-e14a-4226-91bc-e7a7e2b2bea4",
+    "data": [
+      {
+        "text": "turn",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "up",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " the ",
+        "userDefined": false
+      },
+      {
+        "text": "temperature",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " for ",
+        "userDefined": false
+      },
+      {
+        "text": "driver\u0027s seat",
+        "alias": "car-seat",
+        "meta": "@car-seat",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "when",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " I\u0027",
+        "userDefined": false
+      },
+      {
+        "text": "m",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "getting in",
+        "alias": "condition",
+        "meta": "@condition",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "the car",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c53aacbe-1a7c-4617-937c-ed3fa67185f2",
+    "data": [
+      {
+        "text": "make ",
+        "userDefined": false
+      },
+      {
+        "text": "my seat",
+        "alias": "car-seat",
+        "meta": "@car-seat",
+        "userDefined": false
+      },
+      {
+        "text": " warmer ",
+        "userDefined": false
+      },
+      {
+        "text": "when",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " I ",
+        "userDefined": false
+      },
+      {
+        "text": "am",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "getting in",
+        "alias": "condition",
+        "meta": "@condition",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "the car",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

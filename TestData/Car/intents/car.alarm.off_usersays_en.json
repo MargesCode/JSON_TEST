@@ -1,0 +1,136 @@
+[
+  {
+    "id": "5d56acaf-ca0a-48f9-b0ea-6490dd221ea7",
+    "data": [
+      {
+        "text": "turn off ",
+        "userDefined": false
+      },
+      {
+        "text": "alarm",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " system of my car",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "68d8dade-edb0-41a0-86b0-6c30498d15b0",
+    "data": [
+      {
+        "text": "turn the ",
+        "userDefined": false
+      },
+      {
+        "text": "alarm",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " system off for the car",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4da80c27-cb9c-48c6-b701-849b6856196a",
+    "data": [
+      {
+        "text": "turn off the car ",
+        "userDefined": false
+      },
+      {
+        "text": "alarm",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a5765c93-1d75-4d02-a2bc-5201d0e7179e",
+    "data": [
+      {
+        "text": "switch off the ",
+        "userDefined": false
+      },
+      {
+        "text": "alarm",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " in my car",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "26ecd2a1-49e3-4993-afec-ef865ff04751",
+    "data": [
+      {
+        "text": "switch off the ",
+        "userDefined": false
+      },
+      {
+        "text": "alarm",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " system in my car",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "023d762f-dd9f-4443-8cdb-a8a232cd19c4",
+    "data": [
+      {
+        "text": "remove the ",
+        "userDefined": false
+      },
+      {
+        "text": "alarm",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " in my car",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c25605d8-0138-4b84-8640-eb99456be07c",
+    "data": [
+      {
+        "text": "turn off the alarm in my car",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  }
+]

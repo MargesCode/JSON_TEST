@@ -1,0 +1,152 @@
+[
+  {
+    "id": "582198c1-d215-4458-9716-98926c86dfa3",
+    "data": [
+      {
+        "text": "is it the ",
+        "userDefined": false
+      },
+      {
+        "text": "21st of February",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "fa5881b9-b34e-49df-84bc-2aed4b1206a9",
+    "data": [
+      {
+        "text": "is it ",
+        "userDefined": false
+      },
+      {
+        "text": "June 19th",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "28de8d59-8c0a-4e5d-aafb-f1af6add6146",
+    "data": [
+      {
+        "text": "tell me is it ",
+        "userDefined": false
+      },
+      {
+        "text": "September 8",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": true
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Munich",
+        "alias": "location",
+        "meta": "@sys.location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "cf516ef0-640d-4111-a5c8-82a2c5273d7f",
+    "data": [
+      {
+        "text": "I\u0027d like to know if it\u0027s ",
+        "userDefined": false
+      },
+      {
+        "text": "January 2018",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": true
+      },
+      {
+        "text": " now",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "22d9550b-591b-4521-8cf4-259f68e1ca48",
+    "data": [
+      {
+        "text": "check if it\u0027s ",
+        "userDefined": false
+      },
+      {
+        "text": "Monday",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": true
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Luxembourg",
+        "alias": "location",
+        "meta": "@sys.location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "05919e31-e15a-424b-be92-c302c87b700c",
+    "data": [
+      {
+        "text": "is today ",
+        "userDefined": false
+      },
+      {
+        "text": "28th",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "15efc537-2def-42c2-920d-20b911206546",
+    "data": [
+      {
+        "text": "are we in ",
+        "userDefined": false
+      },
+      {
+        "text": "March 2017",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

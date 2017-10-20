@@ -1,0 +1,201 @@
+[
+  {
+    "id": "870c47d6-a149-46a1-bf67-2a6c9030173d",
+    "data": [
+      {
+        "text": "turn up ",
+        "userDefined": false
+      },
+      {
+        "text": "backup lights",
+        "alias": "car-part",
+        "meta": "@car-part",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "when",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " I ",
+        "userDefined": false
+      },
+      {
+        "text": "get in",
+        "alias": "condition",
+        "meta": "@condition",
+        "userDefined": false
+      },
+      {
+        "text": " my ",
+        "userDefined": false
+      },
+      {
+        "text": "car",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d02c4a27-00ee-496e-a64a-b2c2466a979a",
+    "data": [
+      {
+        "text": "turn up lights",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " for ",
+        "userDefined": false
+      },
+      {
+        "text": "9",
+        "alias": "change-value",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " points for ",
+        "userDefined": false
+      },
+      {
+        "text": "Mary",
+        "alias": "passenger",
+        "meta": "@sys.given-name",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "when",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " she ",
+        "userDefined": false
+      },
+      {
+        "text": "gets in",
+        "alias": "condition",
+        "meta": "@condition",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "the car",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2f296b79-368e-41a0-a951-fe024ce164cb",
+    "data": [
+      {
+        "text": "turn",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " up ",
+        "userDefined": false
+      },
+      {
+        "text": "all",
+        "alias": "all",
+        "meta": "@all",
+        "userDefined": true
+      },
+      {
+        "text": " the lights ",
+        "userDefined": false
+      },
+      {
+        "text": "when",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " I ",
+        "userDefined": false
+      },
+      {
+        "text": "get in",
+        "alias": "condition",
+        "meta": "@condition",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "the car",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "328192c7-6535-42f9-bf6a-4c6cf87637c4",
+    "data": [
+      {
+        "text": "turn up the lights",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "when",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " I ",
+        "userDefined": false
+      },
+      {
+        "text": "get into",
+        "alias": "condition",
+        "meta": "@condition",
+        "userDefined": false
+      },
+      {
+        "text": " my ",
+        "userDefined": false
+      },
+      {
+        "text": "car",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

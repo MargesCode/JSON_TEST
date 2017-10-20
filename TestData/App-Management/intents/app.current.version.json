@@ -1,0 +1,29 @@
+{
+  "id": "b2c970a5-fe37-4d56-a94a-f8946a26d551",
+  "name": "app.current.version",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "app.current.version",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1508382171831,
+  "fallbackIntent": false,
+  "events": []
+}

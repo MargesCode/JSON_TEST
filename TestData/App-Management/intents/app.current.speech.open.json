@@ -1,0 +1,29 @@
+{
+  "id": "39879794-79ca-4464-bfb5-05a4b5038e1a",
+  "name": "app.current.speech.open",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "app.current.speech.open",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1508382171661,
+  "fallbackIntent": false,
+  "events": []
+}

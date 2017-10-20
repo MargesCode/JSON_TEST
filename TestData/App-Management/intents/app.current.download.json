@@ -1,0 +1,36 @@
+{
+  "id": "5d003b72-06e2-4709-ac92-c12a84bf1f20",
+  "name": "app.current.download",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "app.current.download",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "2baf9fea-0306-4b15-8492-e153e20c8960",
+          "dataType": "@app-store-name",
+          "name": "store-name",
+          "value": "$store-name"
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1508382171654,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,29 @@
+{
+  "id": "3015cfe6-1e60-4097-b021-2cc7e1594a8b",
+  "name": "app.current.settings.close",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "app.current.settings.close",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1508382172402,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,36 @@
+{
+  "id": "12dbf9f2-0b0f-4617-8119-776beb630059",
+  "name": "car.information.what_is",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "car.information.what_is",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "6e5053f6-566c-47ea-9cea-f58d527cc0ce",
+          "dataType": "@car-part",
+          "name": "car-part",
+          "value": "$car-part"
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1508382216687,
+  "fallbackIntent": false,
+  "events": []
+}

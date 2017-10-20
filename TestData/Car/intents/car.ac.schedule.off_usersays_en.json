@@ -1,0 +1,223 @@
+[
+  {
+    "id": "edb42946-6c35-47eb-9e8a-e80eaa9e5744",
+    "data": [
+      {
+        "text": "turn car heating off when I ",
+        "userDefined": false
+      },
+      {
+        "text": "get out",
+        "alias": "condition",
+        "meta": "@condition",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c8733567-eda0-408e-943f-2950a0547414",
+    "data": [
+      {
+        "text": "turn off ",
+        "userDefined": false
+      },
+      {
+        "text": "air conditioner",
+        "alias": "device",
+        "meta": "@car-device",
+        "userDefined": false
+      },
+      {
+        "text": " for ",
+        "userDefined": false
+      },
+      {
+        "text": "driver",
+        "alias": "car-part",
+        "meta": "@car-seat",
+        "userDefined": false
+      },
+      {
+        "text": " when he ",
+        "userDefined": false
+      },
+      {
+        "text": "leaves",
+        "alias": "condition",
+        "meta": "@condition",
+        "userDefined": false
+      },
+      {
+        "text": " the car",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d94a7053-dffa-46c3-855a-ef9c241300c3",
+    "data": [
+      {
+        "text": "turn off air conditioner for ",
+        "userDefined": false
+      },
+      {
+        "text": "Jack",
+        "alias": "passenger",
+        "meta": "@sys.given-name",
+        "userDefined": true
+      },
+      {
+        "text": " when he ",
+        "userDefined": false
+      },
+      {
+        "text": "leaves",
+        "alias": "condition",
+        "meta": "@condition",
+        "userDefined": true
+      },
+      {
+        "text": " the car",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "db7a543c-c57a-4474-b1e9-4d2d831a1e20",
+    "data": [
+      {
+        "text": "turn off",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " the ",
+        "userDefined": false
+      },
+      {
+        "text": "heating",
+        "alias": "device",
+        "meta": "@car-device",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "in",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " my ",
+        "userDefined": false
+      },
+      {
+        "text": "car",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "every",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "time",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " I ",
+        "userDefined": false
+      },
+      {
+        "text": "leave",
+        "alias": "condition",
+        "meta": "@condition",
+        "userDefined": false
+      },
+      {
+        "text": " my ",
+        "userDefined": false
+      },
+      {
+        "text": "car",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "370f5c18-dbcc-4229-b312-5889aafb3e42",
+    "data": [
+      {
+        "text": "turn off",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "air conditioner",
+        "alias": "device",
+        "meta": "@car-device",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "when",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " I ",
+        "userDefined": false
+      },
+      {
+        "text": "leave",
+        "alias": "condition",
+        "meta": "@condition",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "the car",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

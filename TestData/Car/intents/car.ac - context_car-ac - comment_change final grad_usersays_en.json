@@ -1,0 +1,299 @@
+[
+  {
+    "id": "c0460533-d4ae-4e8f-a542-8c433defbe89",
+    "data": [
+      {
+        "text": "can",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " you ",
+        "userDefined": false
+      },
+      {
+        "text": "do",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "72",
+        "alias": "final-value",
+        "meta": "@sys.number",
+        "userDefined": true
+      },
+      {
+        "text": " degrees",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "3fb68b53-28da-4475-a008-775696a81cac",
+    "data": [
+      {
+        "text": "turn",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "it",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "up",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " till ",
+        "userDefined": false
+      },
+      {
+        "text": "30",
+        "alias": "final-value",
+        "meta": "@sys.number",
+        "userDefined": true
+      },
+      {
+        "text": " grad",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "a58a6b3b-1f20-4b06-9f83-396af407d995",
+    "data": [
+      {
+        "text": "change",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "it",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " to ",
+        "userDefined": false
+      },
+      {
+        "text": "10",
+        "alias": "final-value",
+        "meta": "@sys.number",
+        "userDefined": true
+      },
+      {
+        "text": " grads",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "94a73cd3-0059-4dba-9b87-d84b15cd79cd",
+    "data": [
+      {
+        "text": "change",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "it",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " to ",
+        "userDefined": false
+      },
+      {
+        "text": "15",
+        "alias": "final-value",
+        "meta": "@sys.number",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "236acfcf-f1a8-42ec-8c46-ba2bc5957025",
+    "data": [
+      {
+        "text": "change",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " to ",
+        "userDefined": false
+      },
+      {
+        "text": "83",
+        "alias": "final-value",
+        "meta": "@sys.number",
+        "userDefined": true
+      },
+      {
+        "text": " grads",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f7c1623b-a72e-4e93-96c5-1c2a77556163",
+    "data": [
+      {
+        "text": "change",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " to ",
+        "userDefined": false
+      },
+      {
+        "text": "28",
+        "alias": "final-value",
+        "meta": "@sys.number",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "46b114a1-ab58-4bfe-a2a5-5900692089e5",
+    "data": [
+      {
+        "text": "set ",
+        "userDefined": false
+      },
+      {
+        "text": "it",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " to ",
+        "userDefined": false
+      },
+      {
+        "text": "18",
+        "alias": "final-value",
+        "meta": "@sys.number",
+        "userDefined": true
+      },
+      {
+        "text": " grads",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "48ac308d-0788-483f-b32f-05a26653c34d",
+    "data": [
+      {
+        "text": "set ",
+        "userDefined": false
+      },
+      {
+        "text": "it",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " to ",
+        "userDefined": false
+      },
+      {
+        "text": "20",
+        "alias": "final-value",
+        "meta": "@sys.number",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0c638328-c0db-42be-9d79-1c8d928e59b8",
+    "data": [
+      {
+        "text": "set to ",
+        "userDefined": false
+      },
+      {
+        "text": "23",
+        "alias": "final-value",
+        "meta": "@sys.number",
+        "userDefined": true
+      },
+      {
+        "text": " grads",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4fb4342b-cdb6-4add-b263-bc5cc5cba2a0",
+    "data": [
+      {
+        "text": "set to ",
+        "userDefined": false
+      },
+      {
+        "text": "34",
+        "alias": "final-value",
+        "meta": "@sys.number",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

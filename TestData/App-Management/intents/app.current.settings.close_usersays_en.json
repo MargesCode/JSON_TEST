@@ -1,0 +1,110 @@
+[
+  {
+    "id": "7114fc76-8ae6-4cd4-9a90-c74b903d041e",
+    "data": [
+      {
+        "text": "get out of your settings",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "9eec7269-158f-4d39-8670-e0b655089516",
+    "data": [
+      {
+        "text": "leave the settings",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "81b3c2cc-c402-4538-9bbb-8721b2fc4f26",
+    "data": [
+      {
+        "text": "close settings",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e76d3804-9c60-468e-b1b0-b93c759a88e3",
+    "data": [
+      {
+        "text": "exit this app\u0027s settings",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1057d41a-afe6-4cc8-a295-fe7c2020ef56",
+    "data": [
+      {
+        "text": "how do I close the settings of this app",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "715937ce-f93c-4fc0-acb4-8d7d63eef2cd",
+    "data": [
+      {
+        "text": "close your settings",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c9d3fdef-f955-4080-807b-3f11f5821e62",
+    "data": [
+      {
+        "text": "exit settings",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "71028c38-1e57-42bd-8e46-c30b218e8def",
+    "data": [
+      {
+        "text": "I\u0027d like to close your settings",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "76e32cf2-4d6e-4f45-9974-0d14d35069fe",
+    "data": [
+      {
+        "text": "could you close your settings",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

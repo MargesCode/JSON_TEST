@@ -1,0 +1,36 @@
+{
+  "id": "e29a0cf7-caa6-4c21-bfd6-0c33d80a48d7",
+  "name": "app.history.clear",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "app.history.clear",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "6fb38f33-bcfc-405e-a736-2c17e40590f2",
+          "dataType": "@app-name",
+          "name": "app-name",
+          "value": "$app-name"
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1508382172360,
+  "fallbackIntent": false,
+  "events": []
+}

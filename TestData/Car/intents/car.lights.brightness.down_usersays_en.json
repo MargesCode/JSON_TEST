@@ -1,0 +1,506 @@
+[
+  {
+    "id": "733d87c5-0a54-4fd9-9079-0d7dbf7e4724",
+    "data": [
+      {
+        "text": "lower the brightness of lights for ",
+        "userDefined": false
+      },
+      {
+        "text": "John",
+        "alias": "passenger",
+        "meta": "@sys.given-name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "d741b373-924b-4df7-8546-11a17c65006e",
+    "data": [
+      {
+        "text": "dim",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "all",
+        "alias": "all",
+        "meta": "@all",
+        "userDefined": false
+      },
+      {
+        "text": " the lights ",
+        "userDefined": false
+      },
+      {
+        "text": "in",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "the car",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7bee2fbc-82b1-4655-b679-12b727bcf586",
+    "data": [
+      {
+        "text": "car lights down for ",
+        "userDefined": false
+      },
+      {
+        "text": "2",
+        "alias": "change-value",
+        "meta": "@sys.number",
+        "userDefined": true
+      },
+      {
+        "text": " points",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "37adcb59-b6e2-4efa-87de-36461d07cc66",
+    "data": [
+      {
+        "text": "dim ",
+        "userDefined": false
+      },
+      {
+        "text": "car",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "lights",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b007741b-1ce5-4c33-9a86-3fbf6f4d51b4",
+    "data": [
+      {
+        "text": "turn down the ",
+        "userDefined": false
+      },
+      {
+        "text": "lights",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "the car",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c8f8a908-70cd-4af5-aa48-9c67b9434143",
+    "data": [
+      {
+        "text": "turn down ",
+        "userDefined": false
+      },
+      {
+        "text": "all",
+        "alias": "all",
+        "meta": "@all",
+        "userDefined": true
+      },
+      {
+        "text": " the ",
+        "userDefined": false
+      },
+      {
+        "text": "lights",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "the car",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "79933e04-94ad-4790-8a74-4bdbf69e8ca2",
+    "data": [
+      {
+        "text": "turn ",
+        "userDefined": false
+      },
+      {
+        "text": "the car",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "lights",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " down",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a7a852ae-f340-4dc4-8ba5-5f4419a240f3",
+    "data": [
+      {
+        "text": "turn down the ",
+        "userDefined": false
+      },
+      {
+        "text": "head light",
+        "alias": "car-part",
+        "meta": "@car-light",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "08901071-0cfe-418d-9c26-37993f11a722",
+    "data": [
+      {
+        "text": "turn the ",
+        "userDefined": false
+      },
+      {
+        "text": "warning light",
+        "alias": "car-part",
+        "meta": "@car-light",
+        "userDefined": true
+      },
+      {
+        "text": " down",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f4bf096c-1757-4db5-9a43-1e9586d80345",
+    "data": [
+      {
+        "text": "decrease the ",
+        "userDefined": false
+      },
+      {
+        "text": "light",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "the car",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "de0eeecf-f315-4a42-9d59-7634a3d69a63",
+    "data": [
+      {
+        "text": "decrease the ",
+        "userDefined": false
+      },
+      {
+        "text": "power",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " of ",
+        "userDefined": false
+      },
+      {
+        "text": "reverse lights",
+        "alias": "car-part",
+        "meta": "@car-light",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e916164c-15c0-4b57-a185-943e3a9b3eca",
+    "data": [
+      {
+        "text": "dim the ",
+        "userDefined": false
+      },
+      {
+        "text": "head light",
+        "alias": "car-part",
+        "meta": "@car-light",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f10fb10b-0e1f-4c60-b439-d4af38c6d086",
+    "data": [
+      {
+        "text": "dim the ",
+        "userDefined": false
+      },
+      {
+        "text": "light",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "the car",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f73c676c-2203-46ca-be80-80b3abcec90e",
+    "data": [
+      {
+        "text": "dim ",
+        "userDefined": false
+      },
+      {
+        "text": "all",
+        "alias": "all",
+        "meta": "@all",
+        "userDefined": true
+      },
+      {
+        "text": " the lights in car",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f03aef6a-0827-455d-a4d5-b8349dcbf839",
+    "data": [
+      {
+        "text": "isn\u0027t it too bright for the ",
+        "userDefined": false
+      },
+      {
+        "text": "passengers",
+        "alias": "car-part",
+        "meta": "@car-light",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3da88411-78f7-45b4-a855-1e5d55b148d8",
+    "data": [
+      {
+        "text": "it\u0027s too bright for the ",
+        "userDefined": false
+      },
+      {
+        "text": "passengers",
+        "alias": "car-part",
+        "meta": "@car-light",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a8ddc87d-2f2f-48ac-ad54-9f9a55e6d2ca",
+    "data": [
+      {
+        "text": "lower",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " the brightness of car ",
+        "userDefined": false
+      },
+      {
+        "text": "lights",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6378d735-e621-4c53-82d4-4045c1e1644a",
+    "data": [
+      {
+        "text": "lower the brightness of ",
+        "userDefined": false
+      },
+      {
+        "text": "all",
+        "alias": "all",
+        "meta": "@all",
+        "userDefined": true
+      },
+      {
+        "text": " lights in the car",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "f6689c83-d1ad-449b-80c1-7ebd20d23457",
+    "data": [
+      {
+        "text": "turn down the ",
+        "userDefined": false
+      },
+      {
+        "text": "head light",
+        "alias": "car-part",
+        "meta": "@car-light",
+        "userDefined": true
+      },
+      {
+        "text": " for ",
+        "userDefined": false
+      },
+      {
+        "text": "my seat",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ecea926f-2230-4483-bf4b-fda0ac2f42ed",
+    "data": [
+      {
+        "text": "the lights ",
+        "userDefined": false
+      },
+      {
+        "text": "are",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " too bright in a car",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "98d4283d-96cb-4fc3-9434-3b66e3cfc058",
+    "data": [
+      {
+        "text": "lower the ",
+        "userDefined": false
+      },
+      {
+        "text": "passenger side window",
+        "alias": "car-part",
+        "meta": "@car-light",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

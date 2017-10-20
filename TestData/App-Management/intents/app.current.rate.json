@@ -1,0 +1,42 @@
+{
+  "id": "38c3fc07-e999-43fc-806b-25e790e0f494",
+  "name": "app.current.rate",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "app.current.rate",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "4939098e-a08a-4269-abfd-4dd18de6f9be",
+          "dataType": "@sys.number",
+          "name": "stars",
+          "value": "$stars"
+        },
+        {
+          "id": "f95115ed-fd96-4a3e-863f-9984611a565a",
+          "dataType": "@app-store-name",
+          "name": "store-name",
+          "value": "$store-name"
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1508382171768,
+  "fallbackIntent": false,
+  "events": []
+}

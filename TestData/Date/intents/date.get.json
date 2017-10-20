@@ -1,0 +1,42 @@
+{
+  "id": "944dec71-13fc-4633-b22f-5f2806f26c5b",
+  "name": "date.get",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "date.get",
+      "affectedContexts": [
+        {
+          "name": "date-get",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "53159385-3e7f-435f-8a8b-ec7335295f4b",
+          "dataType": "@sys.date",
+          "name": "date",
+          "value": "$date"
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1508382294543,
+  "fallbackIntent": false,
+  "events": []
+}

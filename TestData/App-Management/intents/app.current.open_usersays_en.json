@@ -1,0 +1,135 @@
+[
+  {
+    "id": "6ea2d6a4-ac45-4ab3-827d-cc15768a8332",
+    "data": [
+      {
+        "text": "open",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "your",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " app",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7d991fbd-28bf-4668-9b04-a7bac5048e44",
+    "data": [
+      {
+        "text": "tell me how to open you",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "29432b3d-75ec-4666-91e3-a7b1f48c28e8",
+    "data": [
+      {
+        "text": "I want to open your app",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4f6dfceb-927d-4585-95f4-16cd4221f522",
+    "data": [
+      {
+        "text": "how do I open your app",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "484d1904-257b-4f54-b543-e112d6ac1647",
+    "data": [
+      {
+        "text": "I need to open your app",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5a516a57-1a59-4ec7-b843-e32f969973d2",
+    "data": [
+      {
+        "text": "how can I open you",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "4653d5fc-8234-4918-a1bd-a6aaa1d51e4e",
+    "data": [
+      {
+        "text": "open",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " yourself",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9131e71b-b0d8-4e4d-bee3-e3c828fa08c7",
+    "data": [
+      {
+        "text": "how to ",
+        "userDefined": false
+      },
+      {
+        "text": "open",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "your",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " application",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

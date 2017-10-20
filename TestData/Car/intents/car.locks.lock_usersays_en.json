@@ -1,0 +1,336 @@
+[
+  {
+    "id": "7cf47ceb-d9e7-4613-875e-6954876c643c",
+    "data": [
+      {
+        "text": "lock",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "car\u0027s",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "luggage compartment",
+        "alias": "car-part",
+        "meta": "@car-part",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "def12e1e-50ff-4797-bd9f-b4e85c4afc8b",
+    "data": [
+      {
+        "text": "lock ",
+        "userDefined": false
+      },
+      {
+        "text": "everything",
+        "alias": "all",
+        "meta": "@all",
+        "userDefined": true
+      },
+      {
+        "text": " in the car",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "6919f395-f2e2-401e-9b8e-878994c99e53",
+    "data": [
+      {
+        "text": "lock",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "all",
+        "alias": "all",
+        "meta": "@all",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "windows",
+        "alias": "car-part",
+        "meta": "@car-part",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "in",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "the car",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4e1d4000-893b-4b57-b3b2-c1acbc343d9d",
+    "data": [
+      {
+        "text": "lock the",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "drivers door",
+        "alias": "car-part",
+        "meta": "@car-part",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c7729685-e8bc-409c-a22d-447ae8a2db23",
+    "data": [
+      {
+        "text": "lock ",
+        "userDefined": false
+      },
+      {
+        "text": "all",
+        "alias": "all",
+        "meta": "@all",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "windows",
+        "alias": "car-part",
+        "meta": "@car-part",
+        "userDefined": true
+      },
+      {
+        "text": " in my car",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "2021aba0-2927-4a6a-a07f-7d77a010b553",
+    "data": [
+      {
+        "text": "lock the ",
+        "userDefined": false
+      },
+      {
+        "text": "rear left door",
+        "alias": "car-part",
+        "meta": "@car-part",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "945bb307-9f54-4f66-a895-97a9fad5c21e",
+    "data": [
+      {
+        "text": "lock all the ",
+        "userDefined": false
+      },
+      {
+        "text": "doors",
+        "alias": "car-part",
+        "meta": "@car-part",
+        "userDefined": true
+      },
+      {
+        "text": " in the car",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1bb3e6ce-82f8-42d6-82f5-c60de06cf387",
+    "data": [
+      {
+        "text": "can you lock the ",
+        "userDefined": false
+      },
+      {
+        "text": "driver\u0027s door",
+        "alias": "car-part",
+        "meta": "@car-part",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9c34399d-8b22-4156-ac12-4e2d4bad9113",
+    "data": [
+      {
+        "text": "please lock the car ",
+        "userDefined": false
+      },
+      {
+        "text": "front doors",
+        "alias": "car-part",
+        "meta": "@car-part",
+        "userDefined": true
+      },
+      {
+        "text": " for me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "23b900cc-811a-48de-b52d-243045c63fe2",
+    "data": [
+      {
+        "text": "all",
+        "alias": "all",
+        "meta": "@all",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "windows",
+        "alias": "car-part",
+        "meta": "@car-part",
+        "userDefined": true
+      },
+      {
+        "text": " in my car should be locked",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7028716a-d994-4f52-99bc-a5a4ea435616",
+    "data": [
+      {
+        "text": "block ",
+        "userDefined": false
+      },
+      {
+        "text": "all",
+        "alias": "all",
+        "meta": "@all",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "windows",
+        "alias": "car-part",
+        "meta": "@car-part",
+        "userDefined": true
+      },
+      {
+        "text": " in my car",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "43606f19-7044-43b6-b07a-770a6f099cfb",
+    "data": [
+      {
+        "text": "lock the ",
+        "userDefined": false
+      },
+      {
+        "text": "doors",
+        "alias": "car-part",
+        "meta": "@car-part",
+        "userDefined": true
+      },
+      {
+        "text": " in my car",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "31956621-f73e-469b-a86e-eef260e929dd",
+    "data": [
+      {
+        "text": "lock my car",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

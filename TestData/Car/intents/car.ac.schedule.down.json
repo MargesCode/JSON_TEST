@@ -1,0 +1,70 @@
+{
+  "id": "7b786234-5a54-48f4-ab9a-590cfc34225d",
+  "name": "car.ac.schedule.down",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "car.ac.schedule.down",
+      "affectedContexts": [
+        {
+          "name": "schedule",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "447ff1e3-a264-49bd-839d-decd22299cc3",
+          "dataType": "@condition",
+          "name": "condition",
+          "value": "$condition"
+        },
+        {
+          "id": "33b75c5a-a549-4fd3-a579-f409f708ac77",
+          "dataType": "@car-device",
+          "name": "device",
+          "value": "$device",
+          "isList": false
+        },
+        {
+          "id": "6c162457-9d8d-43d9-9ea8-85777c2a46b9",
+          "dataType": "@sys.given-name",
+          "name": "passenger",
+          "value": "$passenger",
+          "isList": false
+        },
+        {
+          "id": "5f523f40-d678-44ee-b30e-2fdae4a8b3d6",
+          "dataType": "@sys.number",
+          "name": "change-value",
+          "value": "$change-value",
+          "isList": false
+        },
+        {
+          "id": "ad04f701-4c86-4ba8-8c39-3742aa328ba4",
+          "dataType": "@sys.number",
+          "name": "final-value",
+          "value": "$final-value",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1508382216674,
+  "fallbackIntent": false,
+  "events": []
+}

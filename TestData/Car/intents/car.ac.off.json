@@ -1,0 +1,49 @@
+{
+  "id": "20eba255-1a26-4c43-bdd9-43ca16237a2a",
+  "name": "car.ac.off",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "car.ac.off",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "ed5e6252-4b37-4f63-b79e-aebe8a81a692",
+          "dataType": "@car-device",
+          "name": "device",
+          "value": "$device"
+        },
+        {
+          "id": "45dffc89-51b1-4731-9fdb-69e738461cfa",
+          "dataType": "@sys.given-name",
+          "name": "passenger",
+          "value": "$passenger"
+        },
+        {
+          "id": "d5f8e365-2786-4b01-a5e9-4c87357e958b",
+          "dataType": "@car-seat",
+          "name": "car-part",
+          "value": "$car-part",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1508382216882,
+  "fallbackIntent": false,
+  "events": []
+}

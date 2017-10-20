@@ -1,0 +1,130 @@
+[
+  {
+    "id": "8858c663-2fcb-49d1-8920-22fac55c8ae2",
+    "data": [
+      {
+        "text": "pull up ",
+        "userDefined": false
+      },
+      {
+        "text": "Allo",
+        "alias": "app-name",
+        "meta": "@app-name",
+        "userDefined": true
+      },
+      {
+        "text": " skills",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "64f8cc34-20c9-4f76-b4b5-ae677be6c189",
+    "data": [
+      {
+        "text": "what can ",
+        "userDefined": false
+      },
+      {
+        "text": "Google Assistant",
+        "alias": "app-name",
+        "meta": "@app-name",
+        "userDefined": true
+      },
+      {
+        "text": " do",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "08107483-f16d-43b5-925f-c6fb8ed86379",
+    "data": [
+      {
+        "text": "I\u0027d like to see ",
+        "userDefined": false
+      },
+      {
+        "text": "Slack",
+        "alias": "app-name",
+        "meta": "@app-name",
+        "userDefined": false
+      },
+      {
+        "text": " skills",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1b144bb5-e16f-4487-8284-7b4dff0be76a",
+    "data": [
+      {
+        "text": "could you open ",
+        "userDefined": false
+      },
+      {
+        "text": "Facebook",
+        "alias": "app-name",
+        "meta": "@app-name",
+        "userDefined": false
+      },
+      {
+        "text": " skills",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e5b977f4-ee71-4f23-a6d1-08b1f815d1dd",
+    "data": [
+      {
+        "text": "show me ",
+        "userDefined": false
+      },
+      {
+        "text": "Skype",
+        "alias": "app-name",
+        "meta": "@app-name",
+        "userDefined": true
+      },
+      {
+        "text": " skills",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b7f7609c-1d71-468f-a9c1-f4946e929ed9",
+    "data": [
+      {
+        "text": "what can I do in ",
+        "userDefined": false
+      },
+      {
+        "text": "Google Keep",
+        "alias": "app-name",
+        "meta": "@app-name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

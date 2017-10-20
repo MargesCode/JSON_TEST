@@ -1,0 +1,29 @@
+{
+  "id": "559ed237-6220-484c-a5b3-9de1c4b3756b",
+  "name": "car.gas.check",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "car.gas.check",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1508382216909,
+  "fallbackIntent": false,
+  "events": []
+}

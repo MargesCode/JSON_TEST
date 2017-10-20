@@ -1,0 +1,51 @@
+{
+  "id": "5258b81e-797a-4ee6-8183-2f4ec9fec8c0",
+  "name": "car.seat_heater.schedule.up",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "car.seat_heater.schedule.up",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "51291aa4-0ced-4fd5-ad61-677aba4d7c77",
+          "dataType": "@condition",
+          "name": "condition",
+          "value": "$condition",
+          "isList": false
+        },
+        {
+          "id": "e775ce76-5212-48b7-a7f4-f5c68eb399e8",
+          "dataType": "@car-seat",
+          "name": "car-seat",
+          "value": "$car-seat",
+          "isList": false
+        },
+        {
+          "id": "4b00d63f-962c-4783-a049-57b0bde02482",
+          "dataType": "@sys.given-name",
+          "name": "passenger",
+          "value": "$passenger",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1508382216501,
+  "fallbackIntent": false,
+  "events": []
+}

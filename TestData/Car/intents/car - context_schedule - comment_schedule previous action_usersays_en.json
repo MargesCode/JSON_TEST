@@ -1,0 +1,66 @@
+[
+  {
+    "id": "eb9d840d-39c5-48b4-916f-f39aed0747a1",
+    "data": [
+      {
+        "text": "and repeat it ",
+        "userDefined": false
+      },
+      {
+        "text": "at 9 pm",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e78f085f-7ea6-4e4e-835f-86d87a4416cc",
+    "data": [
+      {
+        "text": "repeat ",
+        "userDefined": false
+      },
+      {
+        "text": "every day",
+        "alias": "recurrence",
+        "meta": "@recurrence",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1a42dac3-0409-4b35-88c4-85d30b56a8e3",
+    "data": [
+      {
+        "text": "do it ",
+        "userDefined": false
+      },
+      {
+        "text": "daily",
+        "alias": "recurrence",
+        "meta": "@recurrence",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "at 8 am",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

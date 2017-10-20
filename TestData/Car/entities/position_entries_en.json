@@ -1,0 +1,44 @@
+[
+  {
+    "value": "upright",
+    "synonyms": [
+      "unreclined",
+      "straight",
+      "upright"
+    ]
+  },
+  {
+    "value": "safe",
+    "synonyms": [
+      "safe"
+    ]
+  },
+  {
+    "value": "layback",
+    "synonyms": [
+      "layback",
+      "backward",
+      "back"
+    ]
+  },
+  {
+    "value": "forward",
+    "synonyms": [
+      "forward"
+    ]
+  },
+  {
+    "value": "up",
+    "synonyms": [
+      "up",
+      "higher"
+    ]
+  },
+  {
+    "value": "down",
+    "synonyms": [
+      "down",
+      "lower"
+    ]
+  }
+]

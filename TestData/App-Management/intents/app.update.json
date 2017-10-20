@@ -1,0 +1,43 @@
+{
+  "id": "983404df-4d54-4a0b-8a86-b7d39186016a",
+  "name": "app.update",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "app.update",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "9567aa92-770d-46e3-aa01-cb33de3896b5",
+          "dataType": "@app-name",
+          "name": "app-name",
+          "value": "$app-name"
+        },
+        {
+          "id": "57ece9ca-3609-4f3d-9479-a79aed18c753",
+          "dataType": "@all",
+          "name": "all",
+          "value": "$all",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1508382171690,
+  "fallbackIntent": false,
+  "events": []
+}

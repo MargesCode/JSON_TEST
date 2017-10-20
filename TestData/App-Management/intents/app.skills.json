@@ -1,0 +1,36 @@
+{
+  "id": "59eede3b-1072-4555-b2b6-8aa18cc731bf",
+  "name": "app.skills",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "app.skills",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "fd1373e7-1cf0-40fe-93f9-e26ff5f6b1c7",
+          "dataType": "@app-name",
+          "name": "app-name",
+          "value": "$app-name"
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1508382171800,
+  "fallbackIntent": false,
+  "events": []
+}

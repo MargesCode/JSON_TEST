@@ -1,0 +1,43 @@
+{
+  "id": "f4cf57b1-1e70-4a16-b5ec-54915b9897df",
+  "name": "app.reset",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "app.reset",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "364bc383-1b3f-4ea5-a5ac-24cef9bcb30b",
+          "dataType": "@app-name",
+          "name": "app-name",
+          "value": "$app-name"
+        },
+        {
+          "id": "4661ce61-e27e-4343-9bbc-90a55a20087e",
+          "dataType": "@all",
+          "name": "all",
+          "value": "$all",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1508382172335,
+  "fallbackIntent": false,
+  "events": []
+}

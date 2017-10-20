@@ -1,0 +1,152 @@
+[
+  {
+    "id": "8de86764-9376-4620-99cf-5ff16b958e8e",
+    "data": [
+      {
+        "text": "adjust ",
+        "userDefined": false
+      },
+      {
+        "text": "Allo",
+        "alias": "app-name",
+        "meta": "@app-name",
+        "userDefined": true
+      },
+      {
+        "text": " speech",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "17b22d0a-4921-47d3-99dc-522af0c179dc",
+    "data": [
+      {
+        "text": "Google Assistant",
+        "alias": "app-name",
+        "meta": "@app-name",
+        "userDefined": true
+      },
+      {
+        "text": " speech settings",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4d3329ed-f57e-47c1-833f-f68d05a77b5d",
+    "data": [
+      {
+        "text": "open ",
+        "userDefined": false
+      },
+      {
+        "text": "Skype",
+        "alias": "app-name",
+        "meta": "@app-name",
+        "userDefined": true
+      },
+      {
+        "text": " speech settings",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "68646484-3a88-4261-97f9-9f87b3a4ed60",
+    "data": [
+      {
+        "text": "go to ",
+        "userDefined": false
+      },
+      {
+        "text": "Google Assistant",
+        "alias": "app-name",
+        "meta": "@app-name",
+        "userDefined": true
+      },
+      {
+        "text": " speech settings",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8aba8130-4690-42c7-a057-0e741054a965",
+    "data": [
+      {
+        "text": "could you open ",
+        "userDefined": false
+      },
+      {
+        "text": "Cortana",
+        "alias": "app-name",
+        "meta": "@app-name",
+        "userDefined": true
+      },
+      {
+        "text": " speech settings",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "57b1b87d-55f2-4f23-bca9-cc182b00b236",
+    "data": [
+      {
+        "text": "I\u0027d like to adjust ",
+        "userDefined": false
+      },
+      {
+        "text": "Sherpa",
+        "alias": "app-name",
+        "meta": "@app-name",
+        "userDefined": true
+      },
+      {
+        "text": " app speech",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1c31cf15-3d74-463b-b4e8-d274ed3d969c",
+    "data": [
+      {
+        "text": "how can I open the speech settings of the ",
+        "userDefined": false
+      },
+      {
+        "text": "Speaktoit Assistant",
+        "alias": "app-name",
+        "meta": "@app-name",
+        "userDefined": true
+      },
+      {
+        "text": " app",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

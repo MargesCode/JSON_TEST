@@ -1,0 +1,50 @@
+{
+  "id": "76a6ecb9-0606-412a-89a8-363c7e3076c7",
+  "name": "car.lights.brightness.up.implicit",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "car.lights.brightness.up.implicit",
+      "affectedContexts": [
+        {
+          "name": "car-brightness",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "b9751839-65d9-4fad-9a8e-942a25768979",
+          "dataType": "@sys.given-name",
+          "name": "passenger",
+          "value": "$passenger",
+          "isList": false
+        },
+        {
+          "id": "fd389989-518a-446f-ba05-6d496190d40e",
+          "dataType": "@car-light",
+          "name": "car-part",
+          "value": "$car-part",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1508382216811,
+  "fallbackIntent": false,
+  "events": []
+}

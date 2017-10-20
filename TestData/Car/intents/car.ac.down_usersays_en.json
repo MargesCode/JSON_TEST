@@ -1,0 +1,750 @@
+[
+  {
+    "id": "1d5a960c-d6c2-4f0f-ad5c-e4de708e429e",
+    "data": [
+      {
+        "text": "heating",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "down",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "24b5150b-32a4-4201-99e8-85cea9ee4fe4",
+    "data": [
+      {
+        "text": "turn down the temperature in ",
+        "userDefined": false
+      },
+      {
+        "text": "air conditioner",
+        "alias": "device",
+        "meta": "@car-device",
+        "userDefined": true
+      },
+      {
+        "text": " and direct the airflow ",
+        "userDefined": false
+      },
+      {
+        "text": "straight",
+        "alias": "air-distribution",
+        "meta": "@air-direction",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "a9708e69-3c5e-4a1e-aa30-2a19dd0505e3",
+    "data": [
+      {
+        "text": "lower",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " the in-car ",
+        "userDefined": false
+      },
+      {
+        "text": "temperature",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " by ",
+        "userDefined": false
+      },
+      {
+        "text": "5",
+        "alias": "change-value",
+        "meta": "@sys.number",
+        "userDefined": true
+      },
+      {
+        "text": " degrees",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "169f60af-292c-455f-8875-afb31913da6c",
+    "data": [
+      {
+        "text": "can you ",
+        "userDefined": false
+      },
+      {
+        "text": "lower",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " the temperature of car ",
+        "userDefined": false
+      },
+      {
+        "text": "air conditioning",
+        "alias": "device",
+        "meta": "@car-device",
+        "userDefined": true
+      },
+      {
+        "text": " a little bit",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f46f600a-544d-4ee7-8e17-bd12b460332c",
+    "data": [
+      {
+        "text": "turn ",
+        "userDefined": false
+      },
+      {
+        "text": "down",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " the temperature for ",
+        "userDefined": false
+      },
+      {
+        "text": "Mary",
+        "alias": "passenger",
+        "meta": "@sys.given-name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c3e65adb-45c3-48e1-abed-500cbfa1f63f",
+    "data": [
+      {
+        "text": "turn",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "down",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " the ",
+        "userDefined": false
+      },
+      {
+        "text": "heating",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "in",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " my ",
+        "userDefined": false
+      },
+      {
+        "text": "car",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "96bcafba-ca30-4d9a-ad7d-7478e5ae242e",
+    "data": [
+      {
+        "text": "turn",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "down",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " the ",
+        "userDefined": false
+      },
+      {
+        "text": "temperature",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "of",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "air conditioner",
+        "alias": "device",
+        "meta": "@car-device",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "in",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "the car",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b2eac73f-510b-470f-ba5a-1729b6503236",
+    "data": [
+      {
+        "text": "turn down the temperature of car ",
+        "userDefined": false
+      },
+      {
+        "text": "air conditioner",
+        "alias": "device",
+        "meta": "@car-device",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c3791177-6296-4672-b45b-9cee8063ccb2",
+    "data": [
+      {
+        "text": "make the ",
+        "userDefined": false
+      },
+      {
+        "text": "air conditioning",
+        "alias": "device",
+        "meta": "@car-device",
+        "userDefined": true
+      },
+      {
+        "text": " cooler in a car",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0b80d1de-c866-4496-ac24-8e4d241ffdaa",
+    "data": [
+      {
+        "text": "cool",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " the air in ",
+        "userDefined": false
+      },
+      {
+        "text": "air conditioner",
+        "alias": "device",
+        "meta": "@car-device",
+        "userDefined": true
+      },
+      {
+        "text": " in my car",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "279ec047-70e4-42f6-a281-a50aeea29c9f",
+    "data": [
+      {
+        "text": "decrease the temperature in car\u0027s ",
+        "userDefined": false
+      },
+      {
+        "text": "air conditioner",
+        "alias": "device",
+        "meta": "@car-device",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a8171a86-415d-45d7-b6df-61c6743b4058",
+    "data": [
+      {
+        "text": "decrease the temperature in car\u0027s ",
+        "userDefined": false
+      },
+      {
+        "text": "air conditioner",
+        "alias": "device",
+        "meta": "@car-device",
+        "userDefined": true
+      },
+      {
+        "text": " to ",
+        "userDefined": false
+      },
+      {
+        "text": "18",
+        "alias": "final-value",
+        "meta": "@sys.number",
+        "userDefined": true
+      },
+      {
+        "text": " degrees",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "eb2cc1be-00c6-43ff-a252-f601353df8c0",
+    "data": [
+      {
+        "text": "turn",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "down",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " the ",
+        "userDefined": false
+      },
+      {
+        "text": "temperature",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "in",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "my",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "car",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "32dc125f-2aee-4b3b-ab4e-a79e4148a89b",
+    "data": [
+      {
+        "text": "decrease the temperature in my ",
+        "userDefined": false
+      },
+      {
+        "text": "car",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "1fd533e5-3e0e-47f8-a78b-ca7aa247720c",
+    "data": [
+      {
+        "text": "blow cooler ",
+        "userDefined": false
+      },
+      {
+        "text": "in",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " my ",
+        "userDefined": false
+      },
+      {
+        "text": "car",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "542d4b3e-9a63-4583-8446-e6b0bf84e57a",
+    "data": [
+      {
+        "text": "lower",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " the temperature in the car",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "708aa649-ad3f-4783-86bb-142e4b7b0b79",
+    "data": [
+      {
+        "text": "lower",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " the temperature by ",
+        "userDefined": false
+      },
+      {
+        "text": "2",
+        "alias": "change-value",
+        "meta": "@sys.number",
+        "userDefined": true
+      },
+      {
+        "text": " degrees in the car",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b011e903-20eb-495a-bc82-1a7215e2e27f",
+    "data": [
+      {
+        "text": "turn ",
+        "userDefined": false
+      },
+      {
+        "text": "down",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " the temperature in the car by ",
+        "userDefined": false
+      },
+      {
+        "text": "3",
+        "alias": "change-value",
+        "meta": "@sys.number",
+        "userDefined": true
+      },
+      {
+        "text": " points",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ddbd83a0-f859-4fdd-9551-18f60fc19566",
+    "data": [
+      {
+        "text": "turn ",
+        "userDefined": false
+      },
+      {
+        "text": "down",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " the ",
+        "userDefined": false
+      },
+      {
+        "text": "heating",
+        "alias": "device",
+        "meta": "@car-device",
+        "userDefined": true
+      },
+      {
+        "text": " temperature in the car by ",
+        "userDefined": false
+      },
+      {
+        "text": "7",
+        "alias": "change-value",
+        "meta": "@sys.number",
+        "userDefined": true
+      },
+      {
+        "text": " degrees",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "6b72d7a6-489f-4b8b-9002-aafa04dd91f8",
+    "data": [
+      {
+        "text": "lower",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " the temperature of car ",
+        "userDefined": false
+      },
+      {
+        "text": "air conditioner",
+        "alias": "device",
+        "meta": "@car-device",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b51bf975-4b7d-4043-b324-131a7fbe549f",
+    "data": [
+      {
+        "text": "the temperature in ",
+        "userDefined": false
+      },
+      {
+        "text": "the car",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " should be ",
+        "userDefined": false
+      },
+      {
+        "text": "20",
+        "alias": "final-value",
+        "meta": "@sys.number",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "9075fedb-7a7c-427a-92c6-ac0c6dcb2ea9",
+    "data": [
+      {
+        "text": "turn ",
+        "userDefined": false
+      },
+      {
+        "text": "down",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " the temperature in car\u0027s ",
+        "userDefined": false
+      },
+      {
+        "text": "air conditioner",
+        "alias": "device",
+        "meta": "@car-device",
+        "userDefined": true
+      },
+      {
+        "text": " by ",
+        "userDefined": false
+      },
+      {
+        "text": "10",
+        "alias": "change-value",
+        "meta": "@sys.number",
+        "userDefined": true
+      },
+      {
+        "text": " points",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b424f10e-09e8-42fc-8c3e-f3e838f424d7",
+    "data": [
+      {
+        "text": "lower",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " the temperature in the car to ",
+        "userDefined": false
+      },
+      {
+        "text": "20",
+        "alias": "final-value",
+        "meta": "@sys.number",
+        "userDefined": true
+      },
+      {
+        "text": " degrees",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "84f3edf2-60ea-49bb-8b47-c52b5d52e1e4",
+    "data": [
+      {
+        "text": "the air is too ",
+        "userDefined": false
+      },
+      {
+        "text": "hot",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "in",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "this car",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

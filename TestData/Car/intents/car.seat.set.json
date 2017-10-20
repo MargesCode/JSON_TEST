@@ -1,0 +1,60 @@
+{
+  "id": "e8eb9e8c-8b75-49cb-a567-d67891a78ea7",
+  "name": "car.seat.set",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "car.seat.set",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "c0f34e13-4ed8-436d-8435-02ce2b96df63",
+          "dataType": "@car-seat",
+          "name": "car-part",
+          "value": "$car-part"
+        },
+        {
+          "id": "815ca9bb-eddf-4325-961c-13af67700fcf",
+          "dataType": "@position",
+          "name": "position",
+          "value": "$position"
+        },
+        {
+          "id": "3f50d75f-0a29-4d76-b359-662295f3419d",
+          "dataType": "@all",
+          "name": "all",
+          "value": "$all"
+        },
+        {
+          "id": "b672f00e-54a9-4d7d-9cbd-418f068a5ced",
+          "dataType": "@sys.given-name",
+          "name": "passenger",
+          "value": "$passenger"
+        },
+        {
+          "id": "be37c675-3643-44e5-9243-064f1cea2dbd",
+          "dataType": "@sys.number",
+          "name": "change-value",
+          "value": "$change-value"
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1508382216307,
+  "fallbackIntent": false,
+  "events": []
+}

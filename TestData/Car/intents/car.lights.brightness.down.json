@@ -1,0 +1,60 @@
+{
+  "id": "63939d86-210d-48fc-b627-7034a7f4eb60",
+  "name": "car.lights.brightness.down",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "car.lights.brightness.down",
+      "affectedContexts": [
+        {
+          "name": "car-brightness",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "1d585631-ac68-4053-943b-b4a51912cd7f",
+          "dataType": "@car-light",
+          "name": "car-part",
+          "value": "$car-part"
+        },
+        {
+          "id": "be7e826f-c246-46a7-be1a-578615dde948",
+          "dataType": "@all",
+          "name": "all",
+          "value": "$all"
+        },
+        {
+          "id": "d12e65ea-d71b-4ce9-ae80-6c80fec867f0",
+          "dataType": "@sys.given-name",
+          "name": "passenger",
+          "value": "$passenger"
+        },
+        {
+          "id": "61469e22-b088-4029-8ab6-30c64cdee810",
+          "dataType": "@sys.number",
+          "name": "change-value",
+          "value": "$change-value"
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1508382216862,
+  "fallbackIntent": false,
+  "events": []
+}

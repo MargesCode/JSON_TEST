@@ -1,0 +1,65 @@
+{
+  "id": "f03138cb-d823-4829-8393-5c3dee417a1e",
+  "name": "car.lights.brightness.schedule.up",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "car.lights.brightness.schedule.up",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "39f2a4f0-9f35-432d-a911-6248fd9a67aa",
+          "dataType": "@condition",
+          "name": "condition",
+          "value": "$condition",
+          "isList": false
+        },
+        {
+          "id": "b91469ab-3ab2-4163-bbe5-c97253431db1",
+          "dataType": "@car-part",
+          "name": "car-part",
+          "value": "$car-part",
+          "isList": false
+        },
+        {
+          "id": "0a70bab6-d6f0-499b-a6a1-bba690b346af",
+          "dataType": "@sys.number",
+          "name": "change-value",
+          "value": "$change-value",
+          "isList": false
+        },
+        {
+          "id": "c01c46a6-5a06-43b7-9b58-e2aaacaf09cd",
+          "dataType": "@all",
+          "name": "all",
+          "value": "$all",
+          "isList": false
+        },
+        {
+          "id": "a9385523-07da-439b-997c-27e6a704c386",
+          "dataType": "@sys.given-name",
+          "name": "passenger",
+          "value": "$passenger",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1508382216744,
+  "fallbackIntent": false,
+  "events": []
+}

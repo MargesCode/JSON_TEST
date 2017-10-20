@@ -1,0 +1,89 @@
+[
+  {
+    "id": "00f6622a-ad03-4dd8-9366-b69e3d9624d7",
+    "data": [
+      {
+        "text": "it\u0027s too cold in the ",
+        "userDefined": false
+      },
+      {
+        "text": "backseat",
+        "alias": "car-part",
+        "meta": "@car-seat",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "da776a9a-d245-457d-a843-d3b1af4d446f",
+    "data": [
+      {
+        "text": "Mary\u0027s",
+        "alias": "passenger",
+        "meta": "@sys.given-name",
+        "userDefined": true
+      },
+      {
+        "text": " seat is too ",
+        "userDefined": false
+      },
+      {
+        "text": "cold",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "48576704-a1a9-444e-859e-806221e036a4",
+    "data": [
+      {
+        "text": "driver\u0027s seat",
+        "alias": "car-part",
+        "meta": "@car-seat",
+        "userDefined": true
+      },
+      {
+        "text": " is too ",
+        "userDefined": false
+      },
+      {
+        "text": "cold",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f2861482-e8d5-4f88-858e-716fd8f0b4c3",
+    "data": [
+      {
+        "text": "my seat",
+        "alias": "car-part",
+        "meta": "@car-seat",
+        "userDefined": true
+      },
+      {
+        "text": " is too ",
+        "userDefined": false
+      },
+      {
+        "text": "cold",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

@@ -1,0 +1,34 @@
+{
+  "description": "Help your users get weather updates related to outdoor activities or see if they\u0027ll need that jacket. Through your app, they can ask if rain is heading their way or if they\u0027ll want those sunglasses after all. This agent covers all weather related requests and includes options for clothing and activity related inquiries.",
+  "language": "zh-tw",
+  "shortDescription": "Weather and forecast related conversations",
+  "examples": "User: 北京今天早上的天氣怎麽樣？\nUser: 上海明天的天氣怎麽樣？\n\nUser: 這個星期五會下雨嗎？\nUser: 星期六呢？\nUser: 你能查下北京的天氣嗎？\n\nUser: 我該穿外套嗎？\nUser: 現在的天氣適合在戶外玩飛盤嗎？\n\nUser: 現在適合出去徒步旅行嗎？\nUser: 這個周末呢？\n\nUser: 你知道現在外面冷不冷？\nUser: 稍後晚上會下雨嗎？\n\nUser: 下個星期五我在廈門需要帶傘嗎？",
+  "linkToDocs": "",
+  "activeAssistantAgents": [],
+  "googleAssistant": {
+    "googleAssistantCompatible": false,
+    "project": "t1-vfxylr",
+    "welcomeIntentSignInRequired": false,
+    "startIntents": [],
+    "systemIntents": [],
+    "endIntentIds": [],
+    "oAuthLinking": {
+      "required": false,
+      "grantType": "AUTH_CODE_GRANT"
+    },
+    "voiceType": "MALE_1",
+    "capabilities": [],
+    "protocolVersion": "V2"
+  },
+  "defaultTimezone": "America/New_York",
+  "webhook": {
+    "available": false,
+    "useForDomains": false,
+    "cloudFunctionsEnabled": false,
+    "cloudFunctionsInitialized": false
+  },
+  "isPrivate": true,
+  "customClassifierMode": "use.instead",
+  "mlMinConfidence": 0.3,
+  "supportedLanguages": []
+}

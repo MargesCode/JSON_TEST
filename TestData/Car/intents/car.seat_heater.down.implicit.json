@@ -1,0 +1,49 @@
+{
+  "id": "3f48c0d0-6038-45fc-ba43-2bc9acdf9bed",
+  "name": "car.seat_heater.down.implicit",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "car.seat_heater.down.implicit",
+      "affectedContexts": [
+        {
+          "name": "seat-heater",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "9ae52699-1b92-450b-bf6b-f5ea48cf3271",
+          "dataType": "@car-part",
+          "name": "car-part",
+          "value": "$car-part"
+        },
+        {
+          "id": "51375da4-1704-40ee-869b-eade0315aa92",
+          "dataType": "@sys.given-name",
+          "name": "passenger",
+          "value": "$passenger",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1508382216354,
+  "fallbackIntent": false,
+  "events": []
+}

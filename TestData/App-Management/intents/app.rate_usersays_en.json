@@ -1,0 +1,523 @@
+[
+  {
+    "id": "4a8b650e-6918-464b-8791-1b4d5ad1f7bb",
+    "data": [
+      {
+        "text": "evaluate an app",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4fd74818-5a22-4a82-a5c7-e746a67a10e4",
+    "data": [
+      {
+        "text": "rate ",
+        "userDefined": false
+      },
+      {
+        "text": "Chrome",
+        "alias": "app-name",
+        "meta": "@app-name",
+        "userDefined": true
+      },
+      {
+        "text": " application",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "216c0277-607f-4bca-981a-7fc21a153298",
+    "data": [
+      {
+        "text": "rating on ",
+        "userDefined": false
+      },
+      {
+        "text": "Play Store",
+        "alias": "store-name",
+        "meta": "@app-store-name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5f87858a-fb22-4eaf-b6b0-81a5104e3043",
+    "data": [
+      {
+        "text": "rate ",
+        "userDefined": false
+      },
+      {
+        "text": "Angry Birds",
+        "alias": "app-name",
+        "meta": "@app-name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "35580131-cde5-490a-9e41-0f8f990350a4",
+    "data": [
+      {
+        "text": "rate ",
+        "userDefined": false
+      },
+      {
+        "text": "Facebook",
+        "alias": "app-name",
+        "meta": "@app-name",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "5",
+        "alias": "star",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " stars on ",
+        "userDefined": false
+      },
+      {
+        "text": "App Store",
+        "alias": "store-name",
+        "meta": "@app-store-name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1f0cdcc6-e3df-4ad6-a02a-1235f5d1d2fe",
+    "data": [
+      {
+        "text": "give ",
+        "userDefined": false
+      },
+      {
+        "text": "Skype",
+        "alias": "app-name",
+        "meta": "@app-name",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "4",
+        "alias": "star",
+        "meta": "@sys.number",
+        "userDefined": true
+      },
+      {
+        "text": " stars rating",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "53853f3a-0a46-4706-bd2a-1d191851ddd3",
+    "data": [
+      {
+        "text": "let\u0027s give ",
+        "userDefined": false
+      },
+      {
+        "text": "Viber",
+        "alias": "app-name",
+        "meta": "@app-name",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "3",
+        "alias": "star",
+        "meta": "@sys.number",
+        "userDefined": true
+      },
+      {
+        "text": " stars rating",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2b71f001-400c-459a-995e-a3edf76bf3a4",
+    "data": [
+      {
+        "text": "rate an app",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "60808c63-e90f-468e-bb88-11a98696d403",
+    "data": [
+      {
+        "text": "I\u0027d like to rate an app in ",
+        "userDefined": false
+      },
+      {
+        "text": "App Store",
+        "alias": "store-name",
+        "meta": "@app-store-name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "74b1baa9-6963-43f5-a9e0-9559e9b48db9",
+    "data": [
+      {
+        "text": "let\u0027s give ",
+        "userDefined": false
+      },
+      {
+        "text": "5",
+        "alias": "star",
+        "meta": "@sys.number",
+        "userDefined": true
+      },
+      {
+        "text": " stars to ",
+        "userDefined": false
+      },
+      {
+        "text": "Google Keep",
+        "alias": "app-name",
+        "meta": "@app-name",
+        "userDefined": true
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Play Store",
+        "alias": "store-name",
+        "meta": "@app-store-name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5f242f8d-915a-4444-a0b1-e91e123589f6",
+    "data": [
+      {
+        "text": "rate application",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "863b99b5-3d07-4f29-9f4e-aa25dd2bc190",
+    "data": [
+      {
+        "text": "I would like to rate ",
+        "userDefined": false
+      },
+      {
+        "text": "Snapchat",
+        "alias": "app-name",
+        "meta": "@app-name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "40e040f0-7bcb-4a09-8e42-47bcf09e4391",
+    "data": [
+      {
+        "text": "can you rate the app ",
+        "userDefined": false
+      },
+      {
+        "text": "Clash of clans",
+        "alias": "app-name",
+        "meta": "@app-name",
+        "userDefined": false
+      },
+      {
+        "text": " for me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a34ef083-d39d-4c6f-b233-d745e1bdc93e",
+    "data": [
+      {
+        "text": "could you rate the app ",
+        "userDefined": false
+      },
+      {
+        "text": "5",
+        "alias": "star",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " stars",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7bcd8b69-a751-4fdb-a27f-3c3b56790227",
+    "data": [
+      {
+        "text": "how can I rate apps",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "da4d6d10-2ece-4b0a-a467-a26fb80a0b8f",
+    "data": [
+      {
+        "text": "how do I rate an app ",
+        "userDefined": false
+      },
+      {
+        "text": "5",
+        "alias": "star",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " stars ",
+        "userDefined": false
+      },
+      {
+        "text": "on",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Google Play Store",
+        "alias": "store-name",
+        "meta": "@app-store-name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "96ad3996-2aba-4764-bd00-129d34258e30",
+    "data": [
+      {
+        "text": "rate app ",
+        "userDefined": false
+      },
+      {
+        "text": "5",
+        "alias": "star",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " stars",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f9d40196-0aa4-4127-b722-3ffec3c97888",
+    "data": [
+      {
+        "text": "rate the app ",
+        "userDefined": false
+      },
+      {
+        "text": "Assistant",
+        "alias": "app-name",
+        "meta": "@app-name",
+        "userDefined": false
+      },
+      {
+        "text": " with ",
+        "userDefined": false
+      },
+      {
+        "text": "5",
+        "alias": "star",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " stars",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5ce18d9a-a12a-49ae-b742-af1b982f53c8",
+    "data": [
+      {
+        "text": "rate the application ",
+        "userDefined": false
+      },
+      {
+        "text": "5",
+        "alias": "star",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " stars",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "661fd465-4b54-46f6-904b-f59835ab7b5c",
+    "data": [
+      {
+        "text": "rate the application with ",
+        "userDefined": false
+      },
+      {
+        "text": "5",
+        "alias": "star",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " stars",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8dbd461d-efe3-4bd2-85cd-580800b4b471",
+    "data": [
+      {
+        "text": "can I rate ",
+        "userDefined": false
+      },
+      {
+        "text": "Facebook",
+        "alias": "app-name",
+        "meta": "@app-name",
+        "userDefined": true
+      },
+      {
+        "text": " app ",
+        "userDefined": false
+      },
+      {
+        "text": "5",
+        "alias": "star",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " stars in ",
+        "userDefined": false
+      },
+      {
+        "text": "Google Play Store",
+        "alias": "store-name",
+        "meta": "@app-store-name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f24336b2-004a-4c13-aa59-49036aed33b9",
+    "data": [
+      {
+        "text": "rate ",
+        "userDefined": false
+      },
+      {
+        "text": "5",
+        "alias": "star",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " stars",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

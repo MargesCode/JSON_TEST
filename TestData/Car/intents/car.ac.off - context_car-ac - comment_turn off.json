@@ -1,0 +1,31 @@
+{
+  "id": "77b72e9c-5f50-4a06-88cb-0d1f6958e17b",
+  "name": "car.ac.off - context:car-ac - comment:turn off",
+  "auto": true,
+  "contexts": [
+    "car-ac"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "car.ac.off",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1508382216631,
+  "fallbackIntent": false,
+  "events": []
+}

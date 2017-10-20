@@ -1,0 +1,185 @@
+[
+  {
+    "id": "cd32d3bc-d9ab-4149-80e5-8fb4beed90fa",
+    "data": [
+      {
+        "text": "turn on the car ",
+        "userDefined": false
+      },
+      {
+        "text": "alarm system",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0681cb07-dea3-4ecb-ba34-34c9a11553d7",
+    "data": [
+      {
+        "text": "turn on the alarm system",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "765a55e1-7b97-4bff-a58d-26fb2c389cba",
+    "data": [
+      {
+        "text": "turn on ",
+        "userDefined": false
+      },
+      {
+        "text": "alarm",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " system of my car",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "523bee32-4ade-4dd8-ab1d-3a3e8a346323",
+    "data": [
+      {
+        "text": "set car state to armed",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "fe484cf0-626f-43ee-9ea4-ad5ebadbc0f6",
+    "data": [
+      {
+        "text": "turn on the ",
+        "userDefined": false
+      },
+      {
+        "text": "alarm",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " for my car",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "8dd1ecaa-15fa-41e7-875a-7a420aac68b0",
+    "data": [
+      {
+        "text": "switch the ",
+        "userDefined": false
+      },
+      {
+        "text": "alarm",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " system of my car",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1f0c7d46-6fd5-4e85-a0a1-719fba9c15f7",
+    "data": [
+      {
+        "text": "activate ",
+        "userDefined": false
+      },
+      {
+        "text": "car",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "alarm",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "960705e7-b886-475e-9247-16dc83dc1e09",
+    "data": [
+      {
+        "text": "I need ",
+        "userDefined": false
+      },
+      {
+        "text": "to",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "set",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " the clock ",
+        "userDefined": false
+      },
+      {
+        "text": "in",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "my",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "car",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

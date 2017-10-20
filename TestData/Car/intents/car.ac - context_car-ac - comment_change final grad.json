@@ -1,0 +1,39 @@
+{
+  "id": "a395d3a8-2dcc-43b2-a425-c4593d77a023",
+  "name": "car.ac - context:car-ac - comment:change final grad",
+  "auto": true,
+  "contexts": [
+    "car-ac"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "#car-ac.intent_action",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "b29171a4-6a76-4efe-9e56-cac06480d06b",
+          "dataType": "@sys.number",
+          "name": "final-value",
+          "value": "$final-value",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1508382216763,
+  "fallbackIntent": false,
+  "events": []
+}

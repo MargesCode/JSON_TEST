@@ -1,0 +1,46 @@
+{
+  "id": "d5b52ee2-e57f-490e-95fe-749dd48e1705",
+  "name": "car.ac - context:car-ac - comment:increase or decrease grad",
+  "auto": true,
+  "contexts": [
+    "car-ac"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "#car-ac.intent_action",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "8671902c-d525-4c50-af41-5be235fb0cdd",
+          "dataType": "@sys.number",
+          "name": "final-value",
+          "value": "$final-value",
+          "isList": false
+        },
+        {
+          "id": "08e12fb6-a20f-4e2b-83a1-0a4ffc76890e",
+          "dataType": "@sys.number",
+          "name": "change-value",
+          "value": "$change-value",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1508382216806,
+  "fallbackIntent": false,
+  "events": []
+}

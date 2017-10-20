@@ -1,0 +1,50 @@
+{
+  "id": "7564c1c8-ebcf-4fa6-a4df-f383deecc5de",
+  "name": "car.locks.schedule.open",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "car.locks.schedule.open",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "3035163a-3f7e-4700-96d3-ba64f18467d1",
+          "dataType": "@car-part",
+          "name": "car-part",
+          "value": "$car-part",
+          "isList": false
+        },
+        {
+          "id": "f27c43a3-7570-44eb-b337-911cd3a7e8a4",
+          "dataType": "@condition",
+          "name": "condition",
+          "value": "$condition"
+        },
+        {
+          "id": "690bce71-a470-4f8f-aae6-1d19cc1973f7",
+          "dataType": "@all",
+          "name": "all",
+          "value": "$all",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1508382216845,
+  "fallbackIntent": false,
+  "events": []
+}

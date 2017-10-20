@@ -1,0 +1,42 @@
+{
+  "id": "8c14741d-1f92-4d02-8480-51818cd7e909",
+  "name": "car.mirror.set",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "car.mirror.set",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "ec87c98e-aab2-4e2e-beba-f4607b86837d",
+          "dataType": "@car-mirror",
+          "name": "car-part",
+          "value": "$car-part"
+        },
+        {
+          "id": "848e2db1-cf28-419d-a55e-4cc0145e85ed",
+          "dataType": "@rotation",
+          "name": "rotation",
+          "value": "$rotation"
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1508382216284,
+  "fallbackIntent": false,
+  "events": []
+}

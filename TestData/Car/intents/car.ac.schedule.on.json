@@ -1,0 +1,85 @@
+{
+  "id": "a8ed4fd7-1b45-4db7-8b3a-a5adb46617a3",
+  "name": "car.ac.schedule.on",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "car.ac.schedule.on",
+      "affectedContexts": [
+        {
+          "name": "schedule",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "d7033fc8-90e0-4e71-877a-13ee706dc253",
+          "dataType": "@condition",
+          "name": "condition",
+          "value": "$condition",
+          "isList": false
+        },
+        {
+          "id": "b540d18a-d3b5-461f-9749-cb1ceb420252",
+          "dataType": "@car-device",
+          "name": "device",
+          "value": "$device",
+          "isList": false
+        },
+        {
+          "id": "856c1f11-b3fe-408e-96c1-6487885cd64b",
+          "dataType": "@sys.given-name",
+          "name": "passenger",
+          "value": "$passenger",
+          "isList": false
+        },
+        {
+          "id": "9d68b023-8597-427f-9ae8-01e10d975ae4",
+          "dataType": "@air-direction",
+          "name": "air-distribution",
+          "value": "$air-distribution",
+          "isList": false
+        },
+        {
+          "id": "5e60ae00-d918-4a5e-b0eb-df2f0f83782f",
+          "dataType": "@sys.number",
+          "name": "final-value",
+          "value": "$final-value",
+          "isList": false
+        },
+        {
+          "id": "837d6834-9bd1-4d8a-b3e0-c84382ac73ec",
+          "dataType": "@automode",
+          "name": "automode",
+          "value": "$automode",
+          "isList": false
+        },
+        {
+          "id": "77ace771-363f-4e4e-8acd-4acdd41e827e",
+          "dataType": "@car-seat",
+          "name": "car-part",
+          "value": "$car-part",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1508382216800,
+  "fallbackIntent": false,
+  "events": []
+}

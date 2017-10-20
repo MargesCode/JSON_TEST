@@ -1,0 +1,98 @@
+[
+  {
+    "value": "front seat",
+    "synonyms": [
+      "front seats",
+      "front seat"
+    ]
+  },
+  {
+    "value": "rear seat",
+    "synonyms": [
+      "rear seats",
+      "back seats",
+      "rear seat",
+      "backseat"
+    ]
+  },
+  {
+    "value": "left seat",
+    "synonyms": [
+      "left seats",
+      "left seat"
+    ]
+  },
+  {
+    "value": "right seat",
+    "synonyms": [
+      "right seat",
+      "right seats"
+    ]
+  },
+  {
+    "value": "rear left seat",
+    "synonyms": [
+      "rear left seat",
+      "left rear seat",
+      "back left seat",
+      "left back seat"
+    ]
+  },
+  {
+    "value": "rear right seat",
+    "synonyms": [
+      "rear right seat",
+      "right rear seat",
+      "back right seat",
+      "right back seat"
+    ]
+  },
+  {
+    "value": "front left seat",
+    "synonyms": [
+      "front left seat",
+      "left front seat"
+    ]
+  },
+  {
+    "value": "front right seat",
+    "synonyms": [
+      "front right seat",
+      "right front seat"
+    ]
+  },
+  {
+    "value": "current user\u0027s seat",
+    "synonyms": [
+      "my seat",
+      "i\u0027m sitting",
+      "my butt"
+    ]
+  },
+  {
+    "value": "driver\u0027s seat",
+    "synonyms": [
+      "driver\u0027s seat",
+      "driver seat",
+      "driver"
+    ]
+  },
+  {
+    "value": "baby\u0027s seat",
+    "synonyms": [
+      "baby seat",
+      "child seat",
+      "baby\u0027s seat",
+      "child\u0027s seat",
+      "infant seat",
+      "infant\u0027s seat"
+    ]
+  },
+  {
+    "value": "passenger\u0027s seat",
+    "synonyms": [
+      "passenger seat",
+      "passenger\u0027s seat"
+    ]
+  }
+]

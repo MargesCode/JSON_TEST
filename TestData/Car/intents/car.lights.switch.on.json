@@ -1,0 +1,67 @@
+{
+  "id": "4bed4db1-674e-4a80-8edc-b3d676aa9ec2",
+  "name": "car.lights.switch.on",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "car.lights.switch.on",
+      "affectedContexts": [
+        {
+          "name": "car-switch",
+          "parameters": {},
+          "lifespan": 5
+        },
+        {
+          "name": "schedule",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "56c67e57-624a-459a-9a5d-2c8326b6fe28",
+          "dataType": "@car-light",
+          "name": "car-part",
+          "value": "$car-part",
+          "isList": false
+        },
+        {
+          "id": "a2fd4f92-75b8-46dd-a571-8f669f80ca9c",
+          "dataType": "@all",
+          "name": "all",
+          "value": "$all"
+        },
+        {
+          "id": "c91542c6-7828-4799-87e1-b171fcb00e71",
+          "dataType": "@sys.given-name",
+          "name": "passenger",
+          "value": "$passenger"
+        },
+        {
+          "id": "bafac317-af56-4f23-8126-a54542edbfb5",
+          "dataType": "@sys.number",
+          "name": "final-value",
+          "value": "$final-value",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1508382216756,
+  "fallbackIntent": false,
+  "events": []
+}

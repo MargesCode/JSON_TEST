@@ -1,0 +1,281 @@
+[
+  {
+    "id": "f53209c0-7396-4358-8cfc-7cd93e8c14fa",
+    "data": [
+      {
+        "text": "close",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "the car",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "815709a0-296c-4b81-9694-6367b310efd3",
+    "data": [
+      {
+        "text": "close",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "everything",
+        "alias": "all",
+        "meta": "@all",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "in",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "the car",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "51df2624-6ff2-4dd5-8cac-537b88449c29",
+    "data": [
+      {
+        "text": "close",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " the ",
+        "userDefined": false
+      },
+      {
+        "text": "roof",
+        "alias": "car-part",
+        "meta": "@car-part",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5b7aff0d-6394-4d56-8c4e-69d9fb121fd8",
+    "data": [
+      {
+        "text": "close ",
+        "userDefined": false
+      },
+      {
+        "text": "all",
+        "alias": "all",
+        "meta": "@all",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "doors",
+        "alias": "car-part",
+        "meta": "@car-part",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "the car",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3b0480df-8d46-48cb-b664-ae123f5fd8c5",
+    "data": [
+      {
+        "text": "can",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "you",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " close ",
+        "userDefined": false
+      },
+      {
+        "text": "left rear window",
+        "alias": "car-part",
+        "meta": "@car-part",
+        "userDefined": true
+      },
+      {
+        "text": " please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "088e2195-cda0-4686-9d8b-898a3cba5be8",
+    "data": [
+      {
+        "text": "please close both ",
+        "userDefined": false
+      },
+      {
+        "text": "rear windows",
+        "alias": "car-part",
+        "meta": "@car-part",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bc69af8d-6c98-45a2-81d0-6e6d92387164",
+    "data": [
+      {
+        "text": "shut the ",
+        "userDefined": false
+      },
+      {
+        "text": "doors",
+        "alias": "car-part",
+        "meta": "@car-part",
+        "userDefined": true
+      },
+      {
+        "text": " in the car",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "16e0bed2-6f7b-4899-a86b-c60c23a1a6fb",
+    "data": [
+      {
+        "text": "shut the ",
+        "userDefined": false
+      },
+      {
+        "text": "driver\u0027s door",
+        "alias": "car-part",
+        "meta": "@car-part",
+        "userDefined": false
+      },
+      {
+        "text": " for me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4c84c83e-2d0e-4cfb-926c-55b5dd55cf96",
+    "data": [
+      {
+        "text": "close the ",
+        "userDefined": false
+      },
+      {
+        "text": "trunk",
+        "alias": "car-part",
+        "meta": "@car-part",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8fcbc388-f917-4f28-bbe3-755c73e0afad",
+    "data": [
+      {
+        "text": "close all the ",
+        "userDefined": false
+      },
+      {
+        "text": "windows",
+        "alias": "car-part",
+        "meta": "@car-part",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5394a03a-e34a-4f06-ac1c-fd5e6fb17655",
+    "data": [
+      {
+        "text": "close the ",
+        "userDefined": false
+      },
+      {
+        "text": "trunk",
+        "alias": "car-part",
+        "meta": "@car-part",
+        "userDefined": true
+      },
+      {
+        "text": " please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

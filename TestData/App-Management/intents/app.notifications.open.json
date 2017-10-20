@@ -1,0 +1,36 @@
+{
+  "id": "26e64b1b-eaa7-4ce2-be46-631a501fccbe",
+  "name": "app.notifications.open",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "app.notifications.open",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "88d05440-9d1c-42e6-ab98-fd201e2bf0ae",
+          "dataType": "@app-name",
+          "name": "app-name",
+          "value": "$app-name"
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1508382172388,
+  "fallbackIntent": false,
+  "events": []
+}

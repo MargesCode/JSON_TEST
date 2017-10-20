@@ -1,0 +1,156 @@
+[
+  {
+    "id": "75dd0f3b-dc93-4f48-9a97-0e5734e14951",
+    "data": [
+      {
+        "text": "access ",
+        "userDefined": false
+      },
+      {
+        "text": "Chrome",
+        "alias": "app-name",
+        "meta": "@app-name",
+        "userDefined": true
+      },
+      {
+        "text": " settings",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d312a80c-b725-490a-b70d-888439ff7fb2",
+    "data": [
+      {
+        "text": "open up ",
+        "userDefined": false
+      },
+      {
+        "text": "Slack",
+        "alias": "app-name",
+        "meta": "@app-name",
+        "userDefined": true
+      },
+      {
+        "text": " settings menu",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "55d8e833-b7ec-46ad-95cb-267ea6c27921",
+    "data": [
+      {
+        "text": "open ",
+        "userDefined": false
+      },
+      {
+        "text": "Skype",
+        "alias": "app-name",
+        "meta": "@app-name",
+        "userDefined": true
+      },
+      {
+        "text": " settings",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "23a0cebf-2577-47fd-bc53-7d04d95c990a",
+    "data": [
+      {
+        "text": "go to ",
+        "userDefined": false
+      },
+      {
+        "text": "Shazam",
+        "alias": "app-name",
+        "meta": "@app-name",
+        "userDefined": true
+      },
+      {
+        "text": " settings",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b606c70f-5f4f-4d92-884f-1fcd9cb267e8",
+    "data": [
+      {
+        "text": "could you open ",
+        "userDefined": false
+      },
+      {
+        "text": "Facebook",
+        "alias": "app-name",
+        "meta": "@app-name",
+        "userDefined": true
+      },
+      {
+        "text": " settings",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ff6ab3b1-b0dc-46b4-a216-b652b2efb2d9",
+    "data": [
+      {
+        "text": "I\u0027d like to open ",
+        "userDefined": false
+      },
+      {
+        "text": "Twitter",
+        "alias": "app-name",
+        "meta": "@app-name",
+        "userDefined": true
+      },
+      {
+        "text": " app settings",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e9564ffb-90a4-4cab-9d48-7b85689f2a61",
+    "data": [
+      {
+        "text": "how can I open the settings of the ",
+        "userDefined": false
+      },
+      {
+        "text": "Angry Birds",
+        "alias": "app-name",
+        "meta": "@app-name",
+        "userDefined": true
+      },
+      {
+        "text": " app",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

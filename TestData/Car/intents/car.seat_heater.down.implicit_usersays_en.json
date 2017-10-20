@@ -1,0 +1,84 @@
+[
+  {
+    "id": "3d813aac-ec2c-4911-9640-0af7c9c164dc",
+    "data": [
+      {
+        "text": "my seat",
+        "alias": "car-part",
+        "meta": "@car-part",
+        "userDefined": true
+      },
+      {
+        "text": " is boiling",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "de904105-078f-4dfb-9a03-a89aa178c584",
+    "data": [
+      {
+        "text": "driver\u0027s seat",
+        "alias": "car-part",
+        "meta": "@car-part",
+        "userDefined": false
+      },
+      {
+        "text": " is too hot",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1887ce5e-35a9-415a-b999-7a897c76b386",
+    "data": [
+      {
+        "text": "Mary",
+        "alias": "passenger",
+        "meta": "@sys.given-name",
+        "userDefined": true
+      },
+      {
+        "text": "\u0027s seat is too ",
+        "userDefined": false
+      },
+      {
+        "text": "hot",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0e82aac2-3753-4c93-af02-0f8b605e4c25",
+    "data": [
+      {
+        "text": "my seat",
+        "alias": "car-part",
+        "meta": "@car-part",
+        "userDefined": true
+      },
+      {
+        "text": " is too ",
+        "userDefined": false
+      },
+      {
+        "text": "hot",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

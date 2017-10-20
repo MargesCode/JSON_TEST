@@ -1,0 +1,311 @@
+[
+  {
+    "id": "f27869f2-3ecb-4ff5-bd76-a94decd0794b",
+    "data": [
+      {
+        "text": "side view mirror",
+        "alias": "car-part",
+        "meta": "@car-mirror",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "upright",
+        "alias": "rotation",
+        "meta": "@rotation",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "391927fe-f4e1-450f-b1e8-80bb215020d5",
+    "data": [
+      {
+        "text": "side view mirror",
+        "alias": "car-part",
+        "meta": "@car-mirror",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "up",
+        "alias": "rotation",
+        "meta": "@rotation",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3e22c2c2-8311-4953-96ef-795a1c6df2b4",
+    "data": [
+      {
+        "text": "left mirror",
+        "alias": "car-part",
+        "meta": "@car-mirror",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "down",
+        "alias": "rotation",
+        "meta": "@rotation",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0179f53d-2441-4b0b-92d7-b2937d3e98fb",
+    "data": [
+      {
+        "text": "turn",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " the ",
+        "userDefined": false
+      },
+      {
+        "text": "left mirror",
+        "alias": "car-part",
+        "meta": "@car-mirror",
+        "userDefined": true
+      },
+      {
+        "text": " a ",
+        "userDefined": false
+      },
+      {
+        "text": "little",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "to",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " the ",
+        "userDefined": false
+      },
+      {
+        "text": "right",
+        "alias": "rotation",
+        "meta": "@rotation",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ad556ee8-4b8f-43c7-b170-91596005e57d",
+    "data": [
+      {
+        "text": "adjust mirrors",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3c2b12dd-05f0-4653-99dc-81823c459cc5",
+    "data": [
+      {
+        "text": "adjust mirrors in my car",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "be59834e-f343-4ba0-a8dd-dfb771de38e4",
+    "data": [
+      {
+        "text": "rotate ",
+        "userDefined": false
+      },
+      {
+        "text": "car",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " mirror ",
+        "userDefined": false
+      },
+      {
+        "text": "to",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " the ",
+        "userDefined": false
+      },
+      {
+        "text": "right",
+        "alias": "rotation",
+        "meta": "@rotation",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "5765b567-3548-49a4-b1b9-2baff347f601",
+    "data": [
+      {
+        "text": "set car mirrors",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e22d06cb-53fa-4f3e-925b-f7b2b0f40c3c",
+    "data": [
+      {
+        "text": "shift the ",
+        "userDefined": false
+      },
+      {
+        "text": "right mirror",
+        "alias": "car-part",
+        "meta": "@car-mirror",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "towards me",
+        "alias": "rotation",
+        "meta": "@rotation",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "05485b65-60ea-4a91-8452-061fbcb0f23e",
+    "data": [
+      {
+        "text": "adjust the ",
+        "userDefined": false
+      },
+      {
+        "text": "side mirrors",
+        "alias": "car-part",
+        "meta": "@car-mirror",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0ab9101e-2329-4740-919a-171ee56025da",
+    "data": [
+      {
+        "text": "set the ",
+        "userDefined": false
+      },
+      {
+        "text": "blind spot safety mirror",
+        "alias": "car-part",
+        "meta": "@car-mirror",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "06b2a7d4-d123-4702-9e8b-1f2d2396cfa2",
+    "data": [
+      {
+        "text": "turn",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "car",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "mirror",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "to",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " the ",
+        "userDefined": false
+      },
+      {
+        "text": "left",
+        "alias": "rotation",
+        "meta": "@rotation",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

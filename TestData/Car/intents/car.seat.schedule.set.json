@@ -1,0 +1,72 @@
+{
+  "id": "27345eb2-0cb4-41cd-83db-e92802d940d7",
+  "name": "car.seat.schedule.set",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "car.seat.schedule.set",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "0f8ec299-998d-4e7b-b0f9-93321b4e3c70",
+          "dataType": "@position",
+          "name": "position",
+          "value": "$position",
+          "isList": false
+        },
+        {
+          "id": "d9f86f26-93b9-4a89-9102-56262254fcb1",
+          "dataType": "@car-seat",
+          "name": "car-seat",
+          "value": "$car-seat",
+          "isList": false
+        },
+        {
+          "id": "97da5818-4d73-47fd-9379-0509b8242c6a",
+          "dataType": "@condition",
+          "name": "condition",
+          "value": "$condition",
+          "isList": false
+        },
+        {
+          "id": "4c3e6e49-131a-48bd-8555-03008347e16f",
+          "dataType": "@all",
+          "name": "all",
+          "value": "$all",
+          "isList": false
+        },
+        {
+          "id": "786617e5-fae9-47f8-9c5b-63ca63ad0506",
+          "dataType": "@sys.number",
+          "name": "change-value",
+          "value": "$change-value",
+          "isList": false
+        },
+        {
+          "id": "0f87211b-9377-4fc1-b1a5-2eea3ac2a73c",
+          "dataType": "@sys.given-name",
+          "name": "passenger",
+          "value": "$passenger",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1508382216897,
+  "fallbackIntent": false,
+  "events": []
+}

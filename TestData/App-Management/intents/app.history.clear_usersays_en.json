@@ -1,0 +1,104 @@
+[
+  {
+    "id": "40c2f801-9a12-472a-9fbd-5846554db039",
+    "data": [
+      {
+        "text": "delete ",
+        "userDefined": false
+      },
+      {
+        "text": "Skype",
+        "alias": "app-name",
+        "meta": "@app-name",
+        "userDefined": false
+      },
+      {
+        "text": " history",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6ef2f260-9b60-437f-89e6-79e119f05c8c",
+    "data": [
+      {
+        "text": "clear ",
+        "userDefined": false
+      },
+      {
+        "text": "browser",
+        "alias": "app-name",
+        "meta": "@app-name",
+        "userDefined": false
+      },
+      {
+        "text": " history",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "09542f81-c278-41c1-b396-e4ef78b83f55",
+    "data": [
+      {
+        "text": "clear history of the app ",
+        "userDefined": false
+      },
+      {
+        "text": "Viber",
+        "alias": "app-name",
+        "meta": "@app-name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a0602465-13f2-4ac5-b211-1490783bb675",
+    "data": [
+      {
+        "text": "clear history in ",
+        "userDefined": false
+      },
+      {
+        "text": "Slack",
+        "alias": "app-name",
+        "meta": "@app-name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3082ac6b-282f-4d60-a94d-06c168ea40b9",
+    "data": [
+      {
+        "text": "clear history in ",
+        "userDefined": false
+      },
+      {
+        "text": "Facebook",
+        "alias": "app-name",
+        "meta": "@app-name",
+        "userDefined": false
+      },
+      {
+        "text": " app",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

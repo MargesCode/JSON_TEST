@@ -1,0 +1,50 @@
+{
+  "id": "4bf8f8ae-701e-4563-a8b5-ba00651166d1",
+  "name": "car.lights.switch.check",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "car.lights.switch.check",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "6784146e-1b65-4afe-a47a-25634ddb4a6a",
+          "dataType": "@car-light",
+          "name": "car-part",
+          "value": "$car-part"
+        },
+        {
+          "id": "7c43a32a-3634-470d-bbbe-ce69755859b3",
+          "dataType": "@all",
+          "name": "all",
+          "value": "$all",
+          "isList": false
+        },
+        {
+          "id": "d98291ee-1389-4b05-9e08-505e35d461a6",
+          "dataType": "@sys.number",
+          "name": "value",
+          "value": "$value",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1508382216401,
+  "fallbackIntent": false,
+  "events": []
+}

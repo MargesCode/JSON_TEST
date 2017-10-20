@@ -1,0 +1,44 @@
+{
+  "id": "4af881b0-7a28-4cac-9100-54f0485664fa",
+  "name": "car.ac.check",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "car.ac.check",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "026b4df1-ef65-4958-afb2-36310d63ce3a",
+          "dataType": "@car-device",
+          "name": "device",
+          "value": "$device",
+          "isList": false
+        },
+        {
+          "id": "85b4cc9e-90d5-41a8-b09c-fbb1cbf0a057",
+          "dataType": "@sys.number",
+          "name": "value",
+          "value": "$value",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1508382216717,
+  "fallbackIntent": false,
+  "events": []
+}

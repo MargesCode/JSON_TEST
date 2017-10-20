@@ -1,0 +1,135 @@
+[
+  {
+    "id": "7a9c53f6-92ed-4cf3-a34c-6ca8ed068619",
+    "data": [
+      {
+        "text": "what\u0027s new in the latest version of ",
+        "userDefined": false
+      },
+      {
+        "text": "Twitter",
+        "alias": "app-name",
+        "meta": "@app-name",
+        "userDefined": true
+      },
+      {
+        "text": " app",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "73b7e0dd-4ae9-4b2c-a730-28c94b7cf35d",
+    "data": [
+      {
+        "text": "Slack",
+        "alias": "app-name",
+        "meta": "@app-name",
+        "userDefined": true
+      },
+      {
+        "text": " version summary",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "229648ac-c2ba-4396-9937-7f5c5ceaf066",
+    "data": [
+      {
+        "text": "read the version summary of the ",
+        "userDefined": false
+      },
+      {
+        "text": "VK",
+        "alias": "app-name",
+        "meta": "@app-name",
+        "userDefined": true
+      },
+      {
+        "text": " application",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "218e84ed-69c1-45ee-b339-f78f2cc78307",
+    "data": [
+      {
+        "text": "show me the summary of the new version of the ",
+        "userDefined": false
+      },
+      {
+        "text": "Kik",
+        "alias": "app-name",
+        "meta": "@app-name",
+        "userDefined": true
+      },
+      {
+        "text": " app",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ac98f787-8e67-4e53-ae54-c87de3d166f5",
+    "data": [
+      {
+        "text": "show me what\u0027s new in the latest version of ",
+        "userDefined": false
+      },
+      {
+        "text": "Skype",
+        "alias": "app-name",
+        "meta": "@app-name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e3f084c0-4069-4f20-a3c4-eb6049142b65",
+    "data": [
+      {
+        "text": "what\u0027s new in ",
+        "userDefined": false
+      },
+      {
+        "text": "WhatsApp",
+        "alias": "app-name",
+        "meta": "@app-name",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "latest",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " version",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

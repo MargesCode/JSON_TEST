@@ -1,0 +1,77 @@
+{
+  "id": "2e0e9a1e-4399-4923-b53e-d3cb4d32449a",
+  "name": "car.ac.schedule.up",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "car.ac.schedule.up",
+      "affectedContexts": [
+        {
+          "name": "schedule",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "c1ea5c04-8a0b-4993-b553-f4423e42ac28",
+          "dataType": "@condition",
+          "name": "condition",
+          "value": "$condition",
+          "isList": false
+        },
+        {
+          "id": "d53e549f-a974-4e85-b06d-17f05b9203c3",
+          "dataType": "@heating",
+          "name": "device",
+          "value": "$device",
+          "isList": false
+        },
+        {
+          "id": "f553ae2a-6bd6-40d3-8122-fd6f0c4b89d2",
+          "dataType": "@sys.given-name",
+          "name": "passenger",
+          "value": "$passenger",
+          "isList": false
+        },
+        {
+          "id": "831f87a2-1cca-46bc-bd21-4362710792ac",
+          "dataType": "@sys.number",
+          "name": "change-value",
+          "value": "$change-value"
+        },
+        {
+          "id": "88ef400f-35cf-4416-b3e3-afc49223b84e",
+          "dataType": "@sys.number",
+          "name": "final-value",
+          "value": "$final-value",
+          "isList": false
+        },
+        {
+          "id": "bbf84f58-351b-4392-9156-dff46fe60978",
+          "dataType": "@car-seat",
+          "name": "car-part",
+          "value": "$car-part",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1508382216514,
+  "fallbackIntent": false,
+  "events": []
+}

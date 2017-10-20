@@ -1,0 +1,31 @@
+{
+  "id": "6d5899e2-7829-400b-8cba-ff6ab5cf644b",
+  "name": "car.locks.lock- context:car-lock-unlock",
+  "auto": true,
+  "contexts": [
+    "car-lock-unlock"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "car.locks.lock",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1508382216629,
+  "fallbackIntent": false,
+  "events": []
+}

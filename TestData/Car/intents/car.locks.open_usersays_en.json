@@ -1,0 +1,433 @@
+[
+  {
+    "id": "fba19ab6-9cd5-45b6-9f76-b93200c40820",
+    "data": [
+      {
+        "text": "open ",
+        "userDefined": false
+      },
+      {
+        "text": "all",
+        "alias": "all",
+        "meta": "@all",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "doors",
+        "alias": "car-part",
+        "meta": "@car-part",
+        "userDefined": false
+      },
+      {
+        "text": " in the car",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a1095a07-55c7-43ea-92f7-4cb46d319763",
+    "data": [
+      {
+        "text": "roll ",
+        "userDefined": false
+      },
+      {
+        "text": "my window",
+        "alias": "car-part",
+        "meta": "@car-part",
+        "userDefined": true
+      },
+      {
+        "text": " down",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "def9ef7f-e8f8-475c-b341-9973a7f2c8e3",
+    "data": [
+      {
+        "text": "open",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "luggage compartment",
+        "alias": "car-part",
+        "meta": "@car-part",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "95343a6f-afb3-4e8f-b488-ec09d8247312",
+    "data": [
+      {
+        "text": "remove the ",
+        "userDefined": false
+      },
+      {
+        "text": "roof",
+        "alias": "car-part",
+        "meta": "@car-part",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8403fd0f-6e7a-4eaa-8c10-cbd865fcddbf",
+    "data": [
+      {
+        "text": "can",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "you",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "open",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "all",
+        "alias": "all",
+        "meta": "@all",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "windows",
+        "alias": "car-part",
+        "meta": "@car-part",
+        "userDefined": false
+      },
+      {
+        "text": " in my ",
+        "userDefined": false
+      },
+      {
+        "text": "car",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c86b8e6d-3595-4673-aa68-b4a80b05e86e",
+    "data": [
+      {
+        "text": "all",
+        "alias": "all",
+        "meta": "@all",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "doors",
+        "alias": "car-part",
+        "meta": "@car-part",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "the car",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " should be ",
+        "userDefined": false
+      },
+      {
+        "text": "opened",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4c0a1c3d-6efa-4b36-b61c-6b34fc7c1ff6",
+    "data": [
+      {
+        "text": "open",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "left front window",
+        "alias": "car-part",
+        "meta": "@car-part",
+        "userDefined": false
+      },
+      {
+        "text": " of my ",
+        "userDefined": false
+      },
+      {
+        "text": "car",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c4a72543-8965-476e-9677-9aca9d2aafa7",
+    "data": [
+      {
+        "text": "open",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " both ",
+        "userDefined": false
+      },
+      {
+        "text": "front windows",
+        "alias": "car-part",
+        "meta": "@car-part",
+        "userDefined": true
+      },
+      {
+        "text": " in the car",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "67d32c44-8647-42de-b1ed-adb8e0fc9878",
+    "data": [
+      {
+        "text": "can you open ",
+        "userDefined": false
+      },
+      {
+        "text": "my door",
+        "alias": "car-part",
+        "meta": "@car-part",
+        "userDefined": true
+      },
+      {
+        "text": " please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1d3a4cd5-36a4-4b67-8093-794cda1906c7",
+    "data": [
+      {
+        "text": "open ",
+        "userDefined": false
+      },
+      {
+        "text": "my window",
+        "alias": "car-part",
+        "meta": "@car-part",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "213e1d56-09ee-4328-91b6-a90af20ce5d1",
+    "data": [
+      {
+        "text": "can you open the ",
+        "userDefined": false
+      },
+      {
+        "text": "passenger door",
+        "alias": "car-part",
+        "meta": "@car-part",
+        "userDefined": true
+      },
+      {
+        "text": " for me please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0f36bb71-70cd-479e-8a2a-2bf5fdf6da19",
+    "data": [
+      {
+        "text": "I need to open the ",
+        "userDefined": false
+      },
+      {
+        "text": "left passenger door",
+        "alias": "car-part",
+        "meta": "@car-part",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5b1e6619-538a-4be1-8281-ef28c02bb2cb",
+    "data": [
+      {
+        "text": "lower",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " the ",
+        "userDefined": false
+      },
+      {
+        "text": "passenger side window",
+        "alias": "car-part",
+        "meta": "@car-part",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8503e394-62e0-49c3-9204-480bd0a324b2",
+    "data": [
+      {
+        "text": "I need to open the ",
+        "userDefined": false
+      },
+      {
+        "text": "rear right passenger door",
+        "alias": "car-part",
+        "meta": "@car-part",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a344f4f4-7373-4d46-b93d-df73037c151e",
+    "data": [
+      {
+        "text": "open the ",
+        "userDefined": false
+      },
+      {
+        "text": "rooftop",
+        "alias": "car-part",
+        "meta": "@car-part",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "af94167a-d49e-4611-b7fe-f99301cf2138",
+    "data": [
+      {
+        "text": "open the ",
+        "userDefined": false
+      },
+      {
+        "text": "sunroof",
+        "alias": "car-part",
+        "meta": "@car-part",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "dc33d333-5f61-4245-bbc4-7f2015d62ada",
+    "data": [
+      {
+        "text": "open ",
+        "userDefined": false
+      },
+      {
+        "text": "side mirror",
+        "alias": "car-part",
+        "meta": "@car-part",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

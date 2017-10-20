@@ -1,0 +1,250 @@
+[
+  {
+    "id": "6b93ca6e-d206-4bc0-9535-411cc0266418",
+    "data": [
+      {
+        "text": "search for a new ",
+        "userDefined": false
+      },
+      {
+        "text": "music player",
+        "alias": "app-name",
+        "meta": "@app-name",
+        "userDefined": true
+      },
+      {
+        "text": " app",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "46499c37-4e85-4de1-a0a1-5f9c9a78a125",
+    "data": [
+      {
+        "text": "find ",
+        "userDefined": false
+      },
+      {
+        "text": "Instagram",
+        "alias": "app-name",
+        "meta": "@app-name",
+        "userDefined": true
+      },
+      {
+        "text": " on ",
+        "userDefined": false
+      },
+      {
+        "text": "App Store",
+        "alias": "store-name",
+        "meta": "@app-store-name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "151cf998-6313-4d74-9242-8b488d278df9",
+    "data": [
+      {
+        "text": "I need the app ",
+        "userDefined": false
+      },
+      {
+        "text": "Twitter",
+        "alias": "app-name",
+        "meta": "@app-name",
+        "userDefined": true
+      },
+      {
+        "text": " can you find it",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2aebb8fa-187c-45a5-b0d1-a8a3e5274dfe",
+    "data": [
+      {
+        "text": "can you search for apps",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a70765a7-8ec7-4891-8b01-d0006c68dfae",
+    "data": [
+      {
+        "text": "find an app",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2f048a46-41bd-4fbf-8c47-38acf3d24431",
+    "data": [
+      {
+        "text": "I need ",
+        "userDefined": false
+      },
+      {
+        "text": "Slack",
+        "alias": "app-name",
+        "meta": "@app-name",
+        "userDefined": true
+      },
+      {
+        "text": " app",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9396a3a1-b4cf-48a2-9756-4136b33015eb",
+    "data": [
+      {
+        "text": "search for ",
+        "userDefined": false
+      },
+      {
+        "text": "Angry Birds",
+        "alias": "app-name",
+        "meta": "@app-name",
+        "userDefined": true
+      },
+      {
+        "text": " on ",
+        "userDefined": false
+      },
+      {
+        "text": "Play Market",
+        "alias": "store-name",
+        "meta": "@app-store-name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0263151e-290a-425d-a95d-38ae0b4a8918",
+    "data": [
+      {
+        "text": "I need to find ",
+        "userDefined": false
+      },
+      {
+        "text": "Chrome",
+        "alias": "app-name",
+        "meta": "@app-name",
+        "userDefined": true
+      },
+      {
+        "text": " app",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4265f8d3-1a5f-4c11-b458-c15ad206ef43",
+    "data": [
+      {
+        "text": "Play Market",
+        "alias": "store-name",
+        "meta": "@app-store-name",
+        "userDefined": true
+      },
+      {
+        "text": " search for ",
+        "userDefined": false
+      },
+      {
+        "text": "Facebook messenger",
+        "alias": "app-name",
+        "meta": "@app-name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "edbade08-f4e6-436b-853b-13b6175019ae",
+    "data": [
+      {
+        "text": "could you search for ",
+        "userDefined": false
+      },
+      {
+        "text": "Skype",
+        "alias": "app-name",
+        "meta": "@app-name",
+        "userDefined": true
+      },
+      {
+        "text": " on ",
+        "userDefined": false
+      },
+      {
+        "text": "App Store",
+        "alias": "store-name",
+        "meta": "@app-store-name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "65c1269a-38f2-4a0a-a00b-a2b3e7a8d6fa",
+    "data": [
+      {
+        "text": "I\u0027d like to find ",
+        "userDefined": false
+      },
+      {
+        "text": "Kik",
+        "alias": "app-name",
+        "meta": "@app-name",
+        "userDefined": true
+      },
+      {
+        "text": " app on ",
+        "userDefined": false
+      },
+      {
+        "text": "Play Store",
+        "alias": "store-name",
+        "meta": "@app-store-name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "value": "left",
+    "synonyms": [
+      "left"
+    ]
+  },
+  {
+    "value": "right",
+    "synonyms": [
+      "right"
+    ]
+  },
+  {
+    "value": "towards user",
+    "synonyms": [
+      "towards me",
+      "towards user"
+    ]
+  },
+  {
+    "value": "down",
+    "synonyms": [
+      "down"
+    ]
+  },
+  {
+    "value": "up",
+    "synonyms": [
+      "up"
+    ]
+  },
+  {
+    "value": "upright",
+    "synonyms": [
+      "upright"
+    ]
+  }
+]

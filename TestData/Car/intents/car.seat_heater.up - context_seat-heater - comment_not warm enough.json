@@ -1,0 +1,31 @@
+{
+  "id": "4a12fa3a-cdeb-4585-b376-889dea1becbb",
+  "name": "car.seat_heater.up - context:seat-heater - comment:not warm enough",
+  "auto": true,
+  "contexts": [
+    "seat-heater"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "car.seat_heater.up",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1508382216871,
+  "fallbackIntent": false,
+  "events": []
+}

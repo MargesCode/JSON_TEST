@@ -1,0 +1,31 @@
+{
+  "id": "e48105b8-a712-4c94-8d01-39f0a3cf0aa8",
+  "name": "car.lights.brightness.up - context:car-brightness - comment:not bright enough",
+  "auto": true,
+  "contexts": [
+    "car-brightness"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "car.lights.brightness.up",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1508382216359,
+  "fallbackIntent": false,
+  "events": []
+}

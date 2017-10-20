@@ -1,0 +1,60 @@
+{
+  "id": "119eed6c-4a1c-43ad-9046-d134d804f468",
+  "name": "car.seat_heater.up",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "car.seat_heater.up",
+      "affectedContexts": [
+        {
+          "name": "seat-heater",
+          "parameters": {},
+          "lifespan": 5
+        },
+        {
+          "name": "schedule",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "de6ecd5c-980f-40e6-9f0d-7ec67542f5aa",
+          "dataType": "@car-seat",
+          "name": "car-part",
+          "value": "$car-part"
+        },
+        {
+          "id": "f1ec1faf-cdb0-401e-8b7a-87f769ad212f",
+          "dataType": "@sys.given-name",
+          "name": "passenger",
+          "value": "$passenger"
+        },
+        {
+          "id": "3a62d28d-e642-4323-b8d1-ddcdc5235706",
+          "dataType": "@sys.number",
+          "name": "temperature",
+          "value": "$temperature",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1508382216839,
+  "fallbackIntent": false,
+  "events": []
+}

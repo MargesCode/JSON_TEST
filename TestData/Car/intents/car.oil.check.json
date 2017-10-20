@@ -1,0 +1,29 @@
+{
+  "id": "e77f4d20-1c3c-449e-a635-723e8432bbfa",
+  "name": "car.oil.check",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "car.oil.check",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1508382216199,
+  "fallbackIntent": false,
+  "events": []
+}

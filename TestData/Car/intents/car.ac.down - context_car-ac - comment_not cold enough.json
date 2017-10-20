@@ -1,0 +1,31 @@
+{
+  "id": "b103cbe1-f94f-4bd7-9614-a0df1d8dc73a",
+  "name": "car.ac.down - context:car-ac - comment:not cold enough",
+  "auto": true,
+  "contexts": [
+    "car-ac"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "car.ac.down",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1508382216634,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,29 @@
+{
+  "id": "ddaaf29e-9f42-4135-aa90-3b07ca8ac6f4",
+  "name": "car.alarm.check",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "car.alarm.check",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1508382216598,
+  "fallbackIntent": false,
+  "events": []
+}

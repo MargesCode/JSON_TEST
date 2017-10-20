@@ -1,0 +1,31 @@
+{
+  "id": "03972bd3-be21-44bd-ae6d-6a5b3ef3b67b",
+  "name": "car.locks.open - context:car-close-open",
+  "auto": true,
+  "contexts": [
+    "car-close-open"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "car.locks.open",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1508382216539,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,54 @@
+{
+  "id": "081f756a-8767-4ce6-bf38-e84cf0ac7ca3",
+  "name": "date.day_of_week.check",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "date.day_of_week.check",
+      "affectedContexts": [
+        {
+          "name": "date-check",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "d9ad8013-70c6-4d22-851c-a2e5b5b5efe3",
+          "dataType": "@dayofweek",
+          "name": "dayofweek",
+          "value": "$dayofweek"
+        },
+        {
+          "id": "9bf978aa-579f-486e-84c3-68cc73af4abe",
+          "dataType": "@sys.date",
+          "name": "date",
+          "value": "$date"
+        },
+        {
+          "id": "0c956fda-6845-4566-905c-5682727f033c",
+          "dataType": "@sys.location",
+          "name": "location",
+          "value": "$location"
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1508382294473,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,339 @@
+[
+  {
+    "id": "2a16b93e-dd1e-454b-986c-1aabdfe06bf0",
+    "data": [
+      {
+        "text": "how to ",
+        "userDefined": false
+      },
+      {
+        "text": "adjust ignition switch",
+        "alias": "topic",
+        "meta": "@car-topic",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e2a9bf42-a6a0-451c-8f9c-35ff46aeab0b",
+    "data": [
+      {
+        "text": "how do I ",
+        "userDefined": false
+      },
+      {
+        "text": "set my cruise control",
+        "alias": "topic",
+        "meta": "@car-topic",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f89be691-4fdc-487a-8aa1-b24f51180c97",
+    "data": [
+      {
+        "text": "how can I ",
+        "userDefined": false
+      },
+      {
+        "text": "program my favorite radio stations",
+        "alias": "topic",
+        "meta": "@car-topic",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "21b9fd05-4ad0-44e3-8f35-75fd66f693e4",
+    "data": [
+      {
+        "text": "I need to ",
+        "userDefined": false
+      },
+      {
+        "text": "set the clock",
+        "alias": "topic",
+        "meta": "@car-topic",
+        "userDefined": true
+      },
+      {
+        "text": " in my car",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b30fa8fe-871a-4704-a8ef-ba737dea1697",
+    "data": [
+      {
+        "text": "how do I  ",
+        "userDefined": false
+      },
+      {
+        "text": "set my cruise control",
+        "alias": "topic",
+        "meta": "@car-topic",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "27faafc7-642f-409d-a2eb-3f943197a718",
+    "data": [
+      {
+        "text": "how ",
+        "userDefined": false
+      },
+      {
+        "text": "to",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "change car oil",
+        "alias": "topic",
+        "meta": "@car-topic",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5caa6603-995e-42f7-a0a0-0d48ed3afc52",
+    "data": [
+      {
+        "text": "do you know how to ",
+        "userDefined": false
+      },
+      {
+        "text": "change the steering wheel position",
+        "alias": "topic",
+        "meta": "@car-topic",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ef30ef22-f51c-4872-a54f-01ef9adc2d47",
+    "data": [
+      {
+        "text": "how to ",
+        "userDefined": false
+      },
+      {
+        "text": "adjust seats manually",
+        "alias": "topic",
+        "meta": "@car-topic",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "253cd68b-a0a5-42b7-8be7-6cbfb57c0bfe",
+    "data": [
+      {
+        "text": "do ",
+        "userDefined": false
+      },
+      {
+        "text": "you",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " know how to ",
+        "userDefined": false
+      },
+      {
+        "text": "change the wheel",
+        "alias": "topic",
+        "meta": "@car-topic",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f07cb739-8c53-413d-be77-5528d2d5898e",
+    "data": [
+      {
+        "text": "I ",
+        "userDefined": false
+      },
+      {
+        "text": "don",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": "\u0027t know how to ",
+        "userDefined": false
+      },
+      {
+        "text": "fix the engine block",
+        "alias": "topic",
+        "meta": "@car-topic",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "966208a8-bd2a-4886-81f8-eaf10884e703",
+    "data": [
+      {
+        "text": "tell me how to ",
+        "userDefined": false
+      },
+      {
+        "text": "turn on the navigation system",
+        "alias": "topic",
+        "meta": "@car-topic",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "38b51a46-2d3a-419d-8e34-bf24cfa80fa9",
+    "data": [
+      {
+        "text": "can I ",
+        "userDefined": false
+      },
+      {
+        "text": "adjust the wheel",
+        "alias": "topic",
+        "meta": "@car-topic",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "517f8a34-7811-4d42-9e94-3fa6f5994a4f",
+    "data": [
+      {
+        "text": "how do I ",
+        "userDefined": false
+      },
+      {
+        "text": "adjust seat",
+        "alias": "topic",
+        "meta": "@car-topic",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "45440ddd-193c-4a95-82a9-1661bcc5c451",
+    "data": [
+      {
+        "text": "how do I ",
+        "userDefined": false
+      },
+      {
+        "text": "drive this car",
+        "alias": "topic",
+        "meta": "@car-topic",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "53b47702-39b4-4683-9840-e340c6fc98bf",
+    "data": [
+      {
+        "text": "how to ",
+        "userDefined": false
+      },
+      {
+        "text": "fasten the seat belt",
+        "alias": "topic",
+        "meta": "@car-topic",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0e562c9f-dd7f-4536-9ab2-a48f2a35ee9f",
+    "data": [
+      {
+        "text": "how ",
+        "userDefined": false
+      },
+      {
+        "text": "often do I need to change oil",
+        "alias": "topic",
+        "meta": "@car-topic",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9625ccdb-c4dc-46bb-912f-0596bb22a2d5",
+    "data": [
+      {
+        "text": "how to ",
+        "userDefined": false
+      },
+      {
+        "text": "repair car speakers",
+        "alias": "topic",
+        "meta": "@car-topic",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

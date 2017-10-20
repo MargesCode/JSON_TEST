@@ -1,0 +1,152 @@
+[
+  {
+    "id": "1c9019a6-f4b5-4cc5-b26c-c56047a4062b",
+    "data": [
+      {
+        "text": "check the car lights",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "46e9fea0-9122-49ad-9e8e-14aaf6c02ba6",
+    "data": [
+      {
+        "text": "is the ",
+        "userDefined": false
+      },
+      {
+        "text": "fog light",
+        "alias": "car-part",
+        "meta": "@car-light",
+        "userDefined": false
+      },
+      {
+        "text": " set for ",
+        "userDefined": false
+      },
+      {
+        "text": "50",
+        "alias": "value",
+        "meta": "@sys.number",
+        "userDefined": true
+      },
+      {
+        "text": " points",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3f9f49e5-51e3-4202-ab31-6c322bd5dd14",
+    "data": [
+      {
+        "text": "all",
+        "alias": "all",
+        "meta": "@all",
+        "userDefined": true
+      },
+      {
+        "text": " car lights status",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "cd3eb277-e074-4475-909d-ece22859f6fa",
+    "data": [
+      {
+        "text": "tell the ",
+        "userDefined": false
+      },
+      {
+        "text": "fog light",
+        "alias": "car-part",
+        "meta": "@car-light",
+        "userDefined": true
+      },
+      {
+        "text": " status please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1f6aa20f-24f6-4160-9521-23a97190b5c9",
+    "data": [
+      {
+        "text": "what is",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " the ",
+        "userDefined": false
+      },
+      {
+        "text": "fog light",
+        "alias": "car-part",
+        "meta": "@car-light",
+        "userDefined": false
+      },
+      {
+        "text": " status",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "03a5bd19-85e6-4eef-87be-93f84d02e29a",
+    "data": [
+      {
+        "text": "fog light",
+        "alias": "car-part",
+        "meta": "@car-light",
+        "userDefined": false
+      },
+      {
+        "text": " status",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "533c4732-dc1f-46df-8f4e-cf06eee86afb",
+    "data": [
+      {
+        "text": "check ",
+        "userDefined": false
+      },
+      {
+        "text": "lights",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " in the car",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

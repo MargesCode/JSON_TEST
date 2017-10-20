@@ -1,0 +1,31 @@
+{
+  "id": "535598f7-4ef7-4b9b-9025-3c8f1975d9a5",
+  "name": "car.lights.brightness.down - context:car-brightness - comment:not dim enough",
+  "auto": true,
+  "contexts": [
+    "car-brightness"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "car.lights.brightness.down",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1508382216679,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,33 @@
+{
+  "description": "Users can make requests through your app to their vehicle\u0027s systems. This can include climate control, health reports, and diagnostics.",
+  "language": "en",
+  "shortDescription": "Interact with a vehicle\u0027s systems",
+  "examples": "User: It\u0027s too cold in the backseat.\nUser: What\u0027s wrong with my car?\nUser: Do I have enough gas?\nUser: How\u0027s my tire pressure looking?\nUser: How do I set my cruise control?\nUser: Where is the emergency brake?\nUser: Turn on headlights.\nUser: Lock my car.\nUser: Open the sunroof.\nUser: Roll my window down.\nUser: Move the passenger seat back a little.",
+  "activeAssistantAgents": [],
+  "googleAssistant": {
+    "googleAssistantCompatible": false,
+    "project": "car-wiwfar",
+    "welcomeIntentSignInRequired": false,
+    "startIntents": [],
+    "systemIntents": [],
+    "endIntentIds": [],
+    "oAuthLinking": {
+      "required": false,
+      "grantType": "AUTH_CODE_GRANT"
+    },
+    "voiceType": "MALE_1",
+    "capabilities": [],
+    "protocolVersion": "V2"
+  },
+  "defaultTimezone": "America/New_York",
+  "webhook": {
+    "available": false,
+    "useForDomains": false,
+    "cloudFunctionsEnabled": false,
+    "cloudFunctionsInitialized": false
+  },
+  "isPrivate": true,
+  "customClassifierMode": "use.instead",
+  "mlMinConfidence": 0.3,
+  "supportedLanguages": []
+}

@@ -1,0 +1,52 @@
+[
+  {
+    "value": "floor",
+    "synonyms": [
+      "floor",
+      "feet"
+    ]
+  },
+  {
+    "value": "straight",
+    "synonyms": [
+      "straight"
+    ]
+  },
+  {
+    "value": "sides",
+    "synonyms": [
+      "sides"
+    ]
+  },
+  {
+    "value": "left side",
+    "synonyms": [
+      "left side"
+    ]
+  },
+  {
+    "value": "right side",
+    "synonyms": [
+      "right side"
+    ]
+  },
+  {
+    "value": "face",
+    "synonyms": [
+      "face",
+      "my face"
+    ]
+  },
+  {
+    "value": "my feet",
+    "synonyms": [
+      "my feet"
+    ]
+  },
+  {
+    "value": "head",
+    "synonyms": [
+      "head"
+    ]
+  }
+]

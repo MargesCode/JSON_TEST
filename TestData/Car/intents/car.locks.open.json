@@ -1,0 +1,48 @@
+{
+  "id": "926ac304-4b00-4af7-82fc-dcaf8d5691c1",
+  "name": "car.locks.open",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "car.locks.open",
+      "affectedContexts": [
+        {
+          "name": "car-close-open",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "ade3671f-39c0-43ba-aa48-f6a972e742d6",
+          "dataType": "@car-part",
+          "name": "car-part",
+          "value": "$car-part"
+        },
+        {
+          "id": "a716bdb5-6f3b-4f92-950c-6e5af23d8e43",
+          "dataType": "@all",
+          "name": "all",
+          "value": "$all"
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1508382216486,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,36 @@
+{
+  "id": "a6665a86-7501-41b9-98dd-036e68b9d57d",
+  "name": "car.information.how_to",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "car.information.how_to",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "d71bab9b-02b2-4866-9f59-9730d37e5adb",
+          "dataType": "@car-topic",
+          "name": "topic",
+          "value": "$topic"
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1508382216230,
+  "fallbackIntent": false,
+  "events": []
+}

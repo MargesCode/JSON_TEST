@@ -1,0 +1,206 @@
+[
+  {
+    "id": "bd2c3f29-3efd-4dee-87d1-999e53aa3ab6",
+    "data": [
+      {
+        "text": "temperature down to ",
+        "userDefined": false
+      },
+      {
+        "text": "5",
+        "alias": "final-value",
+        "meta": "@sys.number",
+        "userDefined": true
+      },
+      {
+        "text": " degrees when I ",
+        "userDefined": false
+      },
+      {
+        "text": "leave",
+        "alias": "condition",
+        "meta": "@condition",
+        "userDefined": true
+      },
+      {
+        "text": " the car",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "469714d9-14d0-4f22-ace2-c370311e50ed",
+    "data": [
+      {
+        "text": "temperature down by ",
+        "userDefined": false
+      },
+      {
+        "text": "5",
+        "alias": "change-value",
+        "meta": "@sys.number",
+        "userDefined": true
+      },
+      {
+        "text": " degrees when I ",
+        "userDefined": false
+      },
+      {
+        "text": "come",
+        "alias": "condition",
+        "meta": "@condition",
+        "userDefined": true
+      },
+      {
+        "text": " to my car",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "265e2365-c54d-4b09-8b12-61092718b8c3",
+    "data": [
+      {
+        "text": "turn down the ",
+        "userDefined": false
+      },
+      {
+        "text": "heating",
+        "alias": "device",
+        "meta": "@car-device",
+        "userDefined": true
+      },
+      {
+        "text": " in the car for ",
+        "userDefined": false
+      },
+      {
+        "text": "Mary",
+        "alias": "passenger",
+        "meta": "@sys.given-name",
+        "userDefined": true
+      },
+      {
+        "text": " when she ",
+        "userDefined": false
+      },
+      {
+        "text": "gets in",
+        "alias": "condition",
+        "meta": "@condition",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "af1bceec-76ff-467f-87dd-af67293bd496",
+    "data": [
+      {
+        "text": "turn down ",
+        "userDefined": false
+      },
+      {
+        "text": "heating",
+        "alias": "device",
+        "meta": "@car-device",
+        "userDefined": true
+      },
+      {
+        "text": " for ",
+        "userDefined": false
+      },
+      {
+        "text": "20",
+        "alias": "change-value",
+        "meta": "@sys.number",
+        "userDefined": true
+      },
+      {
+        "text": " when I ",
+        "userDefined": false
+      },
+      {
+        "text": "leave",
+        "alias": "condition",
+        "meta": "@condition",
+        "userDefined": true
+      },
+      {
+        "text": " my car",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "61f21c55-3d02-42f4-aea4-84350a471a14",
+    "data": [
+      {
+        "text": "turn down the car ",
+        "userDefined": false
+      },
+      {
+        "text": "heating",
+        "alias": "device",
+        "meta": "@car-device",
+        "userDefined": true
+      },
+      {
+        "text": " when I ",
+        "userDefined": false
+      },
+      {
+        "text": "go out",
+        "alias": "condition",
+        "meta": "@condition",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "86733f17-5d50-466d-86fb-aeece8157325",
+    "data": [
+      {
+        "text": "turn down the car ",
+        "userDefined": false
+      },
+      {
+        "text": "heating",
+        "alias": "device",
+        "meta": "@car-device",
+        "userDefined": true
+      },
+      {
+        "text": " when I ",
+        "userDefined": false
+      },
+      {
+        "text": "leave",
+        "alias": "condition",
+        "meta": "@condition",
+        "userDefined": true
+      },
+      {
+        "text": " my car",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

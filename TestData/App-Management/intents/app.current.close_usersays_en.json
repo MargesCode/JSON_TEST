@@ -1,0 +1,301 @@
+[
+  {
+    "id": "87e46793-4517-487a-8804-02934d40270c",
+    "data": [
+      {
+        "text": "close",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8717612b-59bc-450e-bcfb-40be0dd904a3",
+    "data": [
+      {
+        "text": "close your app",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b3a3666e-f2fe-42f4-a975-1080d90b87f0",
+    "data": [
+      {
+        "text": "you can close ",
+        "userDefined": false
+      },
+      {
+        "text": "now",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d8c1e0f2-d838-4b34-8f0c-be56b3d536d2",
+    "data": [
+      {
+        "text": "close",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " this program",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "abb37008-60d8-49b5-aecd-17751e1749f2",
+    "data": [
+      {
+        "text": "I would ",
+        "userDefined": false
+      },
+      {
+        "text": "like",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "to",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " shut you ",
+        "userDefined": false
+      },
+      {
+        "text": "down",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "dd6c0747-35a0-47ad-b5d1-bb8336807154",
+    "data": [
+      {
+        "text": "I\u0027d",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "like",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "to",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "close",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " you",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b4d1254d-7998-4ce2-8269-289da628b690",
+    "data": [
+      {
+        "text": "how ",
+        "userDefined": false
+      },
+      {
+        "text": "do",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "I",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "close",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " you",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f65ea4a9-db09-4941-a152-cc0c0ebbf00d",
+    "data": [
+      {
+        "text": "close ",
+        "userDefined": false
+      },
+      {
+        "text": "yourself",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "42019be8-5580-43bb-b89a-c9fe7f9d7ff0",
+    "data": [
+      {
+        "text": "close ",
+        "userDefined": false
+      },
+      {
+        "text": "this app",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "887981ea-4ab1-48cc-8b56-60c954880e67",
+    "data": [
+      {
+        "text": "shut ",
+        "userDefined": false
+      },
+      {
+        "text": "down",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " this application",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d11eaefa-06dd-4bb8-8c30-32556caee0c2",
+    "data": [
+      {
+        "text": "close ",
+        "userDefined": false
+      },
+      {
+        "text": "current app",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "cefbd4fd-8391-49c5-8857-4d2be4a18197",
+    "data": [
+      {
+        "text": "close ",
+        "userDefined": false
+      },
+      {
+        "text": "your app",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1f253023-d678-440b-be72-babbaafd3094",
+    "data": [
+      {
+        "text": "close ",
+        "userDefined": false
+      },
+      {
+        "text": "you",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "326d13ec-3b5f-401b-8978-662a5116dfe9",
+    "data": [
+      {
+        "text": "close ",
+        "userDefined": false
+      },
+      {
+        "text": "your application",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

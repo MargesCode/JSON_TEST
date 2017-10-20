@@ -1,0 +1,200 @@
+[
+  {
+    "id": "c40207dc-3373-4dad-8142-b9fb10a8277f",
+    "data": [
+      {
+        "text": "close ",
+        "userDefined": false
+      },
+      {
+        "text": "Twitter",
+        "alias": "app-name",
+        "meta": "@app-name",
+        "userDefined": true
+      },
+      {
+        "text": " settings",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ba42caad-e2bd-46db-a24d-8fe8ac99a679",
+    "data": [
+      {
+        "text": "could you close ",
+        "userDefined": false
+      },
+      {
+        "text": "Instagram",
+        "alias": "app-name",
+        "meta": "@app-name",
+        "userDefined": true
+      },
+      {
+        "text": " settings",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "26871a64-d7da-418c-8d07-bc842cd36d99",
+    "data": [
+      {
+        "text": "close up ",
+        "userDefined": false
+      },
+      {
+        "text": "Skype",
+        "alias": "app-name",
+        "meta": "@app-name",
+        "userDefined": true
+      },
+      {
+        "text": " settings menu",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b380e888-ed2c-4b00-b620-b2306db073d3",
+    "data": [
+      {
+        "text": "can you close ",
+        "userDefined": false
+      },
+      {
+        "text": "Chrome",
+        "alias": "app-name",
+        "meta": "@app-name",
+        "userDefined": true
+      },
+      {
+        "text": " settings",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "dff5f0a5-a79f-4dfb-8fbd-3447004f01cf",
+    "data": [
+      {
+        "text": "I\u0027d like to close ",
+        "userDefined": false
+      },
+      {
+        "text": "Slack",
+        "alias": "app-name",
+        "meta": "@app-name",
+        "userDefined": true
+      },
+      {
+        "text": " app settings",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "17171157-e556-4db4-9683-d61dbea8b127",
+    "data": [
+      {
+        "text": "close ",
+        "userDefined": false
+      },
+      {
+        "text": "Fruit Ninja",
+        "alias": "app-name",
+        "meta": "@app-name",
+        "userDefined": true
+      },
+      {
+        "text": " settings",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b94fd69d-f4bf-4bfc-8f8a-55c80788bba2",
+    "data": [
+      {
+        "text": "could you close ",
+        "userDefined": false
+      },
+      {
+        "text": "Facebook",
+        "alias": "app-name",
+        "meta": "@app-name",
+        "userDefined": true
+      },
+      {
+        "text": " settings",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d80cf1ff-12fd-4bdb-9998-64943461da28",
+    "data": [
+      {
+        "text": "I\u0027d like to close ",
+        "userDefined": false
+      },
+      {
+        "text": "Twitter",
+        "alias": "app-name",
+        "meta": "@app-name",
+        "userDefined": true
+      },
+      {
+        "text": " app settings",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3f8d800b-0e8f-41a8-a0c7-0677a9fd752d",
+    "data": [
+      {
+        "text": "how can I close the settings of the ",
+        "userDefined": false
+      },
+      {
+        "text": "Angry Birds",
+        "alias": "app-name",
+        "meta": "@app-name",
+        "userDefined": true
+      },
+      {
+        "text": " app",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

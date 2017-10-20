@@ -1,0 +1,44 @@
+{
+  "id": "2d24b9b4-e0f2-4e28-9960-e3f5bbb49243",
+  "name": "date.holiday.since",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "date.holiday.since",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "b5a2a94a-b3ee-4b29-89d2-8cd808c9cc56",
+          "dataType": "@unit-time",
+          "name": "unit",
+          "value": "$unit",
+          "isList": false
+        },
+        {
+          "id": "c061667f-7234-4b17-8c7e-2355d52e39b7",
+          "dataType": "@holiday",
+          "name": "holiday",
+          "value": "$holiday",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1508382294510,
+  "fallbackIntent": false,
+  "events": []
+}

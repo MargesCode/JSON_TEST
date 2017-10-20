@@ -1,0 +1,67 @@
+{
+  "id": "36adb8cf-70fa-451d-b3fe-a19f1741d98b",
+  "name": "car.ac.down",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "car.ac.down",
+      "affectedContexts": [
+        {
+          "name": "car-ac",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "a56659fd-8006-4ebc-a96c-548f066a7ad7",
+          "dataType": "@car-device",
+          "name": "device",
+          "value": "$device"
+        },
+        {
+          "id": "cd250f96-44c0-4117-b474-fab542fcea77",
+          "dataType": "@sys.number",
+          "name": "change-value",
+          "value": "$change-value"
+        },
+        {
+          "id": "90262d06-78cb-4d5a-8b7a-3b76c61a2ba5",
+          "dataType": "@air-direction",
+          "name": "air-distribution",
+          "value": "$air-distribution",
+          "isList": true
+        },
+        {
+          "id": "9cbec7d7-414b-4f75-8fe2-9f228a22331c",
+          "dataType": "@sys.given-name",
+          "name": "passenger",
+          "value": "$passenger"
+        },
+        {
+          "id": "0fd45fcd-a63f-471d-80b5-082e305d00cb",
+          "dataType": "@sys.number",
+          "name": "final-value",
+          "value": "$final-value"
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1508382216711,
+  "fallbackIntent": false,
+  "events": []
+}

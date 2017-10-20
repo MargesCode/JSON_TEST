@@ -1,0 +1,29 @@
+{
+  "id": "de8b164e-7243-4949-b35b-e5093aca22bd",
+  "name": "car.alarm.off",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "car.alarm.off",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1508382216889,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,38 @@
+{
+  "id": "6a7431ff-0439-40c1-b4a7-61b9a8d89def",
+  "name": "date.check - context:date-check",
+  "auto": true,
+  "contexts": [
+    "date-check"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "date.check",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "e86528d0-37f6-4b00-b8d7-6c727ff8a826",
+          "dataType": "@sys.location",
+          "name": "location",
+          "value": "$location"
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1508382294532,
+  "fallbackIntent": false,
+  "events": []
+}

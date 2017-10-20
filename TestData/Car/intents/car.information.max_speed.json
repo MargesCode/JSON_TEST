@@ -1,0 +1,29 @@
+{
+  "id": "900f3ecb-77d2-47ef-9a78-c025e81629dc",
+  "name": "car.information.max_speed",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "car.information.max_speed",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1508382216462,
+  "fallbackIntent": false,
+  "events": []
+}

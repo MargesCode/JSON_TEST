@@ -1,0 +1,711 @@
+[
+  {
+    "id": "63a8d864-8700-4b0f-b430-8bf59a620058",
+    "data": [
+      {
+        "text": "it\u0027s cold here in the car turn it on",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c7f5c65a-208f-493c-9229-08ab5e0ec8f0",
+    "data": [
+      {
+        "text": "turn on ",
+        "userDefined": false
+      },
+      {
+        "text": "air conditioner",
+        "alias": "device",
+        "meta": "@car-device",
+        "userDefined": false
+      },
+      {
+        "text": " for ",
+        "userDefined": false
+      },
+      {
+        "text": "driver",
+        "alias": "car-part",
+        "meta": "@car-seat",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c7915c9b-e18c-4a63-83e8-133682254d2b",
+    "data": [
+      {
+        "text": "give",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "me",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " some ",
+        "userDefined": false
+      },
+      {
+        "text": "cool",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " air ",
+        "userDefined": false
+      },
+      {
+        "text": "in",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "the car",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "658525b9-7193-4bf0-85a4-10a7e2d9f63d",
+    "data": [
+      {
+        "text": "make the air blow ",
+        "userDefined": false
+      },
+      {
+        "text": "straight",
+        "alias": "air-distribution",
+        "meta": "@air-direction",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "to",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Mary",
+        "alias": "passenger",
+        "meta": "@sys.given-name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7a3ecfe6-68a5-4307-91c2-b233dde97116",
+    "data": [
+      {
+        "text": "make ",
+        "userDefined": false
+      },
+      {
+        "text": "air conditioner",
+        "alias": "device",
+        "meta": "@car-device",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "to",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "8",
+        "alias": "final-value",
+        "meta": "@sys.number",
+        "userDefined": true
+      },
+      {
+        "text": " degrees ",
+        "userDefined": false
+      },
+      {
+        "text": "in",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "the car",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9f3478ec-7520-432f-bd4c-fe809e6b281c",
+    "data": [
+      {
+        "text": "turn on",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "auto mode",
+        "alias": "automode",
+        "meta": "@automode",
+        "userDefined": true
+      },
+      {
+        "text": " for ",
+        "userDefined": false
+      },
+      {
+        "text": "air conditioning",
+        "alias": "device",
+        "meta": "@car-device",
+        "userDefined": true
+      },
+      {
+        "text": " for ",
+        "userDefined": false
+      },
+      {
+        "text": "Kate",
+        "alias": "passenger",
+        "meta": "@sys.given-name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0c489a0e-5c24-4bc4-86c8-4f20bc2aab8a",
+    "data": [
+      {
+        "text": "switch ",
+        "userDefined": false
+      },
+      {
+        "text": "on",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "air conditioning",
+        "alias": "device",
+        "meta": "@car-device",
+        "userDefined": true
+      },
+      {
+        "text": " for ",
+        "userDefined": false
+      },
+      {
+        "text": "Carol",
+        "alias": "passenger",
+        "meta": "@sys.given-name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e6345bc0-7241-4590-9d74-0988f0a0447c",
+    "data": [
+      {
+        "text": "direct air flow to the ",
+        "userDefined": false
+      },
+      {
+        "text": "floor",
+        "alias": "air-distribution",
+        "meta": "@air-direction",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "917046a0-014a-49e2-87bb-fc08f02149c8",
+    "data": [
+      {
+        "text": "change ",
+        "userDefined": false
+      },
+      {
+        "text": "air conditioning",
+        "alias": "device",
+        "meta": "@car-device",
+        "userDefined": true
+      },
+      {
+        "text": " direction to ",
+        "userDefined": false
+      },
+      {
+        "text": "straight",
+        "alias": "air-distribution",
+        "meta": "@air-direction",
+        "userDefined": true
+      },
+      {
+        "text": " position",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "23d6b4c4-8ef4-4527-8133-fe0b06f9515f",
+    "data": [
+      {
+        "text": "turn on ",
+        "userDefined": false
+      },
+      {
+        "text": "auto mode",
+        "alias": "automode",
+        "meta": "@automode",
+        "userDefined": true
+      },
+      {
+        "text": " for ",
+        "userDefined": false
+      },
+      {
+        "text": "air conditioning",
+        "alias": "device",
+        "meta": "@car-device",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "53e40c6e-9e6d-4700-b5db-507974681c3a",
+    "data": [
+      {
+        "text": "turn on ",
+        "userDefined": false
+      },
+      {
+        "text": "air conditioner",
+        "alias": "device",
+        "meta": "@car-device",
+        "userDefined": true
+      },
+      {
+        "text": " in my car",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e86a3401-555c-44d8-a634-58759b76fe18",
+    "data": [
+      {
+        "text": "turn ",
+        "userDefined": false
+      },
+      {
+        "text": "on",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "air conditioning",
+        "alias": "device",
+        "meta": "@car-device",
+        "userDefined": true
+      },
+      {
+        "text": " for my ",
+        "userDefined": false
+      },
+      {
+        "text": "car",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "94da5848-332b-4663-b4e4-06ff0255f61b",
+    "data": [
+      {
+        "text": "switch ",
+        "userDefined": false
+      },
+      {
+        "text": "on",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "air conditioning",
+        "alias": "device",
+        "meta": "@car-device",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "85d7daea-3c7a-4840-b385-c1c0d2cc9d72",
+    "data": [
+      {
+        "text": "turn ",
+        "userDefined": false
+      },
+      {
+        "text": "air conditioning",
+        "alias": "device",
+        "meta": "@car-device",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "on",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1428852f-39f3-417a-b800-f24f04d4b970",
+    "data": [
+      {
+        "text": "turn ",
+        "userDefined": false
+      },
+      {
+        "text": "on",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " the ",
+        "userDefined": false
+      },
+      {
+        "text": "heating",
+        "alias": "device",
+        "meta": "@car-device",
+        "userDefined": true
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "the car",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "83344f4a-31b5-4d20-b7df-b8dae70a67e3",
+    "data": [
+      {
+        "text": "heating",
+        "alias": "device",
+        "meta": "@car-device",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "on",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "the car",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bb91eacb-f071-4579-a5a2-da6d4fa2be53",
+    "data": [
+      {
+        "text": "I want ",
+        "userDefined": false
+      },
+      {
+        "text": "to",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "feel",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " the air ",
+        "userDefined": false
+      },
+      {
+        "text": "on",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "my feet",
+        "alias": "air-distribution",
+        "meta": "@air-direction",
+        "userDefined": true
+      },
+      {
+        "text": " and my ",
+        "userDefined": false
+      },
+      {
+        "text": "head",
+        "alias": "air-distribution",
+        "meta": "@air-direction",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a728a82c-b772-46e3-9bf3-6ccdd8910f6b",
+    "data": [
+      {
+        "text": "set ",
+        "userDefined": false
+      },
+      {
+        "text": "the car",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " temperature to ",
+        "userDefined": false
+      },
+      {
+        "text": "25",
+        "alias": "final-value",
+        "meta": "@sys.number",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1e1e6f36-d399-4888-87fb-6996305c1300",
+    "data": [
+      {
+        "text": "direct airflow to ",
+        "userDefined": false
+      },
+      {
+        "text": "my face",
+        "alias": "air-distribution",
+        "meta": "@air-direction",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "92f1be7d-f68d-4c80-bcce-ad135803b3db",
+    "data": [
+      {
+        "text": "direct airflow to ",
+        "userDefined": false
+      },
+      {
+        "text": "my face",
+        "alias": "air-distribution",
+        "meta": "@air-direction",
+        "userDefined": true
+      },
+      {
+        "text": " and ",
+        "userDefined": false
+      },
+      {
+        "text": "my feet",
+        "alias": "air-distribution",
+        "meta": "@air-direction",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c20cef3c-fbd7-4181-864e-19c81f75878b",
+    "data": [
+      {
+        "text": "I want to feel the air on ",
+        "userDefined": false
+      },
+      {
+        "text": "my feet",
+        "alias": "air-distribution",
+        "meta": "@air-direction",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f030023d-7dd6-4c29-b4b6-05687263faad",
+    "data": [
+      {
+        "text": "set the car temperature to ",
+        "userDefined": false
+      },
+      {
+        "text": "25",
+        "alias": "final-value",
+        "meta": "@sys.number",
+        "userDefined": true
+      },
+      {
+        "text": " C",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0b300793-c2d1-4929-bd07-b0a661c53c6f",
+    "data": [
+      {
+        "text": "turn car\u0027s ",
+        "userDefined": false
+      },
+      {
+        "text": "air conditioning",
+        "alias": "device",
+        "meta": "@car-device",
+        "userDefined": true
+      },
+      {
+        "text": " on",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

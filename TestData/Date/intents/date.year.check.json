@@ -1,0 +1,36 @@
+{
+  "id": "df0a36bc-f4bc-45bd-9770-1dec0d384f03",
+  "name": "date.year.check",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "date.year.check",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "a1780198-99ad-41cd-b030-ca3924f42916",
+          "dataType": "@sys.date-period",
+          "name": "date-period",
+          "value": "$date-period"
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1508382294449,
+  "fallbackIntent": false,
+  "events": []
+}

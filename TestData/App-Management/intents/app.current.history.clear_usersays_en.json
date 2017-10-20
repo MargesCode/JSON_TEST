@@ -1,0 +1,83 @@
+[
+  {
+    "id": "d36f72ba-72de-48a4-b757-9bfe881da81f",
+    "data": [
+      {
+        "text": "forget what I just said",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6d0d0b0d-5e70-4add-8e94-238b65bd0229",
+    "data": [
+      {
+        "text": "clear history",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8da94396-7a7c-411c-9605-8013e63f87df",
+    "data": [
+      {
+        "text": "could you clear our conversations history",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ff744f26-4f9b-46b9-b77b-da5c59c6f82b",
+    "data": [
+      {
+        "text": "erase ",
+        "userDefined": false
+      },
+      {
+        "text": "all",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " our conversations",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5a42ea36-7d85-4b78-b1d9-3b076ecf6013",
+    "data": [
+      {
+        "text": "clear the history of our conversations",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9b91a969-a4c8-407e-a417-b87b3f5a87a0",
+    "data": [
+      {
+        "text": "forget our conversations",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

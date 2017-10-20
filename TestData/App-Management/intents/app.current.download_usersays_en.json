@@ -1,0 +1,175 @@
+[
+  {
+    "id": "e5346cd9-91ef-465a-9d4b-cc586deff734",
+    "data": [
+      {
+        "text": "download ",
+        "userDefined": false
+      },
+      {
+        "text": "your",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "app",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d500feeb-7ee0-4295-869f-6f49a6643eb8",
+    "data": [
+      {
+        "text": "are you available in ",
+        "userDefined": false
+      },
+      {
+        "text": "Google Play Store",
+        "alias": "store-name",
+        "meta": "@app-store-name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1d95e483-1c71-47f4-b91f-75870f7015fa",
+    "data": [
+      {
+        "text": "can I download your app in ",
+        "userDefined": false
+      },
+      {
+        "text": "App Store",
+        "alias": "store-name",
+        "meta": "@app-store-name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4ceca4e2-83f9-4e94-b426-b0541587dceb",
+    "data": [
+      {
+        "text": "from where can I download your app",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4f6892bf-ae26-4daa-be80-7ceaf2251b97",
+    "data": [
+      {
+        "text": "where can I download your app",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "50386a4d-b632-4ff9-82be-8c6a894f19f9",
+    "data": [
+      {
+        "text": "I want to download your app",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e59802e7-6656-4bca-a9b1-9ec9f88598ac",
+    "data": [
+      {
+        "text": "download yourself from ",
+        "userDefined": false
+      },
+      {
+        "text": "Play Store",
+        "alias": "store-name",
+        "meta": "@app-store-name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9b3970cd-e3f1-46bc-a9f0-b7289d9351e7",
+    "data": [
+      {
+        "text": "load ",
+        "userDefined": false
+      },
+      {
+        "text": "your",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " application from ",
+        "userDefined": false
+      },
+      {
+        "text": "App Store",
+        "alias": "store-name",
+        "meta": "@app-store-name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "cc9936fe-b376-4d5c-b55f-759964699d04",
+    "data": [
+      {
+        "text": "download your app from ",
+        "userDefined": false
+      },
+      {
+        "text": "Play Store",
+        "alias": "store-name",
+        "meta": "@app-store-name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a6b13980-e280-4e7b-948d-ec7770833d0c",
+    "data": [
+      {
+        "text": "download you",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

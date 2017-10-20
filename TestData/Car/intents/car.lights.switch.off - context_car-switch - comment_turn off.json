@@ -1,0 +1,31 @@
+{
+  "id": "040e2eaf-3384-4cf0-9721-778462311d59",
+  "name": "car.lights.switch.off - context:car-switch - comment:turn off",
+  "auto": true,
+  "contexts": [
+    "car-switch"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "car.lights.switch.off",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1508382216351,
+  "fallbackIntent": false,
+  "events": []
+}

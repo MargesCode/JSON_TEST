@@ -1,0 +1,220 @@
+[
+  {
+    "id": "e525bbc3-03ce-40e6-b6f0-e90c254cef24",
+    "data": [
+      {
+        "text": "update ",
+        "userDefined": false
+      },
+      {
+        "text": "all",
+        "alias": "all",
+        "meta": "@all",
+        "userDefined": true
+      },
+      {
+        "text": " my apps",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5d1d64b7-62a6-4e56-9f31-16184c29a3cd",
+    "data": [
+      {
+        "text": "update ",
+        "userDefined": false
+      },
+      {
+        "text": "Instagram",
+        "alias": "app-name",
+        "meta": "@app-name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7bdfb614-5428-4071-b828-e5b7e33341d1",
+    "data": [
+      {
+        "text": "Kik",
+        "alias": "app-name",
+        "meta": "@app-name",
+        "userDefined": false
+      },
+      {
+        "text": " app updates",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e856cb0e-678d-4a5a-8809-8abe5a2a9b4c",
+    "data": [
+      {
+        "text": "can you update apps",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "52d1447e-1118-4ea2-9e9f-40d711e80097",
+    "data": [
+      {
+        "text": "Google Chrome",
+        "alias": "app-name",
+        "meta": "@app-name",
+        "userDefined": true
+      },
+      {
+        "text": " update",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e33ed894-129f-4424-98cd-c9a0e6a6fc43",
+    "data": [
+      {
+        "text": "could you update ",
+        "userDefined": false
+      },
+      {
+        "text": "Twitter",
+        "alias": "app-name",
+        "meta": "@app-name",
+        "userDefined": false
+      },
+      {
+        "text": " app",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a6fa618b-bd8b-458e-884e-210ce316e43f",
+    "data": [
+      {
+        "text": "I\u0027d like to update ",
+        "userDefined": false
+      },
+      {
+        "text": "all",
+        "alias": "all",
+        "meta": "@all",
+        "userDefined": true
+      },
+      {
+        "text": " my apps",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7e04da31-f6a8-4501-88d5-9dda6a58f96e",
+    "data": [
+      {
+        "text": "update ",
+        "userDefined": false
+      },
+      {
+        "text": "Facebook",
+        "alias": "app-name",
+        "meta": "@app-name",
+        "userDefined": true
+      },
+      {
+        "text": " to the latest version",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "54e268bb-dde5-4518-a423-87cdb8a91bb1",
+    "data": [
+      {
+        "text": "where can I update apps",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3c599aba-cf22-4efc-b03f-434820640e7d",
+    "data": [
+      {
+        "text": "update ",
+        "userDefined": false
+      },
+      {
+        "text": "Skype",
+        "alias": "app-name",
+        "meta": "@app-name",
+        "userDefined": false
+      },
+      {
+        "text": " for me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4eb91490-7fd4-4c36-afa1-17ff63176676",
+    "data": [
+      {
+        "text": "I\u0027d like to update an app",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d9a6dba1-69f2-45f9-b2b6-8331fb03e336",
+    "data": [
+      {
+        "text": "how can I update ",
+        "userDefined": false
+      },
+      {
+        "text": "Slack",
+        "alias": "app-name",
+        "meta": "@app-name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

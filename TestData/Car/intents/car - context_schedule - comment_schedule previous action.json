@@ -1,0 +1,46 @@
+{
+  "id": "c2a2dcc6-bff9-42f9-8756-61e22aff250b",
+  "name": "car - context:schedule - comment:schedule previous action",
+  "auto": true,
+  "contexts": [
+    "schedule"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "#schedule.intent_action",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "8ea9e2d3-15d8-4f36-9a58-5b04f950f833",
+          "dataType": "@recurrence",
+          "name": "recurrence",
+          "value": "$recurrence",
+          "isList": false
+        },
+        {
+          "id": "ccef5d49-e749-4f3b-9e65-d57f1e098d1b",
+          "dataType": "@sys.date-time",
+          "name": "date-time",
+          "value": "$date-time",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1508382216474,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,59 @@
+{
+  "id": "ef0b84c6-3f69-46d3-934e-ed06f34bf7fd",
+  "name": "car.lights.switch.off",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "car.lights.switch.off",
+      "affectedContexts": [
+        {
+          "name": "car-switch",
+          "parameters": {},
+          "lifespan": 5
+        },
+        {
+          "name": "schedule",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "fb44cf2f-faf1-4305-89a0-1c22e8dabc2f",
+          "dataType": "@car-light",
+          "name": "car-part",
+          "value": "$car-part"
+        },
+        {
+          "id": "94bfd0e9-1e2c-4e39-b572-b37a6d2b6887",
+          "dataType": "@all",
+          "name": "all",
+          "value": "$all"
+        },
+        {
+          "id": "f0ee6277-96c8-414e-984f-f8f31f28f72c",
+          "dataType": "@sys.given-name",
+          "name": "passenger",
+          "value": "$passenger"
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1508382216787,
+  "fallbackIntent": false,
+  "events": []
+}

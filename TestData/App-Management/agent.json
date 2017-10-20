@@ -1,0 +1,33 @@
+{
+  "description": "With your app, this agent allows users to manage their apps and app settings. This is ideal for hand-free situations and can help when your app has a more complex UI. Instead of tapping around for what they need, users can just ask.",
+  "language": "en",
+  "shortDescription": "Manage your applications, user controlled settings, and preferences",
+  "examples": "User: Could you launch Spotify please?\nUser: I want to download Vine from the Play Store.\nUser: Update all my apps.\nUser: Search for a new music player app.\nUser: Open Notifications settings.\nUser: What can this app do?\nUser: Clear history.\nUser: Can you show me your voice settings?",
+  "activeAssistantAgents": [],
+  "googleAssistant": {
+    "googleAssistantCompatible": false,
+    "project": "app-management-57dde",
+    "welcomeIntentSignInRequired": false,
+    "startIntents": [],
+    "systemIntents": [],
+    "endIntentIds": [],
+    "oAuthLinking": {
+      "required": false,
+      "grantType": "AUTH_CODE_GRANT"
+    },
+    "voiceType": "MALE_1",
+    "capabilities": [],
+    "protocolVersion": "V2"
+  },
+  "defaultTimezone": "",
+  "webhook": {
+    "available": false,
+    "useForDomains": false,
+    "cloudFunctionsEnabled": false,
+    "cloudFunctionsInitialized": false
+  },
+  "isPrivate": true,
+  "customClassifierMode": "use.instead",
+  "mlMinConfidence": 0.3,
+  "supportedLanguages": []
+}
